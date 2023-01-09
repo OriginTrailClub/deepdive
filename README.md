@@ -24,7 +24,7 @@ When combining these two, it provides a backbone that decentralized applications
 
 OriginTrail is currently used by the [**British Standard Institution (BSI)**](https://www.bsigroup.com/en-GB/)**,** [**SCAN Association**](https://www.scanassociation.com/)**,** [**The World Federation of Hemophilia (WFH)**](https://wfh.org/)**,** [**EU-funded SmartAgriHubs**](https://www.smartagrihubs.eu/flagship-innovation-experiment/28-FIE-decentralised-trust-in-agrifood-supply-chains)**,** [**Swiss Federal Railways (SBB)**](https://www.sbb.ch/en)**,** [**Acala**](https://acala.network/)**,** [**PolkaDot**](https://polkadot.network/) and many more (see below).
 
-<figure><img src="https://pbs.twimg.com/media/FaxGUmKWQAE3fgF?format=jpg&#x26;name=4096x4096" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/E1V7Lu-XIAArWEn.jpg" alt=""><figcaption></figcaption></figure>
 
 ### For starters, let's delve into this video
 
