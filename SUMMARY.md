@@ -16,6 +16,7 @@
   * [BSI Healthcare – AidTrust](part-2-advisors-and-partners/bsi-healthcare-aidtrust.md)
   * [BSI Healthcare - MMSC](part-2-advisors-and-partners/bsi-healthcare-mmsc.md)
   * [BSI - SCAN](part-2-advisors-and-partners/bsi-scan.md)
+  * [BUILDCHAIN Project](part-2-advisors-and-partners/buildchain-project.md)
   * [Trace Alliance](part-2-advisors-and-partners/trace-alliance.md)
   * [Oracle](part-2-advisors-and-partners/oracle/README.md)
     * [Network Operating System (nOS)](part-2-advisors-and-partners/oracle/network-operating-system-nos.md)
