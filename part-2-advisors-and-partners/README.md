@@ -8,6 +8,6 @@ coverY: -1003.0682994135909
 
 In this next section, we will cover the most significant partners of the OriginTrail ecosystem.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 The first one we will cover is British Standards Institution, the national standards body of the United Kingdom.&#x20;
