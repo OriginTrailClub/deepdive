@@ -12,6 +12,7 @@
   * [Decentralized Knowledge Graphs](competitors/decentralized-knowledge-graphs.md)
 * [Partners](part-2-advisors-and-partners/README.md)
   * [BSI](part-2-advisors-and-partners/bsi.md)
+  * [Sustainable Medecines Partnership (SMP)](part-2-advisors-and-partners/sustainable-medecines-partnership-smp.md)
   * [BSI Healthcare – AidTrust](part-2-advisors-and-partners/bsi-healthcare-aidtrust.md)
   * [BSI Healthcare - MMSC](part-2-advisors-and-partners/bsi-healthcare-mmsc.md)
   * [BSI - SCAN](part-2-advisors-and-partners/bsi-scan.md)

@@ -6,7 +6,7 @@ description: >-
 
 # BSI - SCAN
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Supplier Compliance Audit Network (SCAN) is an association of North American retailers exercising $1.5 trillion annual purchasing power.&#x20;
 
