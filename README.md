@@ -1,22 +1,33 @@
 ---
 description: >-
-  OriginTrail Deep Dive is an all-in-one central hub linking to all pertinent
-  sources and explaining OriginTrail and its utility token, TRAC, to the general
-  public
+  OriginTrail Deep Dive is an all-in-one resource explaining OriginTrail and its
+  utility token, TRAC, to the general public.
 cover: .gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
 coverY: -901.1107278371853
 ---
 
 # Introduction
 
-OriginTrail is an **open protocol** that can integrate blockchains and legacy systems through open standards – full compliance with [GS1](https://www.gs1.org/), [EPCIS 2.0/CBV](https://medium.com/origintrail/origintrail-joins-the-gs1-global-epcis-cbv-2-0-a032b98d9437) and [W3C](https://www.w3.org/standards/).
+OriginTrail is an **open protocol** that blends the power of **blockchain** technology and **knowledge graphs** to revolutionize the way **data** is managed, stored, and utilized.&#x20;
 
-Simply put, it is the combination of two technologies:
+In other words, it is the combination of two technologies:
 
-1. [Knowledge Graphs](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/) – which are advanced databases used by big tech companies such as Google, Amazon, Facebook, Twitter, Uber to derive value from user data.
-2. Blockchain – which enables decentralization, meaning the database is not controlled by for-profit companies.
+1. ****[**Knowledge Graphs**](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/) – which are advanced databases used by big tech companies such as Google, Amazon, Facebook, Twitter, Uber to derive value from user data.
+2. **Blockchain** – which enables decentralization, meaning the database is not controlled by for-profit companies.
 
-When combining these two, it provides a backbone that decentralized applications can be built on, leveling the playing field and giving users back control of their data. OriginTrail **Decentralized Knowledge Graph** makes physical assets (art, healthcare, fashion, education) and digital assets (Metaverse, NFTs, blockchain, DeFi) **discoverable**, **verifiable** and **valuable**.&#x20;
+{% hint style="success" %}
+#### The combination of knowledge graphs and blockchain creates a decentralized database which will serve as the backbone for an open, neutral and transparent application of **Artificial Intelligence**.&#x20;
+{% endhint %}
+
+makes physical assets (art, healthcare, fashion, education) and digital assets (Metaverse, NFTs, blockchain, DeFi) **discoverable**, **verifiable** and **valuable**.&#x20;
+
+OriginTrail's Decentralized Knowledge Graph, physical and digital assets, such as art, healthcare, fashion, education, and NFTs, can be discovered, verified, and leveraged for increased value and insights.
+
+By giving users back control of their data, OriginTrail's Decentralized Knowledge Graph (DKG) offers a level playing field where data is controlled by the users and not monopolized by for-profit companies. This ensures a more equitable distribution of the benefits of AI and promotes a more open, neutral, and transparent future for the technology.
+
+The Decentralized Knowledge Graph accepts all d
+
+
 
 {% hint style="info" %}
 #### OriginTrail is the portal to all Web2 assets to the Semantic Web. In other words, they are building the decentralized ** **<mark style="color:blue;">**Google for Web3**</mark>**.**
