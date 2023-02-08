@@ -8,7 +8,7 @@ coverY: -901.1107278371853
 
 # Introduction
 
-OriginTrail is an **open protocol** that blends the power of **blockchain** technology and **knowledge graphs** to revolutionize the way **data** is managed, stored, and utilized.&#x20;
+OriginTrail is an **open protocol** that blends the power of **blockchain** technology and **knowledge graphs** to revolutionize the way **data** is managed, stored, and utilized in **Artificial Intelligence** and other applications.&#x20;
 
 In other words, it is the combination of two technologies:
 
@@ -16,44 +16,46 @@ In other words, it is the combination of two technologies:
 2. **Blockchain** – which enables decentralization, meaning the database is not controlled by for-profit companies.
 
 {% hint style="success" %}
-#### The combination of knowledge graphs and blockchain creates a decentralized database which will serve as the backbone for an open, neutral and transparent application of **Artificial Intelligence**.&#x20;
+#### This combination creates a decentralized database which will serve as the backbone for an open, neutral and transparent application of **Artificial Intelligence**.&#x20;
 {% endhint %}
 
-makes physical assets (art, healthcare, fashion, education) and digital assets (Metaverse, NFTs, blockchain, DeFi) **discoverable**, **verifiable** and **valuable**.&#x20;
+By giving users back control of their data, OriginTrail's Decentralized Knowledge Graph (DKG) offers a level playing field where data is controlled by the users and not monopolized by for-profit companies.&#x20;
 
-OriginTrail's Decentralized Knowledge Graph, physical and digital assets, such as art, healthcare, fashion, education, and NFTs, can be discovered, verified, and leveraged for increased value and insights.
-
-By giving users back control of their data, OriginTrail's Decentralized Knowledge Graph (DKG) offers a level playing field where data is controlled by the users and not monopolized by for-profit companies. This ensures a more equitable distribution of the benefits of AI and promotes a more open, neutral, and transparent future for the technology.
-
-The Decentralized Knowledge Graph accepts all d
-
-
+## Data and Artificial Intelligence
 
 {% hint style="info" %}
-#### OriginTrail is the portal to all Web2 assets to the Semantic Web. In other words, they are building the decentralized ** **<mark style="color:blue;">**Google for Web3**</mark>**.**
+**Metcalfe's Law** states that the **value of a network** grows exponentially with the **number of its users**. This implies that **connectivity** is the real source of value in a network.
 {% endhint %}
 
-OriginTrail is currently used by the [**British Standard Institution (BSI)**](https://www.bsigroup.com/en-GB/)**,** [**SCAN Association**](https://www.scanassociation.com/)**,** [**The World Federation of Hemophilia (WFH)**](https://wfh.org/)**,** [**EU-funded SmartAgriHubs**](https://www.smartagrihubs.eu/flagship-innovation-experiment/28-FIE-decentralised-trust-in-agrifood-supply-chains)**,** [**Swiss Federal Railways (SBB)**](https://www.sbb.ch/en)**,** [**Acala**](https://acala.network/)**,** [**PolkaDot**](https://polkadot.network/) and many more (see below).
+In other words, **Data** becomes exponentially more valuable when it's connected. Currently, a limited number of corporations control the majority of data, leaving those who are wary of sharing their data due to **trust concerns** with less valuable data. **The Decentralized Knowledge Graph eliminates this trust barrier** by creating an open, transparent network that enables all individuals to share and connect their data while maintaining ownership of their data.
 
-<figure><img src=".gitbook/assets/E1V7Lu-XIAArWEn.jpg" alt=""><figcaption></figcaption></figure>
+The DKG becomes the black hole of data where all centralized or decentralized AI technologies, such as **Google's Bard**, **Microsoft's ChatGPT**, **Fetch AI** and **Bittensor**, to be linked together and built upon, resulting in a more transparent, interconnected and valuable ecosystem.
 
-### For starters, let's delve into this video
-
-{% embed url="https://www.youtube.com/watch?t=1s&v=AsCUigu39Hw" %}
-OriginTrail - the world's first Decentralized Knowledge Graph
-{% endembed %}
+{% hint style="success" %}
+#### The Decentralized Knowledge Graph is the portal of humanity's data to the Semantic Web and Artificial Intelligence. In other words, the core team of OriginTrail is building the decentralized ** **<mark style="color:blue;">**Google for Web3**</mark>** and the **<mark style="color:blue;">**Brain of AI**</mark>**.**&#x20;
+{% endhint %}
 
 ### Let's hear a few words from the Father of Ethernet
 
-### Dr. Bob Metcalfe
+### Dr. Bob Metcalfe, advisor of OriginTrail
 
-<figure><img src="https://eadn-wc01-5964675.nxedge.io/wp-content/uploads/2015/07/Bob_Metcalfe.jpg" alt=""><figcaption><p>The Father of Ethernet, Inventor of Metcalfe's Law</p></figcaption></figure>
+<figure><img src="https://eadn-wc01-5964675.nxedge.io/wp-content/uploads/2015/07/Bob_Metcalfe.jpg" alt=""><figcaption><p>The Father of Ethernet, Inventor of Metcalfe's Law, advisor of OriginTrail</p></figcaption></figure>
 
 > #### “OriginTrail is going to continue to rise because the Decentralized Knowledge Graph will give AI more and more data.”
 >
->
->
 > #### “The weakness of OriginTrail is that it’s too complicated to explain to ordinary mortals. The technology appears a bit like middleware, which is a category that only tends to excite a handful of people, and I’m one of them” [source](https://www.zdnet.com/article/ethernet-creator-metcalfe-web3-will-have-all-kinds-of-network-effects/)
+>
+> #### "The decentralized knowledge graphs will make possible a kind of eternal springtime for artificial intelligence."
+>
+> #### "AI was invented in about 1968, when I was a graduate student. And for years, AI would rise and then it would fall, and it fell because AI ran out of data."
+>
+> #### "Well, it's not going to fall, it's going to continue to rise, because the decentralized knowledge graphs are going to give AI more and more data." [**source**](how-to-contribute.md)****
+
+OriginTrail is currently used by the [**British Standard Institution (BSI)**](https://www.bsigroup.com/en-GB/)**,** [**SCAN Association**](https://www.scanassociation.com/)**,** [**The World Federation of Hemophilia (WFH)**](https://wfh.org/)**,** [**EU-funded SmartAgriHubs**](https://www.smartagrihubs.eu/flagship-innovation-experiment/28-FIE-decentralised-trust-in-agrifood-supply-chains)**,** [**Swiss Federal Railways (SBB)**](https://www.sbb.ch/en)**,** [**Construction industry**](https://medium.com/origintrail/european-union-supports-sustainability-of-construction-industry-with-the-buildchain-project-fcd8253b74ed)**,** [**Pharmaceutical industry**](https://medium.com/origintrail/trace-labs-the-core-development-company-of-origintrail-joins-sustainable-medicines-partnership-to-56173f134754)**,** [**Acala**](https://acala.network/)**,** [**PolkaDot**](https://polkadot.network/) and many more (see below).
+
+<figure><img src=".gitbook/assets/E1V7Lu-XIAArWEn.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p><em>Sustainable Medicines Partnership (SMP)</em></p></figcaption></figure>
 
 ### A word from one of the Founders
 

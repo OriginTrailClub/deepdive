@@ -10,6 +10,6 @@ The BUILDCHAIN Project is part of the EU's Horizon 2020 research and innovation 
 
 This initiative will be a significant step forward in promoting sustainability in the construction industry and will demonstrate how blockchain technology can be used to improve the transparency and traceability of materials and energy use.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 For more details, check out [**this** ](https://medium.com/origintrail/european-union-supports-sustainability-of-construction-industry-with-the-buildchain-project-fcd8253b74ed)medium post.&#x20;
