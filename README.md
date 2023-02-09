@@ -29,7 +29,7 @@ By giving users back control of their data, OriginTrail's Decentralized Knowledg
 
 In other words, **Data** becomes exponentially more valuable when it's connected. Currently, a limited number of corporations control the majority of data, leaving those who are wary of sharing their data due to **trust concerns** with less valuable data. **The Decentralized Knowledge Graph eliminates this trust barrier** by creating an open, transparent network that enables all individuals to share and connect their data while maintaining ownership of their data.
 
-The DKG becomes the black hole of data where all centralized or decentralized AI technologies, such as **Google's Bard**, **Microsoft's ChatGPT**, **Fetch AI** and **Bittensor**, to be linked together and built upon, resulting in a more transparent, interconnected and valuable ecosystem.
+The DKG becomes the provider of limitless data where all centralized or decentralized AI technologies, such as **Google's Bard**, **Microsoft's ChatGPT**, **Fetch AI** and **Bittensor**, can be linked together and built upon, resulting in a more transparent, interconnected and valuable ecosystem.
 
 {% hint style="success" %}
 #### The Decentralized Knowledge Graph is the portal of humanity's data to the Semantic Web and Artificial Intelligence. In other words, the core team of OriginTrail is building the decentralized ** **<mark style="color:blue;">**Google for Web3**</mark>** and the **<mark style="color:blue;">**Brain of AI**</mark>**.**&#x20;
@@ -39,7 +39,7 @@ The DKG becomes the black hole of data where all centralized or decentralized AI
 
 A word from the Father of Ethernet, Inventor of Metcalfe's Law, advisor of OriginTrail
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 > #### “OriginTrail is going to continue to rise because the Decentralized Knowledge Graph will give AI more and more data.”
 >
