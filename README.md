@@ -35,29 +35,31 @@ The DKG becomes the black hole of data where all centralized or decentralized AI
 #### The Decentralized Knowledge Graph is the portal of humanity's data to the Semantic Web and Artificial Intelligence. In other words, the core team of OriginTrail is building the decentralized ** **<mark style="color:blue;">**Google for Web3**</mark>** and the **<mark style="color:blue;">**Brain of AI**</mark>**.**&#x20;
 {% endhint %}
 
-### Let's hear a few words from the Father of Ethernet
+## Dr. Bob Metcalfe
 
-### Dr. Bob Metcalfe, advisor of OriginTrail
+A word from the Father of Ethernet, Inventor of Metcalfe's Law, advisor of OriginTrail
 
-<figure><img src="https://eadn-wc01-5964675.nxedge.io/wp-content/uploads/2015/07/Bob_Metcalfe.jpg" alt=""><figcaption><p>The Father of Ethernet, Inventor of Metcalfe's Law, advisor of OriginTrail</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 > #### “OriginTrail is going to continue to rise because the Decentralized Knowledge Graph will give AI more and more data.”
 >
-> #### “The weakness of OriginTrail is that it’s too complicated to explain to ordinary mortals. The technology appears a bit like middleware, which is a category that only tends to excite a handful of people, and I’m one of them” [source](https://www.zdnet.com/article/ethernet-creator-metcalfe-web3-will-have-all-kinds-of-network-effects/)
+> #### “The weakness of OriginTrail is that it’s too complicated to explain to ordinary mortals. The technology appears a bit like middleware, which is a category that only tends to excite a handful of people, and I’m one of them”
 >
 > #### "The decentralized knowledge graphs will make possible a kind of eternal springtime for artificial intelligence."
 >
 > #### "AI was invented in about 1968, when I was a graduate student. And for years, AI would rise and then it would fall, and it fell because AI ran out of data."
 >
-> #### "Well, it's not going to fall, it's going to continue to rise, because the decentralized knowledge graphs are going to give AI more and more data." [**source**](how-to-contribute.md)****
+> #### "Well, it's not going to fall, it's going to continue to rise, because the decentralized knowledge graphs are going to give AI more and more data." [source](https://www.zdnet.com/article/ethernet-creator-metcalfe-web3-will-have-all-kinds-of-network-effects/)
 
-OriginTrail is currently used by the [**British Standard Institution (BSI)**](https://www.bsigroup.com/en-GB/)**,** [**SCAN Association**](https://www.scanassociation.com/)**,** [**The World Federation of Hemophilia (WFH)**](https://wfh.org/)**,** [**EU-funded SmartAgriHubs**](https://www.smartagrihubs.eu/flagship-innovation-experiment/28-FIE-decentralised-trust-in-agrifood-supply-chains)**,** [**Swiss Federal Railways (SBB)**](https://www.sbb.ch/en)**,** [**Construction industry**](https://medium.com/origintrail/european-union-supports-sustainability-of-construction-industry-with-the-buildchain-project-fcd8253b74ed)**,** [**Pharmaceutical industry**](https://medium.com/origintrail/trace-labs-the-core-development-company-of-origintrail-joins-sustainable-medicines-partnership-to-56173f134754)**,** [**Acala**](https://acala.network/)**,** [**PolkaDot**](https://polkadot.network/) and many more (see below).
+## Ecosystem Map
+
+OriginTrail is currently partnered with the [**British Standard Institution (BSI)**](https://www.bsigroup.com/en-GB/)**,** [**SCAN Association**](https://www.scanassociation.com/)**,** [**The World Federation of Hemophilia (WFH)**](https://wfh.org/)**,** [**EU-funded SmartAgriHubs**](https://www.smartagrihubs.eu/flagship-innovation-experiment/28-FIE-decentralised-trust-in-agrifood-supply-chains)**,** [**Swiss Federal Railways (SBB)**](https://www.sbb.ch/en)**,** [**Construction industry**](https://medium.com/origintrail/european-union-supports-sustainability-of-construction-industry-with-the-buildchain-project-fcd8253b74ed)**,** [**Pharmaceutical industry**](https://medium.com/origintrail/trace-labs-the-core-development-company-of-origintrail-joins-sustainable-medicines-partnership-to-56173f134754)**,** [**Acala**](https://acala.network/)**,** [**PolkaDot**](https://polkadot.network/) and many more (see below).
 
 <figure><img src=".gitbook/assets/E1V7Lu-XIAArWEn.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p><em>Sustainable Medicines Partnership (SMP)</em></p></figcaption></figure>
 
-### A word from one of the Founders
+## A word from one of the Founders
 
 ### [Žiga Drev](https://twitter.com/DrevZiga)
 
@@ -65,9 +67,7 @@ OriginTrail is currently used by the [**British Standard Institution (BSI)**](ht
 
 #### "Data is such an integral part of our lives and it’s going to continue to become even more and more integral as we move into a more globally digitized world. As such, our mission and our core objectives are only going to become more and more important. Data needs to be trusted, it needs to be easily verifiable, and it needs to all speak the same language. There are so many use cases from this that include everything from supply chain management to certification to identification and right through to true data autonomy for the individual. What’s really needed is the protocol to do all of this, and this is what we provide and what we are continuing to perfect and fine-tune. "
 
-{% hint style="success" %}
-**"It’s a lot to digest and to understand but the importance and scale of this mission really can’t be understated."** [source](https://startup.info/ziga-drev-origintrail/)
-{% endhint %}
+**"It’s a lot to digest and to understand but the importance and scale of this mission really can’t be understated."** [**source**](https://startup.info/ziga-drev-origintrail/)****
 
 
 
