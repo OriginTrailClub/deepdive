@@ -39,7 +39,7 @@ The DKG becomes the black hole of data where all centralized or decentralized AI
 
 A word from the Father of Ethernet, Inventor of Metcalfe's Law, advisor of OriginTrail
 
-<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 > #### “OriginTrail is going to continue to rise because the Decentralized Knowledge Graph will give AI more and more data.”
 >
