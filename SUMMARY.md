@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Overview](part-1-foundation.md)
 * [Core Values](core-values.md)
-* [Motivation](motivation.md)
+* [Applications](applications.md)
 * [Blockchain Layer](blockchain-layer.md)
 * [Tokenomics](tokenomics.md)
 * [Global Standards](global-standards.md)
