@@ -20,5 +20,5 @@ coverY: -1012.7785443256296
 [eu-blockchain-summit.md](eu-blockchain-summit.md)
 {% endcontent-ref %}
 
-**For a comprehensive list of all events, I suggest following**  [news-and-updates.md](../news-and-updates.md "mention") and [origintrail-timeline.md](../origintrail-timeline.md "mention")
+**For a comprehensive list of all events, I suggest following**  [news-and-updates.md](../news-and-updates.md "mention") and [timeline.md](../timeline.md "mention")
 

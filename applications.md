@@ -53,6 +53,6 @@ The second iteration of OriginTrail evolved from being a supply chain only proto
 {% hint style="success" %}
 #### OriginTrail allows for a scalable, trusted and secure way to share information between all network participants – it is the knowledge graph of all knowledge graphs. The DKG serves as the central repository of all data, acting as the bridge between traditional web companies and the Semantic Web.  it acts as the foundation for connecting data in Web3 and AI applications, empowering individuals to take control of their own information.
 
-**Read** [part-3-dkg-and-web3.md](part-3-dkg-and-web3.md "mention") **for more information.**
+**Read** [knowledge-graph.md](knowledge-graph.md "mention") **for more information.**
 {% endhint %}
 

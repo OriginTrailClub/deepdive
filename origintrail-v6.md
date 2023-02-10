@@ -25,5 +25,5 @@ As of December 15, 2022 the OriginTrail DKG V6 is officially launched on mainnet
 {% hint style="info" %}
 #### This concludes the deep dive session.&#x20;
 
-#### For further updates, I suggest following my [origintrail-timeline.md](origintrail-timeline.md "mention").&#x20;
+#### For further updates, I suggest following my [timeline.md](timeline.md "mention").&#x20;
 {% endhint %}
