@@ -53,7 +53,7 @@ The OriginTrail Parachain super-charges these data marketplaces with the additio
 
 <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-The OTP layer-1 token is the OriginTrail Parachain. It is designed as a **gas and reward token**. Rather than relying on ETH, MATIC, XDAI as gas tokens for network transactions, OTP will be used to pay for gas on the OriginTrail Parachain. OTP is also a reward token that **incentivizes growth** of the DKG on the Origintrail Parachain, making sure the **OriginTrail Parachain is the most attractive blockchain layer for the DKG**. In other words, our parachain (layer-1) requires a token, OTP, to function as gas for transactions and as a reward for [collators](https://wiki.polkadot.network/docs/learn-collator) for processing blocks back to Polkadot (layer-0). The DKG (layer-2), powered solely by TRAC, is interoperable and therefore not exclusively linked to the parachain – it is still fully functional on Gnosis, Polygon and Ethereum. However, the new iteration of the DKG will only be available on OriginTrail Parachain until the team deploys v6 to other blockchains.&#x20;
+The OTP layer-1 token is the OriginTrail Parachain. It is designed as a **gas and reward token**. Rather than relying on ETH, MATIC, XDAI as gas tokens for network transactions, OTP will be used to pay for gas on the OriginTrail Parachain. OTP is also a reward token that **incentivizes growth** of the DKG on the Origintrail Parachain, making sure the **OriginTrail Parachain is the most attractive blockchain layer for the DKG**. In other words, our parachain (layer-1) requires a token, OTP, to function as gas for transactions and as a reward for [collators](https://wiki.polkadot.network/docs/learn-collator) for processing blocks back to Polkadot (layer-0).&#x20;
 
 <figure><img src="https://parachain.origintrail.io/storage/whitepaper-content/April2022/img-layer-2-ot-dkg@2x.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -66,7 +66,5 @@ Below is a detailed description of the OTP utility token:
 * **Data marketplace** - OTP as a fungible token, just like TRAC, can be used in a **** data marketplace environment using smart contracts
 
 Please consult the [**2022 whitepaper**](https://parachain.origintrail.io/whitepaper?section=genesis-distribution) to learn about the distribution of OTP.
-
-
 
 <figure><img src="https://parachain.origintrail.io/storage/whitepaper-content/April2022/gif-tokenomics.gif" alt=""><figcaption></figcaption></figure>
