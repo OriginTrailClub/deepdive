@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Foundation](part-1-foundation.md)
+* [Overview](part-1-foundation.md)
+* [Core Values](core-values.md)
 * [Motivation](motivation.md)
 * [Blockchain Layer](blockchain-layer.md)
 * [Tokenomics](tokenomics.md)

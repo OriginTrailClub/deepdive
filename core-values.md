@@ -1,0 +1,17 @@
+# Core Values
+
+<figure><img src=".gitbook/assets/msg-1470710976-393.jpg" alt=""><figcaption></figcaption></figure>
+
+The OriginTrail protocol has been built from the ground up with 3 core pillars:&#x20;
+
+### **1. Neutrality**
+
+OriginTrail's first core value ensures the inclusiveness of all parties, adoption of co-creation principles and collaboration with all other ecosystems. In order to maintain compatibility of all data from multiple parties, including both legacy IT systems and new digital systems such as blockchains, OriginTrail must adhere to the highest globally recognized standards such as GS1 and W3C, and remain open-source and decentralized. This prevents vendor lock-ins, ensures integrity and in return breaks data silos. The principle of neutrality is applied on all levels, including interoperability between any blockchains, integration with any legacy systems by applying open standards and allowing any users to review the open-source code.&#x20;
+
+### **2. Usability**
+
+In order to onboard users, enterprises and developers to the OriginTrail protocol, the network underpinning Web3 protocol level technologies must be efficient and user friendly. Trace Labs, the core developers behind OriginTrail, has developed many interface solutions used within [global enterprises and government bodies](https://origintrail.io/case-studies). The team has also built [Project Magnify](https://projectmagnify.io/), a Decentralized Knowledge Graph (DKG) client for any users to publish assets directly into the ecosystem without the need to run a node. Improved usability of the ODN will only drive positive network effects to grow the entire ecosystem.&#x20;
+
+### **3. Inclusiveness**
+
+As the ecosystem grows, the team needs to continue forming partnerships with business global leaders and communities to cater to their needs. This will continue pushing the team to make new strides in designing technical infrastructures and business models that support the worldwide adoption of OriginTrail. The team welcomes anyone building on the DKG, and will ensure that no groups are excluded. In other words, the protocol will not just pander to a certain privileged party - the team will strive to remain relevant and valuable to the wider community. This in turn cycles back to the first core value of neutrality.
