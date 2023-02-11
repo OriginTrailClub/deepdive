@@ -17,6 +17,10 @@ In other words, a KG connects various data such as objects, locations, people, e
 
 OriginTrail uses a Decentralized Knowledge Graph by having nodes running on the ODN across the globe, which are not siloed and can be run by anybody. Data is stored on nodes rather than private enterprise servers, allowing for companies (_or individuals for that matter_) to share, exchange or monetize their data while retaining their profits or anonymity. The ODN allows companies to select which data a company wants to keep private and what they wish to share. It’s a complete shift toward a more transparent and less centralized way of conducting business without having to rely on a 3rd party.
 
+One of the team's core members wrote the Twitter thread below which explains why the DKG is so important for humanity going forward.
+
+{% embed url="https://twitter.com/CryptoWaving/status/1624497244060758018" %}
+
 For an in depth explanation of what the DKG is, Branimir gives a great demonstration on the video below during the Knowledge Graph Conference 2022. A must watch.
 
 {% embed url="https://www.youtube.com/watch?v=_nGuWfes4KM" %}
