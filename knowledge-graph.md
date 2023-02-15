@@ -17,15 +17,13 @@ In other words, a KG connects various data such as objects, locations, people, e
 
 OriginTrail uses a Decentralized Knowledge Graph by having nodes running on the ODN across the globe, which are not siloed and can be run by anybody. Data is stored on nodes rather than private enterprise servers, allowing for companies (_or individuals for that matter_) to share, exchange or monetize their data while retaining their profits or anonymity. The ODN allows companies to select which data a company wants to keep private and what they wish to share. It’s a complete shift toward a more transparent and less centralized way of conducting business without having to rely on a 3rd party.
 
-One of the team's core members wrote the Twitter thread below which explains why the DKG is so important for humanity going forward.
+One of the team's core members wrote the [**Twitter thread**](https://twitter.com/CryptoWaving/status/1624497244060758018) below which explains why the DKG is so important for humanity going forward.
 
-> Is the Web truly a place of freedom and privacy, or are we all just pieces in a corporate-owned puzzle?\
-> \
-> It's time to talk about the future of the Internet, [@origin\_trail](https://twitter.com/origin\_trail?ref\_src=twsrc%5Etfw) Decentralized Knowledge Graph and how it could be the key to taking back control of our digital identities.
->
-> — dkg://waving (@CryptoWaving) [February 11, 2023](https://twitter.com/CryptoWaving/status/1624497244060758018?ref\_src=twsrc%5Etfw)
+You can also check out the following [**article**](https://opendata.substack.com/p/towards-an-open-sustainable-knowledge?utm\_source=twitter\&sd=pf) for a great introduction to Knowledge Graphs and OriginTrail's Decentralized Knowledge Graph.
 
-For an in depth explanation of what the DKG is, Branimir gives a great demonstration on the video below during the Knowledge Graph Conference 2022. A must watch.
+<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+For an in depth explanation of what the DKG is, Branimir gives a great demonstration on the video below during the Knowledge Graph Conference 2022.
 
 {% embed url="https://www.youtube.com/watch?v=_nGuWfes4KM" %}
 
