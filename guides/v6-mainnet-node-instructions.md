@@ -128,7 +128,7 @@ First, log in with your management and operational EVM wallets;
 
 Go to tab "Service Tokenomics";
 
-Input your ask price and sign the transaction. The team default is 0.00375/(epoch \* KB);
+Input your ask price and sign the transaction. The team default is 0.24/(epoch \* KB);
 
 Input the amount of stake you want. Minimum stake is 50,000 TRAC;
 
@@ -138,7 +138,17 @@ Restart your node:
 systemctl restart otnode
 ```
 
-You have now successfully completed your node installation! You can check the logs by using the alias otnode-logs.
+You have now successfully completed your node installation! You can check the logs by using the alias otnode-logs. Despite being online, your node does not have any stake nor ask price, which will be covered on Step 7. However, before you continue, please read the following:&#x20;
+
+{% hint style="success" %}
+### After successfully installing your V6 node, make sure you visit [https://girraph.com/alliance](https://girraph.com/alliance) to register your node to the DKG Node Alliance.&#x20;
+
+The benefits of joining the DKG Node Alliance include special access to a private Telegram channel, exclusive node support by top community members, node monitoring and maintenance scripts, collaboration to maintain a healthy DKG network, voting and governance and more to come.&#x20;
+
+The Node Alliance will leverage the DKG to become a DAO and currently occupies over 50% of the DKG V6 Node network.&#x20;
+
+Currently DKG Node Alliance members include Amos, LuKu, CosmiCloud, Calvin and myself just to name a few.&#x20;
+{% endhint %}
 
 ## Step 7B - Set-stake and set-ask
 
@@ -201,16 +211,6 @@ journalctl -u otnode --output cat -fn 100
 **Reminder:**
 
 You can now use aliases such as otnode-logs to quickly view logs without having to type the entire string above!
-{% endhint %}
-
-{% hint style="success" %}
-### After successfully installing your V6 node, make sure you visit [https://girraph.com/alliance](https://girraph.com/alliance) to register your node to the DKG Node Alliance.&#x20;
-
-The benefits of joining the DKG Node Alliance include special access to a private Telegram channel, exclusive node support by top community members, node monitoring and maintenance scripts, collaboration to maintain a healthy DKG network, voting and governance and more to come.&#x20;
-
-The Node Alliance will leverage the DKG to become a DAO and currently occupies over 50% of the DKG V6 Node network.
-
-Currently DKG Node Alliance members include Amos, LuKu, CosmiCloud, Calvin and myself just to name a few.&#x20;
 {% endhint %}
 
 ## Temporary Safe Mainnet Node Instructions
