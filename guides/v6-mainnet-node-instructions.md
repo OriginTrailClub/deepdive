@@ -1,5 +1,7 @@
 ---
-description: Step-by-step guide to run a V6 Mainnet Node
+description: >-
+  Step-by-step guide to run a V6 Mainnet Node, brought to you by OriginTrail
+  Club and the DKG Node Alliance.
 ---
 
 # V6 Mainnet Node Instructions
@@ -176,7 +178,7 @@ npm run set-stake -- --rpcEndpoint=https://astrosat-parachain-rpc.origin-trail.n
 Set the **service ask** of your node:
 
 ```
-npm run set-ask -- --rpcEndpoint=https://astrosat-parachain-rpc.origin-trail.network/ --ask=0.00375 --privateKey=<operational_wallet_private_key> --hubContractAddress=0x5fA7916c48Fe6D5F1738d12Ad234b78c90B4cAdA
+npm run set-ask -- --rpcEndpoint=https://astrosat-parachain-rpc.origin-trail.network/ --ask=0.24 --privateKey=<operational_wallet_private_key> --hubContractAddress=0x5fA7916c48Fe6D5F1738d12Ad234b78c90B4cAdA
 ```
 
 Once you are done, restart the node:
@@ -199,6 +201,16 @@ journalctl -u otnode --output cat -fn 100
 **Reminder:**
 
 You can now use aliases such as otnode-logs to quickly view logs without having to type the entire string above!
+{% endhint %}
+
+{% hint style="success" %}
+### After successfully installing your V6 node, make sure you visit [https://girraph.com/alliance](https://girraph.com/alliance) to register your node to the DKG Node Alliance.&#x20;
+
+The benefits of joining the DKG Node Alliance include special access to a private Telegram channel, exclusive node support by top community members, node monitoring and maintenance scripts, collaboration to maintain a healthy DKG network, voting and governance and more to come.&#x20;
+
+The Node Alliance will leverage the DKG to become a DAO and currently occupies over 50% of the DKG V6 Node network.
+
+Currently DKG Node Alliance members include Amos, LuKu, CosmiCloud, Calvin and myself just to name a few.&#x20;
 {% endhint %}
 
 ## Temporary Safe Mainnet Node Instructions
