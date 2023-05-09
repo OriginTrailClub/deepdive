@@ -6,6 +6,10 @@ description: >-
 
 # V6 Mainnet Node Instructions
 
+{% hint style="warning" %}
+You currently need 50k [**teleported TRAC**](https://teleport.origintrail.io/) to run a V6 node. Since teleporting is over, if you have not teleported any TRAC, you will have to wait for the common good Polkadot Parachain bridge, Snowbridge, built by [**Snowfork** ](https://github.com/Snowfork/snowbridge)before you can move your ERC-20 TRAC over to Polkadot in order to run a node.&#x20;
+{% endhint %}
+
 ## Step 1 - Create a total of 4 wallets
 
 You must create a total of 4 wallets for the following step.&#x20;
@@ -37,16 +41,14 @@ Your goal here is to map wallet **1 and** **3** together, and wallet **2 and 4**
 To do so, connect to the mapping interface with the appropriate MetaMask wallet and paste the corresponding substrate wallet. 2 pop-ups will follow and sign both transactions.
 
 {% hint style="warning" %}
-If mapping doesn't prompt you with 2 transactions, try disabling all other extensions and restart your browser. You can also use a different browser. Choose between Chrome, Brave, Firefox.
+If mapping doesn't prompt you with 2 transactions, make sure you have at least 2 OTP on your substrate wallet, try disabling all other extensions and restart your browser. You can also use a different browser. Choose between Chrome, Brave, Firefox.
 {% endhint %}
 
 Repeat for wallet **2 and 4** from step 1 and you would have completed the mapping process for your node.&#x20;
 
 ## Step 5 - Fund your wallets with teleported TRAC
 
-You require a minimum of 50k TRAC to run a mainnet node. You can purchase TRAC on [**Coinbase**](https://www.coinbase.com/price/origintrail)**,** [**Kucoin**](https://www.kucoin.com/trade/TRAC-BTC)**,** [**Binance US**](https://www.binance.us/trade/pro/TRAC\_usd)**,** [**Huobi**](https://www.huobi.com/en-us/exchange/trac\_usdt/)**,** [**Uniswap**](https://app.uniswap.org/#/swap?outputCurrency=0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f) and [**others**](https://www.coingecko.com/en/coins/origintrail#markets)**.**&#x20;
-
-Once the TRAC token is acquired, you must [**teleport**](http://teleport.origintrail.io) your tokens to the OriginTrail Parachain in order to use them on the parachain. Follow the [**Teleportation Guide**](trac-teleportation-faq.md) for a complete set of instructions.&#x20;
+You require a minimum of 50k TRAC to run a mainnet node. You can purchase TRAC on platforms such as [**Coinbase**](https://www.coinbase.com/price/origintrail)**,** [**Kucoin**](https://www.kucoin.com/trade/TRAC-BTC)**,** [**Binance US**](https://www.binance.us/trade/pro/TRAC\_usd)**,** [**Huobi**](https://www.huobi.com/en-us/exchange/trac\_usdt/) **and** [**Uniswap**](https://app.uniswap.org/#/swap?outputCurrency=0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f) and once purchased, you need to teleport them to the OT Parachain. However, teleporting is now officially closed. &#x20;
 
 {% hint style="info" %}
 **Reminder**:&#x20;
@@ -60,7 +62,7 @@ To view your TRAC balance on Metamask, first switch your network to OriginTrail 
 0xFfFFFFff00000000000000000000000000000001
 ```
 
-You can also view your test TRAC on polkadot.js [**here**](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.origin-trail.network#/assets/balances).&#x20;
+You can also view your TRAC on polkadot.js [**here**](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.origin-trail.network#/assets/balances).&#x20;
 
 ## Step 6 - Install your node
 
@@ -71,7 +73,7 @@ In order to deploy your OriginTrail V6 node, you will need a Linux server with t
 * **50GB HDD space**
 
 {% hint style="warning" %}
-Log in to the server as root. You **cannot** use sudo and run this script. The command "**npm ci**" might fail.
+Log in to the server as root. You **cannot** use sudo and run this script.&#x20;
 {% endhint %}
 
 Gather the following information:
@@ -121,13 +123,13 @@ otnode-config
 Even though your node is online, your node does not have any stake nor ask price, which will be covered on Step 7. However, before you continue, please read the following:&#x20;
 
 {% hint style="success" %}
-### After successfully installing your V6 node, make sure you visit [https://girraph.com/alliance](https://girraph.com/alliance) to register your node to the DKG Node Alliance.&#x20;
+### After successfully installing your V6 node, make sure you visit [the Node Alliance](https://otnode.com/) to register your node to the DKG Node Alliance.&#x20;
 
 The benefits of joining the DKG Node Alliance include special access to a private Telegram channel, exclusive node support by top community members, node monitoring and maintenance scripts, collaboration to maintain a healthy DKG network, voting and governance and more to come.&#x20;
 
-The Node Alliance will leverage the DKG to become a DAO and currently occupies over 50% of the DKG V6 Node network.&#x20;
+The Node Alliance will leverage the DKG for voting purposes and currently occupies over 50% of the DKG V6 Node network.&#x20;
 
-Currently DKG Node Alliance members include Amos, LuKu, CosmiCloud, Calvin and myself just to name a few.&#x20;
+DKG Node Alliance members include Amos, LuKu, CosmiCloud, Calvin and BRX just to name a few.&#x20;
 {% endhint %}
 
 #### You can either do Step 7A or 7B for the following section. 7A requires uses the Houston UI to set your stake and ask, while 7B uses your node command line interface.&#x20;
