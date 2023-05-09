@@ -30,7 +30,7 @@ You can also ask for some dust on [**OriginTrail Node Community**](https://t.me/
 
 ## Step 4 - Map your wallets
 
-Once the funding of both substrate wallets are completed, head to the [**mapping interface**](https://parachain.origintrail.io/parachain-account-mapping) **** and select **Parachain Mainnet**.&#x20;
+Once the funding of both substrate wallets are completed, head to the [**mapping interface**](https://parachain.origintrail.io/parachain-account-mapping) and select **Parachain Mainnet**.&#x20;
 
 Your goal here is to map wallet **1 and** **3** together, and wallet **2 and 4** together from step 1.&#x20;
 
@@ -44,7 +44,7 @@ Repeat for wallet **2 and 4** from step 1 and you would have completed the mappi
 
 ## Step 5 - Fund your wallets with teleported TRAC
 
-You require a minimum of 50k TRAC to run a mainnet node. You can purchase TRAC on **** [**Coinbase**](https://www.coinbase.com/price/origintrail)**,** [**Kucoin**](https://www.kucoin.com/trade/TRAC-BTC)**,** [**Binance US**](https://www.binance.us/trade/pro/TRAC\_usd)**,** [**Huobi**](https://www.huobi.com/en-us/exchange/trac\_usdt/)**,** [**Uniswap**](https://app.uniswap.org/#/swap?outputCurrency=0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f) **** and **** [**others**](https://www.coingecko.com/en/coins/origintrail#markets)**.**&#x20;
+You require a minimum of 50k TRAC to run a mainnet node. You can purchase TRAC on [**Coinbase**](https://www.coinbase.com/price/origintrail)**,** [**Kucoin**](https://www.kucoin.com/trade/TRAC-BTC)**,** [**Binance US**](https://www.binance.us/trade/pro/TRAC\_usd)**,** [**Huobi**](https://www.huobi.com/en-us/exchange/trac\_usdt/)**,** [**Uniswap**](https://app.uniswap.org/#/swap?outputCurrency=0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f) and [**others**](https://www.coingecko.com/en/coins/origintrail#markets)**.**&#x20;
 
 Once the TRAC token is acquired, you must [**teleport**](http://teleport.origintrail.io) your tokens to the OriginTrail Parachain in order to use them on the parachain. Follow the [**Teleportation Guide**](trac-teleportation-faq.md) for a complete set of instructions.&#x20;
 
@@ -134,13 +134,13 @@ Currently DKG Node Alliance members include Amos, LuKu, CosmiCloud, Calvin and m
 
 ## Step 7A - Houston
 
-****[**Houston V6 Node Command Center** ](https://houston.origintrail.io/)is an interface to help manage your node and view network statistics.&#x20;
+[**Houston V6 Node Command Center** ](https://houston.origintrail.io/)is an interface to help manage your node and view network statistics.&#x20;
 
 First, log in with your management and operational EVM wallets;
 
 Go to tab "Service Tokenomics";
 
-Input your ask price and sign the transaction. The team default is 0.24/(epoch \* KB);
+Input your ask price and sign the transaction. The Node Alliance current minimum ask is 0.24 TRAC/(epoch \* KB);
 
 Input the amount of stake you want. Minimum stake is 50,000 TRAC;
 
@@ -162,14 +162,14 @@ systemctl stop otnode
 
 Gather the following information:
 
-| Value                                  | Description                                                                                                                                                                                                                                                                      |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **EVM Operational wallet private key** | private key from wallet 1 in step 1                                                                                                                                                                                                                                              |
-| **EVM Management wallet private key**  | private key from wallet 2 in step 1                                                                                                                                                                                                                                              |
-| **Hub Contract Address**               | <p><strong>0x5fA7916c48Fe6D5F1738d12Ad234b78c90B4cAdA</strong><br><strong></strong>Check the official <a href="https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/deployed-smart-contracts"><strong>link</strong></a> to make sure it is the correct one. </p> |
-| **Ask price**                          | <p>Your price as a node runner to host assets. <br>Team default: 0.00375/(epoch * KB)</p>                                                                                                                                                                                        |
-| **rpcEndpoint**                        | [https://astrosat-parachain-rpc.origin-trail.network/](https://astrosat-parachain-rpc.origin-trail.network/)                                                                                                                                                                     |
-| **Stake**                              | <p>Your initial stake for your node <br>(minimum: 50000)</p>                                                                                                                                                                                                                     |
+| Value                                  | Description                                                                                                                                                                                                                                                     |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **EVM Operational wallet private key** | private key from wallet 1 in step 1                                                                                                                                                                                                                             |
+| **EVM Management wallet private key**  | private key from wallet 2 in step 1                                                                                                                                                                                                                             |
+| **Hub Contract Address**               | <p><strong>0x5fA7916c48Fe6D5F1738d12Ad234b78c90B4cAdA</strong><br>Check the official <a href="https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/deployed-smart-contracts"><strong>link</strong></a> to make sure it is the correct one. </p> |
+| **Ask price**                          | <p>Your price as a node runner to host assets. <br>Alliance: 0.24 TRAC/(epoch * KB)</p>                                                                                                                                                                         |
+| **rpcEndpoint**                        | [https://astrosat-parachain-rpc.origin-trail.network/](https://astrosat-parachain-rpc.origin-trail.network/)                                                                                                                                                    |
+| **Stake**                              | <p>Your initial stake for your node <br>(minimum: 50000)</p>                                                                                                                                                                                                    |
 
 Navigate to the current ot-node version folder:
 
@@ -177,7 +177,7 @@ Navigate to the current ot-node version folder:
 cd /root/ot-node/current
 ```
 
-Once **** you have all the information above, run the following command by replacing the values in <> with the correct information (you can also change the other options if needed):
+Once you have all the information above, run the following command by replacing the values in <> with the correct information (you can also change the other options if needed):
 
 Set the **stake** of your node:
 
@@ -215,7 +215,7 @@ You can now use aliases such as otnode-logs to quickly view logs without having 
 
 ## Temporary Safe Mainnet Node Instructions
 
-1.  Use the instructions [**here**](https://deepdive.origintrail.club/guides-and-tools/trac-teleportation-faq#safe-mapping-guide) **** to pair 3 wallets.
+1.  Use the instructions [**here**](https://deepdive.origintrail.club/guides-and-tools/trac-teleportation-faq#safe-mapping-guide) to pair 3 wallets.
 
     1. 1 main wallet pair to receive your teleported TRAC and OTP bounty
     2. 1 operational wallet pair for your node
