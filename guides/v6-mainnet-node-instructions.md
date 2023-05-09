@@ -17,9 +17,9 @@ You must create a total of 4 wallets for the following step.&#x20;
 <table><thead><tr><th data-type="number">#</th><th>Wallet</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>EVM Operational wallet</td><td>Hot wallet for non admin node operations<br>Example: Metamask wallet</td></tr><tr><td>2</td><td>EVM Management wallet</td><td>Cold wallet for admin node operations<br>Example: Ledger</td></tr><tr><td>3</td><td>Substrate Operational wallet</td><td>Hot wallet to map with wallet #1<br>Example: polkadot.js, Talisman wallet</td></tr><tr><td>4</td><td>Substrate Management wallet</td><td>Cold wallet to map with wallet #2<br>Example: Ledger</td></tr></tbody></table>
 
 {% hint style="warning" %}
-Mapping a hardware EVM wallet (such as Ledger) to a hot substrate wallet (such as polkadot.js or Talisman wallet) could expose your funds to the Internet since both EVM and substrate wallets can have full access to your funds on the Polkadot Ecosystem. Waiting for OTP Ledger support before mapping is strongly advised to protect your funds. \
+Mapping a hardware EVM wallet (such as Ledger) to a hot substrate wallet (such as polkadot.js or Talisman wallet) could expose your funds to the Internet since both EVM and substrate wallets can have full access to your funds on the Polkadot Ecosystem. Waiting for OTP Ledger support before mapping is advised to protect your funds. \
 \
-For the time being, the safest method to run a mainnet node is highlighted in the [**temporary safe method to run a mainnet node**](v6-mainnet-node-instructions.md#temporary-safe-mainnet-node-instructions) section.&#x20;
+For the time being, the safest method to run a mainnet node is highlighted in the [**temporary safe method to run a mainnet node**](v6-mainnet-node-instructions.md#temporary-safe-mainnet-node-instructions) section. If you want to simplify the process and you are fine with using a hot substrate wallet, please proceed to step 2.&#x20;
 {% endhint %}
 
 ## Step 2 - Add the OriginTrail Mainnet Network onto MetaMask
