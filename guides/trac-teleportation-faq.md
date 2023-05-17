@@ -8,18 +8,18 @@ description: This is an elaborate Guide and FAQ covering everything related to T
 
 #### **1. Teleport your TRAC**&#x20;
 
-First, consult the **** [**FAQ** ](trac-teleportation-faq.md#faq)section below to learn about Teleporting TRAC.&#x20;
+First, consult the [**FAQ** ](trac-teleportation-faq.md#faq)section below to learn about Teleporting TRAC.&#x20;
 
-Once you are ready, teleport your TRAC by visiting [**this**](https://teleport.origintrail.io/) **** website. Make sure you read the steps thoroughly. You must complete the KYC to receive OTP bounty. Once you complete the 2 teleport transactions, your TRAC will leave your wallet and be locked on the smart contract until further notice.
+Once you are ready, teleport your TRAC by visiting [**this**](https://teleport.origintrail.io/) website. Make sure you read the steps thoroughly. You must complete the KYC to receive OTP bounty. Once you complete the 2 teleport transactions, your TRAC will leave your wallet and be locked on the smart contract until further notice.
 
 #### **2. Collect OTP bounty**
 
-Visit [**this**](https://teleport.origintrail.io/teleport-reward-claim) website to collect your OTP bounty for teleporting. Make sure you use the same EVM (Ethereum) wallet you used to teleport TRAC on step 1. Then, paste a self-custody substrate (Polkadot) wallet of your choice to obtain your OTP bounty. You can use the substrate wallet address starting with 1,5 or g. **Do not use a Ledger Polkadot wallet** as it is not yet compatible with OT Parachain. You can easily create a substrate hot wallet by using [**Polkadot js extension**](https://polkadot.js.org/extension/) **** or [**Talisman**](https://talisman.xyz/)**.** The bounty will be sent out shortly.
+Visit [**this**](https://teleport.origintrail.io/teleport-reward-claim) website to collect your OTP bounty for teleporting. Make sure you use the same EVM (Ethereum) wallet you used to teleport TRAC on step 1. Then, paste a self-custody substrate (Polkadot) wallet of your choice to obtain your OTP bounty. You can use the substrate wallet address starting with 1,5 or g. **Do not use a Ledger Polkadot wallet** as it is not yet compatible with OT Parachain. You can easily create a substrate hot wallet by using [**Polkadot js extension**](https://polkadot.js.org/extension/) or [**Talisman**](https://talisman.xyz/)**.** The bounty will be sent out shortly.
 
 {% hint style="warning" %}
 **RECOMMENDED**
 
-If you wish to create the most secure substrate wallet to receive your OTP bounty and to map your EVM wallet. Please consult the [**Safe Mapping Guide**](trac-teleportation-faq.md#undefined) **** below.
+If you wish to create the most secure substrate wallet to receive your OTP bounty and to map your EVM wallet. Please consult the [**Safe Mapping Guide**](trac-teleportation-faq.md#undefined) below.
 {% endhint %}
 
 #### 3. Map your wallets&#x20;
@@ -82,7 +82,7 @@ To mitigate mapping risks, I have written a small guide below that uses a **boot
 #### Prerequisites:
 
 * 16GB USB drive to create the live OS environment
-* Download an **ISO image** to be installed on that USB Stick. Good examples include [**EndeavourOS**](https://endeavouros.com/latest-release/) **** or [**Lubuntu**](https://lubuntu.me/downloads/)
+* Download an **ISO image** to be installed on that USB Stick. Good examples include [**EndeavourOS**](https://endeavouros.com/latest-release/) or [**Lubuntu**](https://lubuntu.me/downloads/)
 * A tool to create a bootable USB drive such as [**Rufus**](https://rufus.ie/en/) or [**Etcher**](https://www.balena.io/etcher/)
 * A good Internet connection to your PC
 * A way to send at least 2 OTP to your live OS environment. You will need another PC or a mobile wallet such as Fearless app to make this transaction. Click [**here** ](trac-teleportation-faq.md#undefined)if you are unable to meet this requirement.

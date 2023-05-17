@@ -20,10 +20,10 @@ coverY: -1107.938944463608
 
 There are currently **4 ongoing stages**:
 
-* ****[**Global stages**](https://origintrail.io/roadmap): Turing, Metcalfe and Tim-Bernes Lee stages to reflect the global state of the OriginTrail and OriginTrail Parachain ecosystem
-* ****[**OTP stages**](https://medium.com/origintrail/google-for-web3-specific-blockchain-origintrail-parachain-launches-today-heres-what-s-next-9a0d92bb72ef): 6 stages total that highlights the development of the OT Parachain Layer-1
-* ****[**DKG V6 testnet stages**](https://docs.origintrail.io/decentralized-knowledge-graph-layer-2/dkg-v6-launch-progress): 3 stages for the DKG Layer-2 development
-* ****[**DKG V6 Bounty stages**](https://bountyprogram.origintrail.io/): 2 stages for the DKG V6 Testnet Bounty Program
+* [**Global stages**](https://origintrail.io/roadmap): Turing, Metcalfe and Tim-Bernes Lee stages to reflect the global state of the OriginTrail and OriginTrail Parachain ecosystem
+* [**OTP stages**](https://medium.com/origintrail/google-for-web3-specific-blockchain-origintrail-parachain-launches-today-heres-what-s-next-9a0d92bb72ef): 6 stages total that highlights the development of the OT Parachain Layer-1
+* [**DKG V6 testnet stages**](https://docs.origintrail.io/decentralized-knowledge-graph-layer-2/dkg-v6-launch-progress): 3 stages for the DKG Layer-2 development
+* [**DKG V6 Bounty stages**](https://bountyprogram.origintrail.io/): 2 stages for the DKG V6 Testnet Bounty Program
 
 ### **ONGOING EVENTS:**
 

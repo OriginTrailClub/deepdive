@@ -28,7 +28,7 @@ OneAgrix and the core developers of OriginTrail announced a partnership with the
 
 </details>
 
-****
+
 
 {% embed url="https://www.youtube.com/watch?t=817&v=8dbpQVdUQ-4" %}
 

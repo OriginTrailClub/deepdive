@@ -38,19 +38,31 @@ Decentralized knowledge graphs such as the kind that startup OriginTrail is maki
 
 ## [FINTECH INDUSTRY REPORT: BTIG Cryptoasset Currents](https://btigresearch.bluematrix.com/sellside/EmailDocViewer?encrypt=581fef78-ef72-4af0-968c-d3900f788607\&mime=pdf\&co=btigresearch\&id=mpalmer@btig.com\&source=mail)
 
+<div align="left">
+
 <figure><img src="https://www.btig.com/wp-content/themes/parent/imgs/btig-logo.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 _Decentralized Knowledge Graph Facilitating Trusted Data Sharing in Real World & Across Web3._
 
 ## [Launch of real-world use-case sparks 162% rise in OriginTrail's TRAC token](https://cointelegraph.com/news/launch-of-real-world-use-case-sparks-a-162-rise-in-origintrail-s-trac-token)
 
+<div align="left">
+
 <figure><img src="https://en.bitcoinwiki.org/upload/en/images/e/eb/CT.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 _“There are three underlying reasons behind the sudden spike in TRAC’s price and trading volume: the ongoing rollout of OriginTrail v6, the launch of AidTrust and the migration to Web3. “_
 
 ## [Investing in TRAC: Everything you need to know](https://www.securities.io/investing-in-origintrail-trac-everything-you-need-to-know/)
 
+<div align="left">
+
 <figure><img src="https://ml8ygptwlcsq.i.optimole.com/cb:h-iG~1d34f/w:230/h:30/q:mauto/https://www.securities.io/wp-content/uploads/2021/05/Logo200x26-topmenu.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 _“You have to hand it to Tracelabs, the group behind the Origintrail project. The system compensates users for their efforts and serves a vital role in improving business systems. The fact that the network can integrate multiple top-performing blockchains and legacy business systems is another huge plus. These benefits and many others continue to make Origintrail (TRAC) a project to watch in 2022.”_
 

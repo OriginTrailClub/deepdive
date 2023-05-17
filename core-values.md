@@ -10,7 +10,7 @@ The first core principle of OriginTrail prioritizes inclusiveness, co-creation, 
 
 ## **2. Usability**
 
-Trace Labs, the developers behind OriginTrail, aim to bring users, enterprises, and developers to the protocol's network by making it more efficient and user-friendly. To achieve this, they have created various interface solutions that are used by **** [**global enterprises and government bodies**](https://origintrail.io/case-studies). They have also developed [**Project Magnify**](https://projectmagnify.io/), a DKG client, which enables users to publish assets directly into the ecosystem without having to operate a node. The improvement in the usability of the ODN will generate positive network effects, leading to growth for the entire ecosystem.
+Trace Labs, the developers behind OriginTrail, aim to bring users, enterprises, and developers to the protocol's network by making it more efficient and user-friendly. To achieve this, they have created various interface solutions that are used by [**global enterprises and government bodies**](https://origintrail.io/case-studies). They have also developed [**Project Magnify**](https://projectmagnify.io/), a DKG client, which enables users to publish assets directly into the ecosystem without having to operate a node. The improvement in the usability of the ODN will generate positive network effects, leading to growth for the entire ecosystem.
 
 ## **3. Inclusiveness**
 

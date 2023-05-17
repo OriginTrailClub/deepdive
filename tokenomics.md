@@ -8,7 +8,7 @@ coverY: -913.7340462228356
 
 ## **TRAC token**
 
-****![](<.gitbook/assets/image (10).png>)****
+![](<.gitbook/assets/image (10).png>)
 
 ### Facts
 
@@ -19,8 +19,8 @@ coverY: -913.7340462228356
 * **Token Standard**: ERC-20&#x20;
 * **ICO price**: $0.10 (0.00007968 ETH)
 * **Contract Address**: 0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f (18 decimal)
-* ****[**Original 2017 whitepaper**](https://origintrail.io/storage/documents/OriginTrail-White-Paper.pdf)****
-* ****[**New 2022 whitepaper**](https://parachain.origintrail.io/whitepaper)****
+* [**Original 2017 whitepaper**](https://origintrail.io/storage/documents/OriginTrail-White-Paper.pdf)
+* [**New 2022 whitepaper**](https://parachain.origintrail.io/whitepaper)
 
 The following table shows the current TRAC token distribution. As described in the [2020 Q1 Report](https://medium.com/origintrail/origintrail-quarterly-report-q1-2020-f19b9fa95596), all of the TRAC available in the “soft lock” column will be used in the protocol development fund for future improvements (132.5 million total).
 
@@ -40,7 +40,7 @@ The OriginTrail Parachain super-charges these data marketplaces with the additio
 
 ## OTP **token**
 
-****![](<.gitbook/assets/image (16).png>)****
+![](<.gitbook/assets/image (16) (1).png>)
 
 ### **Facts**
 
@@ -51,7 +51,7 @@ The OriginTrail Parachain super-charges these data marketplaces with the additio
   * **75%** of the distribution is **unlocked progressively over the course of the 2 years**
 * **5% inflation rate** **per year** **up to 1B max supply**
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 The OTP layer-1 token is the OriginTrail Parachain. It is designed as a **gas and reward token**. Rather than relying on ETH, MATIC, XDAI as gas tokens for network transactions, OTP will be used to pay for gas on the OriginTrail Parachain. OTP is also a reward token that **incentivizes growth** of the DKG on the Origintrail Parachain, making sure the **OriginTrail Parachain is the most attractive blockchain layer for the DKG**. In other words, our parachain (layer-1) requires a token, OTP, to function as gas for transactions and as a reward for [collators](https://wiki.polkadot.network/docs/learn-collator) for processing blocks back to Polkadot (layer-0).&#x20;
 
@@ -63,7 +63,7 @@ Below is a detailed description of the OTP utility token:
 * **Incentivizing collators** - collators who perform network functions are required to lock up OTP to signal the amount of stake they are willing to keep locked for a period of time in order to receive OTP rewards. The higher the locked amount, the greater the chance a collator candidate gets placed inthe group of rewarded collators
 * **Delegate to collators** - OTP holders who are not collators can delegate their OTP and earn a part of the reward
 * **Governance and voting** - OTP holders can lock their OTP to vote on update proposals for OriginTrail Parachain network and community treasury proposals
-* **Data marketplace** - OTP as a fungible token, just like TRAC, can be used in a **** data marketplace environment using smart contracts
+* **Data marketplace** - OTP as a fungible token, just like TRAC, can be used in a data marketplace environment using smart contracts
 
 Please consult the [**2022 whitepaper**](https://parachain.origintrail.io/whitepaper?section=genesis-distribution) to learn about the distribution of OTP.
 

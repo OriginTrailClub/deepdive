@@ -16,8 +16,8 @@ description: Here is a list of definitions to help understand the different term
 
 [**OTP**](https://parachain.origintrail.io/) (OriginTrail Parachain) – The **Layer-1** OriginTrail parachain token on Polkadot used for gas and incentivisation of collators and DKG users. It is capped at 1B supply, with 500M initially allocated (25% at genesis distribution) and an inflationary release of 5% annually.
 
-****[**Branimir Rakic**](https://twitter.com/branarakic) – Founder, technical architect & CTO at [@origin\_trail](https://twitter.com/origin\_trail)([@tracelabshq](https://twitter.com/tracelabshq)). Decentralized Knowledge Graph & Semantic Web3 builder.&#x20;
+[**Branimir Rakic**](https://twitter.com/branarakic) – Founder, technical architect & CTO at [@origin\_trail](https://twitter.com/origin\_trail)([@tracelabshq](https://twitter.com/tracelabshq)). Decentralized Knowledge Graph & Semantic Web3 builder.&#x20;
 
-****[**Žiga Drev**](https://twitter.com/DrevZiga) – Founder at [@TraceLabsHQ](https://twitter.com/TraceLabsHQ) - Core [@origin\_trail](https://twitter.com/origin\_trail) Developers
+[**Žiga Drev**](https://twitter.com/DrevZiga) – Founder at [@TraceLabsHQ](https://twitter.com/TraceLabsHQ) - Core [@origin\_trail](https://twitter.com/origin\_trail) Developers
 
-****[**Tomaz Levak**](https://twitter.com/TomazOT) – Founder at [@Origin\_Trail](https://twitter.com/Origin\_Trail) - the ecosystem behind the Decentralized Knowledge Graph and [@OT\_Parachain](https://twitter.com/OT\_Parachain) networks.
+[**Tomaz Levak**](https://twitter.com/TomazOT) – Founder at [@Origin\_Trail](https://twitter.com/Origin\_Trail) - the ecosystem behind the Decentralized Knowledge Graph and [@OT\_Parachain](https://twitter.com/OT\_Parachain) networks.

@@ -8,21 +8,21 @@ description: Everything about claiming OTP rewards
 
 ### TABLE OF CONTENT
 
-[**INTRODUCTION**](otp-claiming-faq.md#0-introduction)****
+[**INTRODUCTION**](otp-claiming-faq.md#0-introduction)
 
-****[**IMPORTANT GENERAL NOTES**](otp-claiming-faq.md#1-important-general-notes)
+[**IMPORTANT GENERAL NOTES**](otp-claiming-faq.md#1-important-general-notes)
 
-****[**AM I ELIGIBLE FOR TRAC HOLDER OTP REWARD ?**](otp-claiming-faq.md#2-am-i-eligible-for-trac-holder-otp-reward)
+[**AM I ELIGIBLE FOR TRAC HOLDER OTP REWARD ?**](otp-claiming-faq.md#2-am-i-eligible-for-trac-holder-otp-reward)
 
-****[**HOW DO I CLAIM MY V5 NODE RUNNER OTP REWARD ? (ALREADY DISTRIBUTED 2022-08-08)**](otp-claiming-faq.md#3-how-do-i-claim-my-v5-node-runner-otp-reward)
+[**HOW DO I CLAIM MY V5 NODE RUNNER OTP REWARD ? (ALREADY DISTRIBUTED 2022-08-08)**](otp-claiming-faq.md#3-how-do-i-claim-my-v5-node-runner-otp-reward)
 
-****[**THE CLAIMING INTERFACE USES METAMASK AND MY FUNDS ARE ELSEWHERE, WHAT DO I DO ?**](otp-claiming-faq.md#4-the-claiming-interface-uses-metamask-and-my-funds-are-held-elsewhere-what-do-i-do)
+[**THE CLAIMING INTERFACE USES METAMASK AND MY FUNDS ARE ELSEWHERE, WHAT DO I DO ?**](otp-claiming-faq.md#4-the-claiming-interface-uses-metamask-and-my-funds-are-held-elsewhere-what-do-i-do)
 
-****[**HOW TO CLAIM YOUR VESTED AMOUNT OF OTP**](otp-claiming-faq.md#5-how-to-claim-your-vested-amount-of-otp)
+[**HOW TO CLAIM YOUR VESTED AMOUNT OF OTP**](otp-claiming-faq.md#5-how-to-claim-your-vested-amount-of-otp)
 
-****[**RECOMMENDED POLKADOT WALLETS**](otp-claiming-faq.md#recommended-polkadot-wallets)
+[**RECOMMENDED POLKADOT WALLETS**](otp-claiming-faq.md#recommended-polkadot-wallets)
 
-****[**HOW TO CHECK YOUR OTP BALANCE**](otp-claiming-faq.md#how-to-check-your-otp-balance)
+[**HOW TO CHECK YOUR OTP BALANCE**](otp-claiming-faq.md#how-to-check-your-otp-balance)
 
 ### INTRODUCTION
 

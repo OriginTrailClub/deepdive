@@ -15,6 +15,12 @@ In other words, a KG connects various data such as objects, locations, people, e
 
 <figure><img src=".gitbook/assets/BigDatavsOT.jpg" alt=""><figcaption></figcaption></figure>
 
+Here is a great [**article**](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/) from Ontotext about Knowledge Graphs.&#x20;
+
+In summary, a knowledge graph is a powerful tool for data analysis and interpretation. It's a form of database that uses graph theory to store, manage, and analyze data. The data is stored as nodes (entities) and edges (relationships), which allows for complex relationships to be represented and analyzed in a way that's not possible with traditional databases. Knowledge graphs are particularly useful for tasks that involve understanding and interpreting complex, interconnected data. They're used in a wide range of applications, from search engines (like Google's KG) to recommendation systems, natural language processing, and more. In a KG, data is stored as entities and relationships. Entities are the objects or concepts that the graph represents, and relationships are the connections between those entities. This structure allows for a high degree of flexibility and complexity in the data that can be represented.
+
+One of the key benefits of knowledge graphs is their ability to handle "semantic" data - data that carries meaning. This makes them particularly useful for tasks that involve understanding and interpreting natural language, as well as tasks that involve complex, interconnected data, such as AI.
+
 OriginTrail uses a Decentralized Knowledge Graph by having nodes running on the ODN across the globe, which are not siloed and can be run by anybody. Data is stored on nodes rather than private enterprise servers, allowing for companies (_or individuals for that matter_) to share, exchange or monetize their data while retaining their profits or anonymity. The ODN allows companies to select which data a company wants to keep private and what they wish to share. It’s a complete shift toward a more transparent and less centralized way of conducting business without having to rely on a 3rd party.
 
 One of the team's core members wrote the [**Twitter thread**](https://twitter.com/CryptoWaving/status/1624497244060758018) below which explains why the DKG is so important for humanity going forward.

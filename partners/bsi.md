@@ -26,7 +26,7 @@ Bono, from U2, who is a co-owner of a distillery called Monasterevin, hired BSI 
 
 Dan also mentions a solution they are creating for the UK government, which we now know is [Trusted Bytes](https://www.bsigroup.com/en-GB/about-bsi/media-centre/press-releases/2022/june/one-year-on-since-bsi-and-trace-labs-joined-the-innovate-uk-consortium-to-develop-new-digital-solutions-for-the-food-and-trade-industry/). This is a solution to ensure the digitization of the UK’s fresh produce and supply chains:
 
-“BSI will leverage various open international best practice frameworks around supply chain data __ management, trust, and interoperability within the Trusted Bytes initiative. These include GS1/EPCIS, W3C DIDs, and verifiable credentials, ISO 44001 Collaborative Business Relationships, **and the open OriginTrail decentralized protocol stack (origintrail.io).**
+“BSI will leverage various open international best practice frameworks around supply chain data management, trust, and interoperability within the Trusted Bytes initiative. These include GS1/EPCIS, W3C DIDs, and verifiable credentials, ISO 44001 Collaborative Business Relationships, **and the open OriginTrail decentralized protocol stack (origintrail.io).**
 
 “providing seamless real-time digital connectivity to supply chain operators. It will also enable a trusted data exchange that connects the supply chain with central government and other critical partners enhancing cross border transition, compliance and security.“
 

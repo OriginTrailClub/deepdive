@@ -42,4 +42,4 @@ I’m having discussions right now with a very large footwear company and they w
 
 </details>
 
-### ****
+###

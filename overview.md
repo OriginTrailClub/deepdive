@@ -24,7 +24,7 @@ The DKG serves as an important building block for the creation of a more secure,
 
 More details on OriginTrail and the vision of Web3 [**here**](https://medium.com/origintrail/the-race-to-building-a-better-internet-is-on-trace-labs-leads-the-way-in-establishing-web3-5941cf354c8c).
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 In the context of supply chains, the DKG is a neutral, open-source protocol enabling secure peer-to-peer data sharing between companies and supply chains. It utilizes decentralized nodes and an off-chain technology stack to interface with legacy systems as well as other blockchains (permissioned and permissionless). OriginTrail allows businesses to improve interoperability among different IT systems by removing data silos, ensuring data integrity, immutability and traceability by fingerprinting a cryptographic data hash of the data to a blockchain and facilitating trusted data exchange.
 

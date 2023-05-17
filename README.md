@@ -12,7 +12,7 @@ OriginTrail is an **open protocol** that blends the power of **blockchain** tech
 
 In other words, it is the combination of two technologies:
 
-1. ****[**Knowledge Graphs**](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/) – which are advanced databases used by big tech companies such as Google, Amazon, Facebook, Twitter, Uber to derive value from user data.
+1. [**Knowledge Graphs**](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/) – which are advanced databases used by big tech companies such as Google, Amazon, Facebook, Twitter, Uber to derive value from user data.
 2. **Blockchain** – which enables decentralization, meaning the database is not controlled by for-profit companies.
 
 {% hint style="success" %}
@@ -32,7 +32,7 @@ In other words, **Data** becomes exponentially more valuable when it's connected
 The DKG becomes the provider of limitless data where all centralized or decentralized AI technologies, such as **Google's Bard**, **Microsoft's ChatGPT**, **Fetch AI** and **Bittensor**, can be linked together and built upon, resulting in a more transparent, interconnected and valuable ecosystem.
 
 {% hint style="success" %}
-#### The Decentralized Knowledge Graph is the portal of humanity's data to the Semantic Web and Artificial Intelligence. In other words, the core team of OriginTrail is building the decentralized ** **<mark style="color:blue;">**Google for Web3**</mark>** and the **<mark style="color:blue;">**Brain of AI**</mark>**.**&#x20;
+#### The Decentralized Knowledge Graph is the portal of humanity's data to the Semantic Web and Artificial Intelligence. In other words, the core team of OriginTrail is building the decentralized <mark style="color:blue;">**Google for Web3**</mark>** and the **<mark style="color:blue;">**Brain of AI**</mark>**.**&#x20;
 {% endhint %}
 
 ## Dr. Bob Metcalfe
@@ -67,7 +67,7 @@ OriginTrail is currently partnered with the [**British Standard Institution (BSI
 
 #### "Data is such an integral part of our lives and it’s going to continue to become even more and more integral as we move into a more globally digitized world. As such, our mission and our core objectives are only going to become more and more important. Data needs to be trusted, it needs to be easily verifiable, and it needs to all speak the same language. There are so many use cases from this that include everything from supply chain management to certification to identification and right through to true data autonomy for the individual. What’s really needed is the protocol to do all of this, and this is what we provide and what we are continuing to perfect and fine-tune. "
 
-**"It’s a lot to digest and to understand but the importance and scale of this mission really can’t be understated."** [**source**](https://startup.info/ziga-drev-origintrail/)****
+**"It’s a lot to digest and to understand but the importance and scale of this mission really can’t be understated."** [**source**](https://startup.info/ziga-drev-origintrail/)
 
 
 
