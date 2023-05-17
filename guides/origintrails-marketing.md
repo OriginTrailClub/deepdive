@@ -1,51 +1,37 @@
 ---
-description: My personal take on OriginTrail's marketing strategy
+description: What are the distinctions and similarities?
 ---
 
-# OriginTrail's Marketing
+# Trace Labs vs OriginTrail vs TRAC
 
-This is a personal take on OriginTrail's marketing strategy from BRX, OriginTrail Community Admin. There's been a lot of talk about the team's marketing, or the lack thereof, and I want to clarify a few things with the community.
-
-**Trace Labs** is a for-profit organization and the core development team of OriginTrail. Their business model is to market their platforms and/or solutions to other businesses in a B2B (business to business) fashion.&#x20;
+[**Trace Labs**](https://tracelabs.io/), located at Wyndham Street 46-48 in Hong Kong, serves as the for-profit core development team of OriginTrail. The team mostly comes from Slovenia and is currently actively engaged in various initiatives across Europe. They are responsible for driving the development and innovation of the project, focusing on creating platforms and solutions for businesses in a B2B (business to business) context.&#x20;
 
 {% hint style="info" %}
-**Trace Labs does not have any legal obligations towards the retail community**. However, the core values of the team (**neutrality, usability, inclusiveness**) are very much aligned with providing a valuable open network to the community.&#x20;
+**Trace Labs, as a business entity, does not have any legal obligations towards the retail community**. However, the core values of the team - neutrality, usability, inclusiveness - are very much aligned with providing a valuable open network to the community.&#x20;
 {% endhint %}
 
-In fact, Trace Labs has a valid interest to see TRAC rise - they do hold about 100M+ in TRAC funds in the treasury for the DKG's development. The team has also built the project's tokenomics around network effects. In other words, the more the DKG is used, the more TRAC is valuable.&#x20;
+In fact, Trace Labs has a valid interest to see the TRAC token rise - over 100M TRAC is located in the treasury for OriginTrail's development. By aligning the project's tokenomics with network effects, Trace Labs has strategically designed the system so that the increased utilization of the DKG directly contributes to the enhanced value of TRAC. This interdependence creates a virtuous cycle wherein the expansion of the DKG ecosystem translates into a more valuable TRAC token, further incentivizing adoption and network participation.
 
 {% hint style="success" %}
 The place where the community's interests are aligned with Trace Labs' is a **rising network activity, which in turn translates to a higher token value**.
 {% endhint %}
 
-Trace Labs needs other businesses to adopt their solutions to remain profitable, and therefore their marketing funds will prioritize that. At the same time, in order to persuade businesses to onboard their IT systems on the DKG, OriginTrail must remain fully neutral, compliant and open source. Showing our logo on NBA or hockey stadiums, partnerships with UFC are counterproductive for the scope of this project.&#x20;
+Trace Labs recognizes the importance of business adoption to sustain profitability, and thus their initial marketing efforts prioritize reaching out to other businesses. However, it is crucial to maintain the core principles of neutrality, compliance, and open-source nature of OriginTrail in order to persuade businesses to onboard their IT systems onto the DKG. Demonstrating a commitment to these values ensures that OriginTrail remains a trusted and reliable platform for businesses to integrate with. While partnerships or promotional activities with entities like NBA, hockey stadiums, or UFC may seem attractive from a marketing perspective, they may be counterproductive to the project's overarching goals and scope. Upholding the project's neutrality and focus on B2B adoption remains key to the long-term success and sustainability of OriginTrail.
 
-Another big hurdle to OriginTrail is a lack of liquidity, daily trade volume and exchange exposures. There is a clear relation between tokens being easily listed on all tier 1 exchanges, having high trading volume and sustaining a high price and the involvement of VCs, Venture Capital, in a pay-to-play environment. OriginTrail did not have any pre-sales to Venture Capitals and will not pay to be listed on exchanges - it is against the neutrality of the project.&#x20;
+In the context of the TRAC token, Trace Labs has intentionally avoided engaging in pre-sales to venture capitalists, prioritizing the project's neutrality and fairness. The team firmly stands against paying for exchange listings as it contradicts the principles of the project. Instead, OriginTrail aims to address the liquidity and exposure challenges by focusing on increasing network activity and profitability. By fostering adoption and generating real value through the usage of the DKG, Trace Labs intends to attract organic interest from exchanges and investors, establishing a sustainable ecosystem based on its utility and potential.
 
-{% hint style="warning" %}
-This is the chicken and egg dilemma - a vicious cycle of no VC support, low trading volume, no token price support, low retail marketing and a lack of speculators.&#x20;
+While the lack of liquidity and exchange exposure may pose initial challenges, OriginTrail's commitment to its core principles and the organic growth of the network will lay the foundation for long-term success, ensuring a fair and inclusive environment for all participants.
+
+{% hint style="info" %}
+The key to breaking this relentless cycle of no VC support, low trading volume, insufficient token price support, limited retail marketing, and a lack of speculators lies in a token price increase solely driven by its utility and value.&#x20;
 {% endhint %}
 
-How do we break this cycle ? **A price increase purely driven by tokenomics**.&#x20;
+In other words, **the best retail marketing strategy is having verifiable high network activity and profitable nodes**. This would be the end result of verifiable real world adoption, and not what we should begin with like many projects out there.&#x20;
 
-{% hint style="success" %}
-In other words, **the best retail marketing tactic is having high network activity and profitable nodes.**
-{% endhint %}
+In essence, **the most effective retail marketing strategy revolves around verifiable high network activity and profitable nodes**. This outcome is achieved through genuine real-world adoption, which sets OriginTrail apart from many projects that prioritize retail marketing efforts and high APR from the beginning.&#x20;
 
-Favorable situations going forward:
+Moving forward, there are several favorable situations that should contribute to TRAC becoming more valuable. These include Trace Labs partnerships with notable entities like **EU Commission, Swiss railways, BSI/SCAN/Aidtrust, OneAgrix, and Ontochain**, who are committed to utilizing the DKG for their own applications, **chatDKG**, an open-source framework dedicated to driving the adoption of trusted knowledge through decentralized AI, addressing a critical issue in the AI field - hallucinations, V6 network update, introducing knowledge assets and a fresh set of tokenomics designed to enhance the value of TRAC, OTP Community funds and governance on the OT Parachain, providing opportunities for the community to actively promote the DKG and contribute to its growth. These developments demonstrate the ongoing efforts to expand OriginTrail's network, leverage emerging technologies, and empower the community's engagement in shaping the future of the project.
 
-* Polkadot is one of the most VC funded project in the space
-* Many locked-in partners who will be using the DKG (Swiss railways, BSI/SCAN/Aidtrust, OneAgrix, Ontochain, ...)
-* V5 only had physical assets in the ODN, V6 will bring digital assets too (NFTs, DeFi) and a whole new set of tokenomics
-* New partnerships with other parachains to look forward to
-* OTP Community funds and governance / voting. We will be able to put marketing into our own hands with OTP funding
+Promoting TRAC is not an easy task, as it carries a complexity akin to TCP/IP protocols. Nevertheless, TRAC is poised to become a fundamental pillar of the Semantic Web. Dr. Bob Metcalfe, the Father of Ethernet, noted that its intricacies make it particularly intriguing to only a select few. In fact, the DKG serves as a backend protocol. Its primary purpose is to facilitate widespread usage without requiring end-users to possess an in-depth understanding of its intricacies. The focus lies in enabling seamless integration and utilization, providing value to businesses and individuals without necessarily burdening them with the technical complexities involved.
 
-TRAC is not easy to sell - it is very complex just like TCP/IP protocols. However, it will become a core pillar of Web3. Bob Metcalfe said it's something that's extremely interesting only to a select few due to the complexity. Tracdeepdive is exactly the type of resource I am trying to build to make things easier to digest for new investors. However, profitability is key to said investors. If they see real profit, they'll start asking questions about the project and this is where they will find all info and external links.
-
-{% hint style="success" %}
-The best way to increase retail interest is through yield % backed by real tangible assets. We must be able to show high network activity and node profitability, as well as being able to explain how these profits are backed by actual real world usage.
-{% endhint %}
-
-In short, the best retail marketing strategy that will market itself is having high network activity and great node returns, and the only way to have great node return is through business to business adoption - exactly what Trace Labs is focused on.
-
-Bob likes money, Bob wants to invest in a token with good staking retuns, Bob notices DKG v6 nodes have good yield %, Bob makes money, but Bob wants money to be safe and not minted, Bob reads tracdeepdive and finds out about all these assets backed by real adoption, Bob is a new tracer.
+In response to this complexity and to assist new investors in gaining a clearer understanding, I have created OriginTrail Deep Dive. This resource aims to simplify information and provide a comprehensive overview, making it easier for newcomers to grasp the key concepts of OriginTrail.

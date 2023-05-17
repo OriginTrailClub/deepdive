@@ -48,7 +48,7 @@
   * [V6 Mainnet Node Instructions](guides/v6-mainnet-node-instructions.md)
   * [Teleportation Guide](guides/trac-teleportation-faq.md)
   * [Why does V6 require 50k TRAC?](guides/why-does-v6-require-50k-trac.md)
-  * [OriginTrail's Marketing](guides/origintrails-marketing.md)
+  * [Trace Labs vs OriginTrail vs TRAC](guides/origintrails-marketing.md)
   * [Team AMA](guides/team-ama-summaries/README.md)
     * [November 2022](guides/team-ama-summaries/november-2022.md)
     * [September 2022](guides/team-ama-summaries/september-2022.md)
