@@ -14,7 +14,7 @@ You currently need 50k [**teleported TRAC**](https://teleport.origintrail.io/) t
 
 You must create a total of 4 wallets for the following step.&#x20;
 
-<table><thead><tr><th data-type="number">#</th><th>Wallet</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>EVM Operational wallet</td><td>Hot wallet for non admin node operations<br>Example: Metamask wallet</td></tr><tr><td>2</td><td>EVM Management wallet</td><td>Cold wallet for admin node operations<br>Example: Ledger</td></tr><tr><td>3</td><td>Substrate Operational wallet</td><td>Hot wallet to map with wallet #1<br>Example: polkadot.js, Talisman wallet</td></tr><tr><td>4</td><td>Substrate Management wallet</td><td>Cold wallet to map with wallet #2<br>Example: Ledger</td></tr></tbody></table>
+<table><thead><tr><th width="65" data-type="number">#</th><th width="266">Wallet</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>EVM Operational wallet</td><td>Hot wallet for non admin node operations<br>Example: Metamask wallet</td></tr><tr><td>2</td><td>EVM Management wallet</td><td>Cold wallet for admin node operations where your TRAC is held<br>Example: Ledger</td></tr><tr><td>3</td><td>Substrate Operational wallet</td><td>Hot wallet to map with wallet #1<br>Example: polkadot.js, Talisman wallet</td></tr><tr><td>4</td><td>Substrate Management wallet</td><td>Cold wallet to map with wallet #2<br>Example: Ledger</td></tr></tbody></table>
 
 {% hint style="warning" %}
 Mapping a hardware EVM wallet (such as Ledger) to a hot substrate wallet (such as polkadot.js or Talisman wallet) could expose your funds to the Internet since both EVM and substrate wallets can have full access to your funds on the Polkadot Ecosystem. Waiting for OTP Ledger support before mapping is advised to protect your funds. \
@@ -28,11 +28,11 @@ By using the information found [**here**](https://docs.origintrail.io/blockchain
 
 ## Step 3 - Fund your wallets with OTP
 
-Fund your wallets in step 1 with OTP tokens. For example, you can use TRAC holder OTP reward or teleport OTP bounty to fund your wallets.&#x20;
-
-You can also ask for some dust on [**OriginTrail Node Community**](https://t.me/otnodegroup)**.** You need at least 2 OTP (1 OTP for ED amount and the other for transations) on your substrate wallets (wallet **3 and 4** from step 1)
+You can also ask for some dust on [**OriginTrail Node Community**](https://t.me/otnodegroup)**.** You need at least 1 OTP to keep your substrate wallet active and another OTP for transaction fees (total: 2 OTP). You need 2 OTP on both of your substrate wallets (wallet **3 and 4** from step 1).
 
 ## Step 4 - Map your wallets
+
+Mapping is a permanent method to link an EVM to a substrate wallet so actions on either chain will reflect on your mapped wallet.&#x20;
 
 Once the funding of both substrate wallets are completed, head to the [**mapping interface**](https://parachain.origintrail.io/parachain-account-mapping) and select **Parachain Mainnet**.&#x20;
 
@@ -46,9 +46,9 @@ If mapping doesn't prompt you with 2 transactions, make sure you have at least 2
 
 Repeat for wallet **2 and 4** from step 1 and you would have completed the mapping process for your node.&#x20;
 
-## Step 5 - Fund your wallets with teleported TRAC
+## Step 5 - Fund your management wallet with teleported TRAC
 
-You require a minimum of 50k TRAC to run a mainnet node. You can purchase TRAC on platforms such as [**Coinbase**](https://www.coinbase.com/price/origintrail)**,** [**Kucoin**](https://www.kucoin.com/trade/TRAC-BTC)**,** [**Binance US**](https://www.binance.us/trade/pro/TRAC\_usd)**,** [**Huobi**](https://www.huobi.com/en-us/exchange/trac\_usdt/) **and** [**Uniswap**](https://app.uniswap.org/#/swap?outputCurrency=0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f) and once purchased, you need to teleport them to the OT Parachain. However, teleporting is now officially closed. &#x20;
+You require a minimum of 50k TRAC to run a mainnet node. You must fund your EVM Management wallet with the required amount (wallet 2). You can purchase TRAC on platforms such as [**Coinbase**](https://www.coinbase.com/price/origintrail)**,** [**Kucoin**](https://www.kucoin.com/trade/TRAC-BTC)**,** [**Binance US**](https://www.binance.us/trade/pro/TRAC\_usd)**,** [**Huobi**](https://www.huobi.com/en-us/exchange/trac\_usdt/) and [**Uniswap**](https://app.uniswap.org/#/swap?outputCurrency=0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f) and once purchased, you need to teleport or bridge them to the OT Parachain. [OT-RFC-16](https://github.com/OriginTrail/OT-RFC-repository/blob/main/RFCs/OT-RFC-16-Parachain-Bridges-Implementation/OT-RFC-16-Parachain-Bridges-Implementation.pdf) is currently underway to determine how to bridge TRAC to the OT Parachain and back. &#x20;
 
 {% hint style="info" %}
 **Reminder**:&#x20;
