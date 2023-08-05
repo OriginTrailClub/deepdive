@@ -2,7 +2,7 @@
 description: >-
   Network Operating System (nOS) is a hub for open industry data exchange,
   combining the benefits of the blockchain, global standards, and
-  enterprise-grade software
+  enterprise-grade software.
 ---
 
 # Network Operating System (nOS)
