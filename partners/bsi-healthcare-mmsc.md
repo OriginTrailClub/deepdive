@@ -2,7 +2,7 @@
 description: >-
   The Multi-Modal Compliance and Standards (MMCS) program is providing a
   consensus-based foundation on which to build the common GDP standards for safe
-  and compliant transportation of pharmaceuticals.
+  and compliant transportation of pharmaceuticals
 ---
 
 # BSI Healthcare - MMSC
