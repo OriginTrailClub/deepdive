@@ -23,7 +23,7 @@ SCAN exists to coordinate a standardized approach and audit criteria for importe
 * Strengthen international supply chains
 * Improve US border security
 
-To accomplish this SCAN conducts audits on factories outside the United States to ensure they meet minimum security requirements. This includes 20,000 factories in 74 countries. Annually SCAN conducts 14,000 factory audits in partnership with 850 authorized auditing firms.
+To accomplish this, SCAN conducts audits on factories outside the United States to ensure they meet minimum security requirements. This includes 20,000 factories in 74 countries. Annually SCAN conducts 14,000 factory audits in partnership with 850 authorized auditing firms.
 
 <figure><img src="https://miro.medium.com/max/720/0*jWMMph-lT2OftLz0" alt=""><figcaption></figcaption></figure>
 
@@ -62,9 +62,9 @@ This is a permissioned solution, only parties approved by SCAN can access this i
 >
 > “We’re very pleased with the way it turned out. It’s been a very good strategic partnership with Origin Trail”
 >
-> “It creates value, It creates instant credentialing and trust mechanisms for clients, but I think more importantly nobody else is doing this and it’s really going to cause massive growth within this association which is one of their overall objectives.”
+> “It creates value. It creates instant credentialing and trust mechanisms for clients; but, I think, more importantly nobody else is doing this and it’s really going to cause massive growth within this association which is one of their overall objectives.”
 >
-> “We’ve got some very exciting things that we’re working on, with Origin Trail, in these respective areas that really I think are very promising, they’re desperately needed and they’re going to further bring trust to the supply chain” [source](https://www.youtube.com/watch?v=Ss9pZkVsFpo)
+> “We’ve got some very exciting things that we’re working on, with Origin Trail, in these respective areas that really I think are very promising, they’re desperately needed and they’re going to further bring trust to the supply chain.” [source](https://www.youtube.com/watch?v=Ss9pZkVsFpo)
 
 
 
