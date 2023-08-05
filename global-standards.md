@@ -11,7 +11,7 @@ The majority of global supply chains run on standards developed by the [GS1](htt
 
 <figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
-Other systems to identify, capture, and share information among supply chain partners were all developed over the past 45 years by GS1. These standards allow for interoperability between different systems and supply chain architectures across the globe. Any blockchain-based solution to improve traceability should integrate with these legacy systems, and the OriginTrail protocol was designed from the ground up to do this.
+Other systems to identify, capture, and share information among supply chain partners were all developed over the past 45 years by GS1. These standards allow for interoperability between different systems and supply chain architectures across the globe. Any blockchain-based solution to improve traceability should integrate with these legacy systems; and the OriginTrail protocol was designed, from the ground up, to do this.
 
 <figure><img src="https://miro.medium.com/max/720/0*_fGc4ONcKagfKo_D" alt=""><figcaption></figcaption></figure>
 
@@ -29,6 +29,6 @@ OriginTrail’s standards-based approach also caught the attention of the World 
 
 Lastly, the German Federal Office for Information Security [praised OriginTrail as one of two future leaders](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Krypto/Blockchain\_Studie-374.html) in blockchain-assisted supply chain management.
 
-In 2021 onward, OriginTrail has partnered with BSI, the British Standards Institution National Standards Body, who along with [Poseidon](https://www.poseidon.team/), the independent pharmaceutical logistics network, are bringing their joint resources and expertise together to develop and execute a Multi-mode Compliance and Standards (MMCS) program to help promote, monitor and assess adherence to the GDP (Good Distribution Practice) regulations that underpin global pharmaceutical logistics. To learn more, you can watch the video below and read a great summary by SM [here](https://www.reddit.com/r/OriginTrail/comments/sh0l2x/how\_on\_earth\_did\_this\_workshop\_by\_bsi\_and/).
+In 2021 onward, OriginTrail has partnered with BSI (the British Standards Institution National Standards Body) who along with [Poseidon](https://www.poseidon.team/) (the independent pharmaceutical logistics network) are bringing their joint resources and expertise together to develop and execute a Multi-mode Compliance and Standards (MMCS) program to help promote, monitor and assess adherence to the GDP (Good Distribution Practice) regulations that underpin global pharmaceutical logistics. To learn more, you can watch the video below and read a great summary by SM [here](https://www.reddit.com/r/OriginTrail/comments/sh0l2x/how\_on\_earth\_did\_this\_workshop\_by\_bsi\_and/).
 
 {% embed url="https://www.youtube.com/watch?v=j3IQKydFnPc" %}
