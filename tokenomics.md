@@ -28,11 +28,11 @@ The following table shows the current TRAC token distribution. As described in t
 
 OriginTrail TRAC layer-2 token is the life and blood of the entire ecosystem. It is required to perform all operations on the DKG. It is an utility token that drives the entire network:
 
-* **Publishing and updating assets** – asset creators, such as enterprises, organizations, companies, even individuals must use TRAC to compensate OriginTrail node runners for holding their data for a period of time. This will be the main driving for TRAC’s tokenomics.
+* **Publishing and updating assets** – asset creators (such as enterprises, organizations, companies, even individuals) must use TRAC to compensate OriginTrail node runners for holding their data for a period of time. This will be the main driving for TRAC’s tokenomics.
 * **Collateral on OriginTrail nodes** – node runners must lock up TRAC as a collateral for holding asset publishes. The more TRAC locked up in the node, the more likely the node is chosen as the asset holder.
 * **Delegating to nodes** – token holders who do not wish to maintain a node have the possibility to delegate their TRAC to node runners, and in return obtain a portion of the rewards.
 * **Keyword staking** – Assets owners (enterprises, organizations, companies or individuals) can lock up TRAC to have their assets prioritized in a search result for a particular keyword, similar to [Google AdSense](https://www.google.com/adsense/start/). This is akin to a decentralized form of marketing spending in Web3 fashion.
-* **Data marketplace** – TRAC as a fungible token under ERC-20 standards is transferable and usable in any way ERC-20 assets are. TRAC can therefore be used in smart contracts that allow TRAC to be used as a compensation token for selling or buying assets. Data creators can earn from ownership of valuable data assets
+* **Data marketplace** – TRAC as a fungible token under ERC-20 standards is transferable and usable in any way ERC-20 assets are. TRAC can therefore be used in smart contracts that allow TRAC to be used as a compensation token for selling or buying assets. Data creators can earn from ownership of valuable data assets.
 
 The OriginTrail Parachain super-charges these data marketplaces with the addition of **knowledge tokens, knowledge wallets, the knowledge marketplace, and knowledge tenders**. They allow individuals to buy and sell data in a trusted, private way; the developers say this will increase TRAC’s utility _by orders of magnitude._ Because this is tied into to the Polkadot ecosystem, all Polkadot/Kusama projects will be able to utilize this feature. Please see the [2021 Roadmap for a very in-depth look](https://medium.com/origintrail/origintrail-2021-expanded-roadmap-accelerating-growth-through-starfleet-polkadot-and-knowledge-2a1c170daaf3) at this use case.
 
@@ -59,11 +59,11 @@ The OTP layer-1 token is the OriginTrail Parachain. It is designed as a **gas an
 
 Below is a detailed description of the OTP utility token:
 
-* **Gas fees** - for transactions, smart contracts and graph contracts (released at a later date)
-* **Incentivizing collators** - collators who perform network functions are required to lock up OTP to signal the amount of stake they are willing to keep locked for a period of time in order to receive OTP rewards. The higher the locked amount, the greater the chance a collator candidate gets placed inthe group of rewarded collators
-* **Delegate to collators** - OTP holders who are not collators can delegate their OTP and earn a part of the reward
-* **Governance and voting** - OTP holders can lock their OTP to vote on update proposals for OriginTrail Parachain network and community treasury proposals
-* **Data marketplace** - OTP as a fungible token, just like TRAC, can be used in a data marketplace environment using smart contracts
+* **Gas fees** - for transactions, smart contracts and graph contracts (released at a later date).
+* **Incentivizing collators** - collators who perform network functions are required to lock up OTP to signal the amount of stake they are willing to keep locked for a period of time in order to receive OTP rewards. The higher the locked amount, the greater the chance a collator candidate gets placed in the group of rewarded collators.
+* **Delegate to collators** - OTP holders who are not collators can delegate their OTP and earn a part of the reward.
+* **Governance and voting** - OTP holders can lock their OTP to vote on update proposals for OriginTrail Parachain network and community treasury proposals.
+* **Data marketplace** - OTP as a fungible token, just like TRAC, can be used in a data marketplace environment using smart contracts.
 
 Please consult the [**2022 whitepaper**](https://parachain.origintrail.io/whitepaper?section=genesis-distribution) to learn about the distribution of OTP.
 
