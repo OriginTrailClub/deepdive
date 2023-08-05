@@ -1,7 +1,7 @@
 ---
 description: >-
   BSI and SCAN are utilizing the OriginTrail protocol to ensure the integrity of
-  security audits for some of the largest US importers.
+  security audits for some of the largest US importers
 ---
 
 # BSI - SCAN
