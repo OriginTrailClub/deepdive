@@ -78,6 +78,8 @@ Dr. Bob Metcalfe, The Grandfather of network effects, joined Trace Labs’ advis
 
 **Branimir**: “That resonates so much with me professor because when you look at OriginTrail, it is a decentralized network so we have the concept of connectivity on the network level, or physical level, and there’s the concept of connectivity on the data level, and finally on the application level as you mentioned because there’s somebody consuming and publishing all of this information and then discovering it or utilizing it.”
 
-**Dr. Metcalfe**: “I’d like to reiterate the importance of what you’re doing. Metcalfe’s Law talked about the connection of machines and how valuable these PCs would be if they were connected. Then, Facebook made it all about connecting people together. What you’re working on is the connectivity of data and the value that can be derived from that.”or details on each stage, visit the link below
+**Dr. Metcalfe**: “I’d like to reiterate the importance of what you’re doing. Metcalfe’s Law talked about the connection of machines and how valuable these PCs would be if they were connected. Then, Facebook made it all about connecting people together. What you’re working on is the connectivity of data and the value that can be derived from that.” 
 
 </details>
+
+For details on each stage, visit the link below
