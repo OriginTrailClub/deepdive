@@ -4,7 +4,7 @@ description: British Standards Institution, national standards body of the Unite
 
 # BSI
 
-[BSI](https://www.bsigroup.com/) is one of the most serious standardization organizations that consult roughly 84,000 clients in 193 countries. They are creme de la creme within their segment and they consult both companies and governments to create solutions to mitigate risk, brand protection, and compliance, just to name a few. Right now, they rely heavily on the solutions made possible by OriginTrail.&#x20;
+[BSI](https://www.bsigroup.com/) is one of the most serious standardization organizations that consult roughly 84,000 clients in 193 countries. They are the creme de la creme within their segment and they consult both companies and governments to create solutions to mitigate risk, brand protection, and compliance - just to name a few. Right now, they rely heavily on the solutions made possible by OriginTrail.&#x20;
 
 BSI has [**partnered**](https://www.bsigroup.com/en-GB/about-bsi/media-centre/press-releases/2019/january/bsi-partners-with-origintrail-to-develop-blockchain-enabled-solutions/) with OriginTrail exclusively to solve some of the major hurdles that their clients experience in supply chains. Back in December of 2020, OriginTrail held a 4-hour Liftoff event where BSI, Oracle, and SBB (Swiss Railways) were showcasing their work and solutions they were building utilizing the ODN.&#x20;
 
@@ -12,7 +12,7 @@ BSI has [**partnered**](https://www.bsigroup.com/en-GB/about-bsi/media-centre/pr
 OriginTrail Liftoff Event
 {% endembed %}
 
-You can watch the Liftoff segment with Dan Putrell, Director of Innovations at BSI directly [here](https://youtu.be/Ss9pZkVsFpo). The solution being presented is for BSI’s [SCAN members](https://www.scanassociation.com/membership/our-members/) in the US, who represent 40% of ALL US imports each year. These companies must ensure that the products they import are from compliant factories outside of the US. Dan Putrell explains the entire process and its importance in the link attached above.
+You can watch the Liftoff segment with Dan Purtell, Director of Innovations at BSI directly [here](https://youtu.be/Ss9pZkVsFpo). The solution being presented is for BSI’s [SCAN members](https://www.scanassociation.com/membership/our-members/) in the US, who represent 40% of ALL US imports each year. These companies must ensure that the products they import are from compliant factories outside of the US. Dan Purtell explains the entire process and its importance in the link attached above.
 
 <figure><img src="https://origintrailexplained.info/wp-content/uploads/2020/06/scan-1-768x345.jpg" alt=""><figcaption><p>SCAN members in the USA</p></figcaption></figure>
 
