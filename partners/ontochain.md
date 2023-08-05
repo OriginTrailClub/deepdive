@@ -1,7 +1,7 @@
 ---
 description: >-
   A new software ecosystem for trusted, traceable & transparent ontological
-  knowledge
+  knowledge.
 ---
 
 # Ontochain
