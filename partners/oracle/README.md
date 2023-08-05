@@ -2,7 +2,7 @@
 description: >-
   Blockchain oracles are entities that connect blockchains to external systems,
   thereby enabling smart contracts to execute based upon inputs and outputs from
-  the real world
+  the real world.
 ---
 
 # Oracle
@@ -13,4 +13,4 @@ This solution is related to Automatic Dairy payments. What this is and how it fu
 
 {% embed url="https://www.youtube.com/watch?v=9-XucYs9FIM" %}
 
-You can also watch Jens Lusebrink from Oracle [during the Liftoff event](https://youtu.be/UfRWKTKJOFU), where Dan Putrell from BSI was also present, explaining their involvement with Trace Labs creating solutions on the ODN.
+You can also watch Jens Lusebrink from Oracle [during the Liftoff event](https://youtu.be/UfRWKTKJOFU), where Dan Purtell from BSI was also present, explaining their involvement with Trace Labs creating solutions on the ODN.
