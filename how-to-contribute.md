@@ -1,5 +1,5 @@
 ---
-description: Any help to maintain this website is appreciated !
+description: Any help to maintain this website is appreciated!
 cover: .gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
 coverY: -1027.3439116936875
 ---
@@ -11,14 +11,14 @@ coverY: -1027.3439116936875
 If you would like to help the TRAC community build this page, please follow the steps below:
 
 1. Create your own [GitHub ](https://github.com/)account
-2.  On the top right corner of this [GitHub Repository](https://github.com/Valcyclovir/tracdeepdive), click **fork**&#x20;
+2.  On the top right corner of this [GitHub Repository](https://github.com/OriginTrailClub/deepdive), click **fork**&#x20;
 
-    You have now successfully "copied" this website into your GitHub account ! Now all changes you make will be under your account.&#x20;
+    You have now successfully "copied" this website into your GitHub account! Now all changes you make will be under your account.&#x20;
 3. When you are done editing a file, you can **save** the changes
 4. Then, go back to your main Repository page
 5. &#x20;Click on **Contribute** and then **Open Pull Request**
 6. You can write a description, then click **Create Pull Request**
-7. &#x20;The changes will then be sent back to my main Repository pending my review. Done !
+7. &#x20;The changes will then be sent back to my main Repository pending my review. Done!
 
 Another way to edit your repository is by using [VS code](https://code.visualstudio.com/). This program will allow you a lot more options rather than directly modifying on GitHub.&#x20;
 
@@ -37,11 +37,11 @@ Another way to edit your repository is by using [VS code](https://code.visualstu
 
     git clone \<paste the address you copied on step 8 here>
 
-Your GitHub Repository is now on VS code and you can use it to edit tracdeepdive !
+Your GitHub Repository is now on VS code and you can use it to edit tracdeepdive!
 
-The principle is the same as before. Once you're done editing a page, ctrl+s to **save** the edited file on your local computer, then **commit** it to your GitHub Repository, and finally, create a **Pull Request** to my main Repository for my review. Everything can be done within VS Code !
+The principle is the same as before. Once you're done editing a page, ctrl+s to **save** the edited file on your local computer, then **commit** it to your GitHub Repository, and finally, create a **Pull Request** to my main Repository for my review. Everything can be done within VS Code!
 
-Welcome to the #derpdive gang and thanks for contributing !
+Welcome to the #derpdive gang and thanks for contributing!
 
 If you have any problems following the steps above, please create an issue [here](https://github.com/Valcyclovir/tracdeepdive/issues).&#x20;
 
