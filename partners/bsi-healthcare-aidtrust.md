@@ -1,7 +1,7 @@
 ---
 description: >-
   Produced in partnership by BSI and Trace Labs, AidTrust brings visibility and
-  trust to the distribution of donated medicines in the healthcare supply chain
+  trust to the distribution of donated medicines in the healthcare supply chain.
 ---
 
 # BSI Healthcare – AidTrust
