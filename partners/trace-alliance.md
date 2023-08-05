@@ -1,7 +1,7 @@
 ---
 description: >-
   Trace Alliance unites everyone working on blockchain-based solutions for
-  supply chains
+  supply chains.
 ---
 
 # Trace Alliance
