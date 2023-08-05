@@ -14,7 +14,7 @@ coverY: -1052.590548464988
 
 </div>
 
-The core developper team of OriginTrail has expanded the advisory board with one of the earliest Internet pioneers, professor Bob Metcalfe. Dr. Metcalfe invented Ethernet and is famous for **Metcalfe’s Law**. As the OriginTrail Knowledge Graph gains traction among users worldwide, Dr. Metcalfe will **help apply Metcalfe’s Law to predict the value of linked data based on the network effect**.
+The core developer team of OriginTrail has expanded the advisory board with one of the earliest Internet pioneers, professor Bob Metcalfe. Dr. Metcalfe invented Ethernet and is famous for **Metcalfe’s Law**. As the OriginTrail Knowledge Graph gains traction among users worldwide, Dr. Metcalfe will **help apply Metcalfe’s Law to predict the value of linked data based on the network effect**.
 
 [**Source:  Medium**](https://tracdeepdive.info/advisors/V)
 
@@ -50,7 +50,7 @@ Ken Lyon is Managing Director of Virtual Partners Ltd and has over 40 years of e
 
 </div>
 
-Greg Kidd is an adviser and an early or a first round investor through the investment firm Hard Yaka for numerous reputable companies including Coinbase, Shift (now Apto), Ripple, Protocol Labs (the company behind the Filecoin), Uphold, Solana, Robinhood, Square and Twitter. He previously served as the director of Promontory Financial and senior analyst for payments for the Federal Reserve Board of Governor. Greg is a believer that one’s identity credentials should be truly portable and owned by individuals themselves rather than corporations or governments, which led him to found and lead [**GlobaliD**](https://global.id/) — a universal identity solution that is easy to use, ties users to unique names, and transcends borders and institutions.
+Greg Kidd is an advisor and an early or a first round investor through the investment firm Hard Yaka for numerous reputable companies including Coinbase, Shift (now Apto), Ripple, Protocol Labs (the company behind the Filecoin), Uphold, Solana, Robinhood, Square and Twitter. He previously served as the director of Promontory Financial and senior analyst for payments for the Federal Reserve Board of Governor. Greg is a believer that one’s identity credentials should be truly portable and owned by individuals themselves rather than corporations or governments, which led him to found and lead [**GlobaliD**](https://global.id/) — a universal identity solution that is easy to use, ties users to unique names, and transcends borders and institutions.
 
 [**Source: Medium**](https://medium.com/origintrail/greg-kidd-an-early-investor-in-twitter-coinbase-and-square-joins-origintrails-core-team-the-fc412718993b)
 
