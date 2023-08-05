@@ -16,4 +16,4 @@ As we all know, maintaining a website requires time, dedication and resources. I
 **Substrate:** 12L5zmmHxg4sv5FpMD93Ddp6mHWPRUXGD6QZvGUxbJkaisSC
 {% endhint %}
 
-And if you do donate a sum, drop a comment at tracdeepdive@gmail.com and I will personally thank you!
+And, if you do donate a sum, drop a comment at tracdeepdive@gmail.com and I will personally thank you!
