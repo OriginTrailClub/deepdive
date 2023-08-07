@@ -4,7 +4,7 @@ The BUILDCHAIN Project aims to promote the sustainability of the construction in
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-The project is led by a consortium of European companies, research institutes, and universities, and that it will use blockchain technology to create a platform that will enable construction companies to share data and collaborate more effectively. The platform will be built using OriginTrail's Decentralized Knowledge Graph, and it will enable companies to share information about the materials they use, the energy they consume, and the emissions they produce.
+The project is led by a consortium of European companies, research institutes, and universities; and it will use blockchain technology to create a platform that will enable construction companies to share data and collaborate more effectively. The platform will be built using OriginTrail's Decentralized Knowledge Graph, and it will enable companies to share information about the materials they use, the energy they consume, and the emissions they produce.
 
 The BUILDCHAIN Project is part of the EU's Horizon 2020 research and innovation program, which aims to support projects that have the potential to have a significant impact on society and the economy. The goal of the project is to create a more sustainable construction industry in the EU, which will benefit both the environment and the economy.
 

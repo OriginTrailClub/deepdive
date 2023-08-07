@@ -2,7 +2,7 @@
 description: >-
   SmartAgriHubs aims to realize the digitization of European agriculture by
   fostering an agricultural innovation ecosystem dedicated to excellence,
-  sustainability, and success.
+  sustainability, and success
 ---
 
 # SmartAgriHubs

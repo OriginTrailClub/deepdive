@@ -6,7 +6,7 @@ coverY: -826.3418420144877
 
 # Blockchain Layer
 
-OriginTrail combines the power of **Knowledge Graphs** and **Blockchains** to create an open protocol. However, it's important to note that **OriginTrail is not a blockchain** itself, but rather a decentralized network that operates off-chain and in conjunction with the blockchain layer. It has been designed to be interoperable with any blockchain and to act as a complementary middleware solution, addressing the issue of **data interconnectivity**. As a **layer-2 multichain and agnostic protocol**, OriginTrail can be integrated with any blockchain, providing data immutability and decentralization through blockchain technology. Currently, the OriginTrail decentralized protocol is functioning on OTP, ETH, xDAI, and MATIC blockchains.
+OriginTrail combines the power of **Knowledge Graphs** and **Blockchains** to create an open protocol. However, it's important to note that **OriginTrail is not a blockchain** itself; but rather a decentralized network that operates off-chain and in conjunction with the blockchain layer. It has been designed to be interoperable with any blockchain and to act as a complementary middleware solution, addressing the issue of **data interconnectivity**. As a **layer-2 multichain and agnostic protocol**, OriginTrail can be integrated with any blockchain, providing data immutability and decentralization through blockchain technology. Currently, the OriginTrail decentralized protocol is functioning on OTP, ETH, xDAI, and MATIC blockchains.
 
 <figure><img src=".gitbook/assets/OT_consensuslayer.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -27,5 +27,5 @@ It is anticipated that a significant portion of network activity will occur on t
 {% embed url="https://twitter.com/Polkadot/status/1303719162280255488?s=20&t=lYh9vdtS-YvOFEz0inTrZg" %}
 
 {% hint style="success" %}
-Tthe total token supply remains unchanged across different chains. The total supply is fixed at 500M. &#x20;
+The total token supply remains unchanged across different chains. The total supply is fixed at 500M. &#x20;
 {% endhint %}

@@ -25,7 +25,7 @@ Together with the British Standards Institution (BSI), Trace Labs, the core deve
 {% embed url="https://www.bsigroup.com/globalassets/localfiles/en-gb/healthcare/vaccine-best-practice/bsi-ngo-pharma-distribution-0521.pdf" %}
 
 {% hint style="info" %}
-“98% of Fortune 500 Pharmaceutical Clients Partner with BSI to mitigate risk and protect Brand Reputation“. [source](https://twitter.com/BSI\_America/status/1351953816690831371)
+“98% of Fortune 500 Pharmaceutical Clients partner with BSI to mitigate risk and protect Brand Reputation“. [source](https://twitter.com/BSI\_America/status/1351953816690831371)
 {% endhint %}
 
 Preliminary conclusions are very positive and you can see BSI discussing the case study with their partners in the video below. This video is strongly recommended if you are interested in the application of OriginTrail in the supply chain mangement of the healthcare sector. Note that not a single member of the OriginTrail team is presenting in that video. You are seeing BSI members David Fairnie, Paul Raw and Georgios Ampartzidis from [WFH](https://www.wfh.org/) discussing the use case of OriginTrail.
@@ -46,7 +46,7 @@ There are currently two global pharmaceutical companies and one NGO participatin
 
 {% embed url="https://twitter.com/guinnessstache/status/1471828191115452422" %}
 
-BSI and Courtney Soulsby, Senior Development Director for Healthcare at BSI, were invited by Corvus Global Events to present their AidTrust solution on March 15th 2022 in an “[Exclusive Presentation](https://postimg.cc/jW8fXWwB)“. The attendees of this conference, Pharma Supply Chain & Security World 2022, were none other than [most Pharma giants of this world](https://postimg.cc/N2RwgHRn). Here are some highlights from Courtney Soulsby presenting on [Pharma Supply Chain & Security World 2022](https://corvusglobalevents.com/conference/pharma-supply-chain-security-world-2022)
+BSI and Courtney Soulsby, Senior Development Director for Healthcare at BSI, were invited by Corvus Global Events to present their AidTrust solution on March 15th 2022 in an “[Exclusive Presentation](https://postimg.cc/jW8fXWwB)“. The attendees of this conference, Pharma Supply Chain & Security World 2022, were none other than [most Pharma giants of the world](https://postimg.cc/N2RwgHRn). Here are some highlights from Courtney Soulsby presenting on [Pharma Supply Chain & Security World 2022](https://corvusglobalevents.com/conference/pharma-supply-chain-security-world-2022)
 
 {% embed url="https://twitter.com/origin_trail/status/1503744526296535040" %}
 
