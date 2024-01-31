@@ -4,13 +4,13 @@
 OriginTrail EU Blockchain Summit presentation (start at 6:59:00 mark)
 {% endembed %}
 
-The EU Blockchain Summit featured Tomaz, co-founder of OriginTrail, alongside Dan Purtell from BSI and Ken McElroy from Home Depot and SCAN, discussing OriginTrail’s solutions and the future of supply chains. This session is filled with more information than Frictionless Intenational Trade, and I strongly suggest listening to the entire event.&#x20;
+The EU Blockchain Summit featured Tomaz, co-founder of OriginTrail, alongside Dan Purtell from BSI and Ken McElroy from Home Depot and SCAN, discussing OriginTrail’s solutions and the future of supply chains. This session is filled with more information than Frictionless Intenational Trade, and I strongly suggest listening to the entire event.
 
 <details>
 
 <summary>Some notable transcripts from the event are available here.</summary>
 
-### **Dan Purtell**, BSI
+#### **Dan Purtell**, BSI
 
 We have companies actually photoshopping reports and trying to convince some of the biggest retailers in the world such as Home Depot that they carried the credentials necessary for you to go ahead and make a purchase order, and it took investigations actually for us to be able to prove whether or not a factory had the credentials that they claimed to have. _We can instantly do that now with the SCAN blockchain solution powered by OriginTrail TraceLabs and it’s quickly becoming a best practice within our association._
 
