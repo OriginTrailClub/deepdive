@@ -8,6 +8,10 @@ description: 'Last update: 2024-01-30'
 You need 50k [**teleported TRAC**](https://teleport.origintrail.io/) to run a V6 node on NeuroWeb. Teleport happens once a month on the 15th of each month and is a temporary measure while waiting for the common good Polkadot Parachain bridge, Snowbridge, built by [**Snowfork**](https://github.com/Snowfork/snowbridge)**.**
 {% endhint %}
 
+{% hint style="info" %}
+If you want to delegate your TRAC rather than running your own node, staking will soon be available on Gnosis chain so stay tuned!
+{% endhint %}
+
 ## Step 1 - Create a total of 4 wallets
 
 You must create a total of 4 wallets for the first step.&#x20;
