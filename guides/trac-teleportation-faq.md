@@ -26,10 +26,10 @@ If you want to know why mapping is mandatory, read [**this**](https://docs.origi
 The mapping process is **permanent** so make sure you are using the right addresses.
 {% endhint %}
 
-On MetaMask, connect to the **NeuroWeb network** and use the correct RPC URL as noted [**here**](https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/origintrail-parachain-network-rpc#origintrail-parachain-mainnet).&#x20;
+On MetaMask, connect to the **NeuroWeb network** and use the correct RPC URL as noted [**here**](https://deepdive.origintrail.club/guides/v6-mainnet-node-instructions#step-2-add-the-origintrail-mainnet-network-onto-metamask).&#x20;
 
 {% hint style="info" %}
-**Make sure you have at least 2 OTP on your substrate wallet before mapping**. You are required to always hold at least 1 OTP to keep your OT Parachain wallet active and some more OTP for transactions.&#x20;
+**Make sure you have at least 2 NEURO on your substrate wallet before mapping**. You are required to always hold at least 1 NEURO to keep your wallet active and some more NEURO for transactions.&#x20;
 {% endhint %}
 
 On the mapping interface, select **Mainnet** from the drop down menu, click on **Connect wallet**, and paste your substrate wallet address starting with 1,5 or g, confirm both transactions and you are done!
@@ -40,61 +40,13 @@ Here is a short video by the OriginTrail team to help you with mapping your wall
 
 #### 4. Retrieve our teleported TRAC
 
-As of November 18, 2022, users who teleported their TRAC can now follow this [**link** ](https://teleport.origintrail.io/trac-distribution)to see their teleport status. Users who mapped their wallets successfully should see their teleported TRAC on their EVM wallet. Users who did not map their EVM wallet as shown on step 3 will have their teleported TRAC withheld until the mapping is completed.&#x20;
+You can follow this [**link** ](https://teleport.origintrail.io/trac-distribution)to see your teleport status. Users who mapped their wallets successfully should see their teleported TRAC on their EVM wallet. Users who did not map their EVM wallet as shown on step 3 will have their teleported TRAC withheld until the mapping is completed. Teleported TRAC is airdropped automatically to your mapped wallet as soon as ready.
 
 {% hint style="success" %}
-If you have completed all previous steps, please import this token to your Metamask address:
+If you have completed all previous steps, please import the NeuroWeb TRAC token to your Metamask address:
 
 0xFfFFFFff00000000000000000000000000000001
 {% endhint %}
-
-{% hint style="success" %}
-Alternate method: \
-Since teleported TRAC is a native Parachain asset, you are able to see your TRAC balance through the polkadot.js portal in the Assets section. After importing your account into the interface, navigate to Network -> Assets -> Balances.
-{% endhint %}
-
-## Safe Mapping Guide
-
-{% hint style="warning" %}
-### **IMPORTANT**
-
-#### As of October 31, 2022, Branimir has confirmed that Ledger support is [planned and in the works](https://twitter.com/BranaRakic/status/1587094823403753474). I suggest waiting for an official announcement for Ledger support before proceeding any further.&#x20;
-{% endhint %}
-
-Most TRAC holders use a hardware (Ledger, Trezor) wallet to store their TRAC for increased security. It is also recommended to use your hardware wallet to teleport your TRAC to keep your funds secure. As long as you hold the keys to your hardware wallet that held your TRAC, you can safely assume that it will be returned back to you once the teleportation is complete.&#x20;
-
-However, once you map a substrate hot wallet (Polkadot JS, Talisman) to your hardware wallet, you completely lose the security net provided by your hardware device.&#x20;
-
-{% hint style="warning" %}
-The substrate wallet is a **hot wallet**, just like MetaMask, and any hacker who gets a hold of your substrate wallet will be able to steal all your TRAC or OTP on OT Parachain (other assets held on other chains will not be affected).
-{% endhint %}
-
-&#x20;It might very well be an unlikely scenario, but one to consider if you value the utmost safety of your funds.&#x20;
-
-To mitigate mapping risks, I have written a small guide below that uses a **bootable live USB solution**. A bootable live USB is a clean OS environment that you can safely work on, knowing that all files and logs saved are temporary and discarded the moment you reboot your computer. Since mapping allows both EVM and substrate wallets to perform any transactions for both TRAC and OTP on the OT Parachain, you will only need to have one of the two wallets available handily to do any tasks. We will choose our hardware wallet for that as the safer option.
-
-#### Prerequisites:
-
-* 16GB USB drive to create the live OS environment
-* Download an **ISO image** to be installed on that USB Stick. Good examples include [**EndeavourOS**](https://endeavouros.com/latest-release/) or [**Lubuntu**](https://lubuntu.me/downloads/)
-* A tool to create a bootable USB drive such as [**Rufus**](https://rufus.ie/en/) or [**Etcher**](https://www.balena.io/etcher/)
-* A good Internet connection to your PC
-* A way to send at least 2 OTP to your live OS environment. You will need another PC or a mobile wallet such as Fearless app to make this transaction. Click [**here** ](trac-teleportation-faq.md#undefined)if you are unable to meet this requirement.
-
-#### Instructions:
-
-1. Create a bootable USB drive with one of the tools mentioned above
-2. Restart your PC and boot from your USB drive. Depending on your PC, you need to either press F8 or F12 while restarting to load the boot menu.
-3. Select Boot EndeavourOS Default or Start Lubuntu. You are now accessing your Live OS environment from within your USB drive.&#x20;
-4. To mitigate all risks, visit the least amount of websites possible. Open up FireFox, then Settings, Extensions.
-5. Download **Metamask** and **polkadot{.js} extension**
-6. Create a new account with MetaMask, you do not need to write down the backup seeds. Then, connect your hardware wallet to Metamask.
-7. On the polkadot js extension, create a new wallet, and **write down the 12-word seed phrase and your public wallet**. This is a very important step as you will no longer have easy access to this wallet once you restart your PC.&#x20;
-8. Send at least 2 OTP to your newly generated substrate (Polkadot) wallet using another PC or your mobile device.
-9. Map your EVM to your substrate wallet by using the mapping website: [https://parachain.origintrail.io/parachain-account-mapping](https://parachain.origintrail.io/parachain-account-mapping)
-10. Once both transactions are complete, double check that you have written the 12-word seed phrase for your substrate wallet correctly and restart your PC.&#x20;
-
-Done! This is the most secure way to safeguard your substrate hot wallet, while using your hardware wallet for day-to-day transactions on OT Parachain.
 
 ## FAQ
 
