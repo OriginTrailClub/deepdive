@@ -1,5 +1,5 @@
 ---
-description: The Decentralized Knowledge Graph Layer explained
+description: The Decentralized Knowledge Graph explained
 cover: ../../.gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
 coverY: -978.7926871334944
 ---
