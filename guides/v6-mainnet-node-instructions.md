@@ -1,34 +1,40 @@
 ---
-description: >-
-  Step-by-step guide to run a V6 Mainnet Node, brought to you by OriginTrail
-  Club and the DKG Node Alliance.
+description: 'Last update: 2024-01-30'
 ---
 
 # V6 Mainnet Node Instructions
 
 {% hint style="warning" %}
-You currently need 50k [**teleported TRAC**](https://teleport.origintrail.io/) to run a V6 node. Since teleporting is over, if you have not teleported any TRAC, you will have to wait for the common good Polkadot Parachain bridge, Snowbridge, built by [**Snowfork** ](https://github.com/Snowfork/snowbridge)before you can move your ERC-20 TRAC over to Polkadot in order to run a node.&#x20;
+You need 50k [**teleported TRAC**](https://teleport.origintrail.io/) to run a V6 node on NeuroWeb. Teleport happens once a month on the 15th of each month and is a temporary measure while waiting for the common good Polkadot Parachain bridge, Snowbridge, built by [**Snowfork**](https://github.com/Snowfork/snowbridge)**.**
 {% endhint %}
 
 ## Step 1 - Create a total of 4 wallets
 
-You must create a total of 4 wallets for the following step.&#x20;
+You must create a total of 4 wallets for the first step.&#x20;
 
 <table><thead><tr><th width="65" data-type="number">#</th><th width="266">Wallet</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>EVM Operational wallet</td><td>Hot wallet for non admin node operations<br>Example: Metamask wallet</td></tr><tr><td>2</td><td>EVM Management wallet</td><td>Cold wallet for admin node operations where your TRAC is held<br>Example: Ledger</td></tr><tr><td>3</td><td>Substrate Operational wallet</td><td>Hot wallet to map with wallet #1<br>Example: polkadot.js, Talisman wallet</td></tr><tr><td>4</td><td>Substrate Management wallet</td><td>Cold wallet to map with wallet #2<br>Example: Ledger</td></tr></tbody></table>
 
 {% hint style="warning" %}
-Mapping a hardware EVM wallet (such as Ledger) to a hot substrate wallet (such as polkadot.js or Talisman wallet) could expose your funds to the Internet since both EVM and substrate wallets can have full access to your funds on the Polkadot Ecosystem. Waiting for OTP Ledger support before mapping is advised to protect your funds. \
-\
-For the time being, the safest method to run a mainnet node is highlighted in the [**temporary safe method to run a mainnet node**](v6-mainnet-node-instructions.md#temporary-safe-mainnet-node-instructions) section. If you want to simplify the process and you are fine with using a hot substrate wallet, please proceed to step 2.&#x20;
+Mapping a hardware EVM wallet (such as Ledger) to a hot substrate wallet (such as polkadot.js or Talisman wallet) could expose your funds to the Internet since both EVM and substrate wallets can have full access to your funds on the Polkadot Ecosystem.
 {% endhint %}
 
 ## Step 2 - Add the OriginTrail Mainnet Network onto MetaMask
 
-By using the information found [**here**](https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/origintrail-parachain-networks#origintrail-parachain-mainnet), add the OriginTrail Mainnet Network on your MetaMask client and switch to it.&#x20;
+Add the NeuroWeb Mainnet Network on your MetaMask client and switch to it.&#x20;
 
-## Step 3 - Fund your wallets with OTP
+| Network name        | NeuroWeb Mainnet                                                                                             |
+| ------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **New RPC URL**     | [https://astrosat-parachain-rpc.origin-trail.network/](https://astrosat-parachain-rpc.origin-trail.network/) |
+| **Chain ID**        | 2043                                                                                                         |
+| **Currency symbol** | MNEURO                                                                                                       |
 
-You can also ask for some dust on [**OriginTrail Node Community**](https://t.me/otnodegroup)**.** You need at least 1 OTP to keep your substrate wallet active and another OTP for transaction fees (total: 2 OTP). You need 2 OTP on both of your substrate wallets (wallet **3 and 4** from step 1).
+## Step 3 - Fund your wallets with NEURO
+
+There are currently 2 ways to fund your wallet with NEURO
+
+1. Bridge erc20 TRAC using [**Portal Bridge**](https://portalbridge.com/) to Moonbeam, then&#x20;
+
+You can also ask for some dust on [**OriginTrail Node Community**](https://t.me/otnodegroup)**.** You need at least 1 NEURO to keep your substrate wallet active and another NEURO for transaction fees (total: 2 NEURO). You need 2 NEURO on both of your substrate wallets (wallet **3 and 4** from step 1).
 
 ## Step 4 - Map your wallets
 
@@ -212,19 +218,5 @@ journalctl -u otnode --output cat -fn 100
 {% hint style="info" %}
 **Reminder:**
 
-You can now use aliases such as otnode-logs to quickly view logs without having to type the entire string above!
+You can now use aliases such as otnode-logs to quickly view logs without having to type the entire string above!Temporary Safe Mainnet Node Instructions 1. Use the instructions here to pair 3 wallets. 1. 1 main wallet pair to receive your teleported TRAC and OTP bounty 2. 1 operational wallet pair for your node 3. 1 management wallet pair for your node ​ 2. Receive your teleported TRAC and OTP bounty on main mapped wallet (wallet #1 above) 3. Send some teleported TRAC to management evm wallet (wallet #3 above), and some OTP to op / management wallets 4. Set up your node following the instructions above 5. When OTP is supported by ledger, change your management and operational wallet addresses to a brand new ledger evm + ledger otp mapped wallet
 {% endhint %}
-
-## Temporary Safe Mainnet Node Instructions
-
-1.  Use the instructions [**here**](https://deepdive.origintrail.club/guides-and-tools/trac-teleportation-faq#safe-mapping-guide) to pair 3 wallets.
-
-    1. 1 main wallet pair to receive your teleported TRAC and OTP bounty
-    2. 1 operational wallet pair for your node
-    3. 1 management wallet pair for your node
-
-
-2. Receive your teleported TRAC and OTP bounty on main mapped wallet (wallet #1 above)
-3. Send some teleported TRAC to management evm wallet (wallet #3 above), and some OTP to op / management wallets
-4. Set up your node following the instructions above
-5. When OTP is supported by ledger, change your management and operational wallet addresses to a brand new ledger evm + ledger otp mapped wallet
