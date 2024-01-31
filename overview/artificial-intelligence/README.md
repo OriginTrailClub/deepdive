@@ -12,7 +12,7 @@ Trust in AI is crucial for its adoption, yet it’s challenged by biases and mis
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p><a href="https://github.com/vectara/hallucination-leaderboard"><strong>Source</strong></a></p></figcaption></figure>
 
-While various AI models have improved in reducing hallucinations, none can ensure completely accurate and verifiable outputs. The integration of a [knowledge graph](knowledge-graph.md) (KG) with a Large Language Model (LLM) like ChatGPT presents a strategic solution, balancing their respective strengths and weaknesses. This combination enhances the overall accuracy and reliability of the AI system. LLMs offer language fluency; KGs provide a solid base of structured knowledge. Together, they create AI that’s both creative and factually reliable.
+While various AI models have improved in reducing hallucinations, none can ensure completely accurate and verifiable outputs. The integration of a [knowledge graph](../../foundation/knowledge-graph.md) (KG) with a Large Language Model (LLM) like ChatGPT presents a strategic solution, balancing their respective strengths and weaknesses. This combination enhances the overall accuracy and reliability of the AI system. LLMs offer language fluency; KGs provide a solid base of structured knowledge. Together, they create AI that’s both creative and factually reliable.
 
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p><a href="https://twitter.com/IntuitMachine/status/1721275064803336483"><strong>Source</strong></a></p></figcaption></figure>
 
