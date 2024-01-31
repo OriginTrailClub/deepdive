@@ -32,9 +32,10 @@ Add the NeuroWeb Mainnet Network on your MetaMask client and switch to it.&#x20;
 
 There are currently 2 ways to fund your wallet with NEURO
 
-1. Bridge erc20 TRAC using [**Portal Bridge**](https://portalbridge.com/) to Moonbeam, then&#x20;
+1. Bridge erc20 TRAC using [**Portal Bridge**](https://portalbridge.com/) to Moonbeam, then use [**Stellaswap**](https://app.stellaswap.com/exchange/swap) to swap moonbeamTRAC to NEURO.&#x20;
+2. Ask for some dust on [**OriginTrail Node Community**](https://t.me/otnodegroup)**.**&#x20;
 
-You can also ask for some dust on [**OriginTrail Node Community**](https://t.me/otnodegroup)**.** You need at least 1 NEURO to keep your substrate wallet active and another NEURO for transaction fees (total: 2 NEURO). You need 2 NEURO on both of your substrate wallets (wallet **3 and 4** from step 1).
+You need at least 1 NEURO to keep your substrate wallet active and another NEURO for transaction fees (total: 2 NEURO). You need 2 NEURO on both of your substrate wallets (wallet **3 and 4** from step 1).
 
 ## Step 4 - Map your wallets
 
@@ -47,32 +48,32 @@ Your goal here is to map wallet **1 and** **3** together, and wallet **2 and 4**
 To do so, connect to the mapping interface with the appropriate MetaMask wallet and paste the corresponding substrate wallet. 2 pop-ups will follow and sign both transactions.
 
 {% hint style="warning" %}
-If mapping doesn't prompt you with 2 transactions, make sure you have at least 2 OTP on your substrate wallet, try disabling all other extensions and restart your browser. You can also use a different browser. Choose between Chrome, Brave, Firefox.
+If mapping doesn't prompt you with 2 transactions, make sure you have at least 2 NEURO on your substrate wallet, try disabling all other extensions and restart your browser. You can also use a different browser. Choose between Chrome, Brave, Firefox.
 {% endhint %}
 
 Repeat for wallet **2 and 4** from step 1 and you would have completed the mapping process for your node.&#x20;
 
 ## Step 5 - Fund your management wallet with teleported TRAC
 
-You require a minimum of 50k TRAC to run a mainnet node. You must fund your EVM Management wallet with the required amount (wallet 2). You can purchase TRAC on platforms such as [**Coinbase**](https://www.coinbase.com/price/origintrail)**,** [**Kucoin**](https://www.kucoin.com/trade/TRAC-BTC)**,** [**Binance US**](https://www.binance.us/trade/pro/TRAC\_usd)**,** [**Huobi**](https://www.huobi.com/en-us/exchange/trac\_usdt/) and [**Uniswap**](https://app.uniswap.org/#/swap?outputCurrency=0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f) and once purchased, you need to teleport or bridge them to the OT Parachain. [OT-RFC-16](https://github.com/OriginTrail/OT-RFC-repository/blob/main/RFCs/OT-RFC-16-Parachain-Bridges-Implementation/OT-RFC-16-Parachain-Bridges-Implementation.pdf) is currently underway to determine how to bridge TRAC to the OT Parachain and back. &#x20;
+You require a minimum of 50k TRAC to run a mainnet node. You must fund your EVM Management wallet with the required amount (wallet 2). You can purchase TRAC on platforms such as [**Coinbase**](https://www.coinbase.com/price/origintrail)**,** [**Kucoin**](https://www.kucoin.com/trade/TRAC-BTC)**,** [**Binance US**](https://www.binance.us/trade/pro/TRAC\_usd)**,** [**Huobi**](https://www.huobi.com/en-us/exchange/trac\_usdt/) and [**Uniswap**](https://app.uniswap.org/#/swap?outputCurrency=0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f) and once purchased, you need to [**teleport**](https://teleport.origintrail.io/) them to NeuroWeb. [OT-RFC-16](https://github.com/OriginTrail/OT-RFC-repository/blob/main/RFCs/OT-RFC-16-Parachain-Bridges-Implementation/OT-RFC-16-Parachain-Bridges-Implementation.pdf) is currently underway to determine how to bridge TRAC to the OT Parachain and back. &#x20;
 
 {% hint style="info" %}
 **Reminder**:&#x20;
 
-OTP is used as gas to send teleported TRAC so always have at least 2 OTP on each wallet containing teleported TRAC.&#x20;
+NEURO is used as gas to send teleported TRAC so always have at least 2 NEURO on each wallet containing teleported TRAC.&#x20;
 {% endhint %}
 
-To view your TRAC balance on Metamask, first switch your network to OriginTrail Parachain Network, then add the TRAC token address using the import function
+To view your TRAC balance on Metamask, first switch your network to NeuroWeb Network, then add the TRAC token address using the import function
 
 ```
 0xFfFFFFff00000000000000000000000000000001
 ```
 
-You can also view your TRAC on polkadot.js [**here**](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.origin-trail.network#/assets/balances).&#x20;
+You can also view your teleported TRAC balance on [**Subscan**](https://neuroweb.subscan.io/).&#x20;
 
 ## Step 6 - Install your node
 
-In order to deploy your OriginTrail V6 node, you will need a Linux server with the following minimum recommended hardware:
+In order to deploy your OriginTrail V6 node on NeuroWeb, you will need a Linux (Ubuntu) server with the following minimum recommended hardware:
 
 * **4GB RAM**
 * **2CPUs**
@@ -129,13 +130,7 @@ otnode-config
 Even though your node is online, your node does not have any stake nor ask price, which will be covered on Step 7. However, before you continue, please read the following:&#x20;
 
 {% hint style="success" %}
-### After successfully installing your V6 node, make sure you visit [the Node Alliance](https://otnode.com/) to register your node to the DKG Node Alliance.&#x20;
-
-The benefits of joining the DKG Node Alliance include special access to a private Telegram channel, exclusive node support by top community members, node monitoring and maintenance scripts, collaboration to maintain a healthy DKG network, voting and governance and more to come.&#x20;
-
-The Node Alliance will leverage the DKG for voting purposes and currently occupies over 50% of the DKG V6 Node network.&#x20;
-
-DKG Node Alliance members include Amos, LuKu, CosmiCloud, Calvin and BRX just to name a few.&#x20;
+### After successfully installing your V6 node on NeuroWeb, you can check out advanced network statistics on [OTHub.io](https://www.othub.io/) or by querying the Telegram [@othubbot](https://t.me/othubbot).
 {% endhint %}
 
 #### You can either do Step 7A or 7B for the following section. 7A requires uses the Houston UI to set your stake and ask, while 7B uses your node command line interface.&#x20;
@@ -148,7 +143,7 @@ First, log in with your management and operational EVM wallets;
 
 Go to tab "Service Tokenomics";
 
-Input your ask price and sign the transaction. The Node Alliance current minimum ask is 0.24 TRAC/(epoch \* KB);
+Input your ask price and sign the transaction. The current average network ask is 0.01 TRAC/(epoch \* KB);
 
 Input the amount of stake you want. Minimum stake is 50,000 TRAC;
 
@@ -175,9 +170,9 @@ Gather the following information:
 | **EVM Operational wallet private key** | private key from wallet 1 in step 1                                                                                                                                                                                                                             |
 | **EVM Management wallet private key**  | private key from wallet 2 in step 1                                                                                                                                                                                                                             |
 | **Hub Contract Address**               | <p><strong>0x5fA7916c48Fe6D5F1738d12Ad234b78c90B4cAdA</strong><br>Check the official <a href="https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/deployed-smart-contracts"><strong>link</strong></a> to make sure it is the correct one. </p> |
-| **Ask price**                          | <p>Your price as a node runner to host assets. <br>Alliance: 0.24 TRAC/(epoch * KB)</p>                                                                                                                                                                         |
+| **Ask price**                          | Your price as a node runner to host assets, currently 0.01 TRAC/(epoch \* KB)                                                                                                                                                                                   |
 | **rpcEndpoint**                        | [https://astrosat-parachain-rpc.origin-trail.network/](https://astrosat-parachain-rpc.origin-trail.network/)                                                                                                                                                    |
-| **Stake**                              | <p>Your initial stake for your node <br>(minimum: 50000)</p>                                                                                                                                                                                                    |
+| **Stake**                              | <p>Your initial stake for your node <br>(minimum: 50,000)</p>                                                                                                                                                                                                   |
 
 Navigate to the current ot-node version folder:
 
@@ -218,5 +213,5 @@ journalctl -u otnode --output cat -fn 100
 {% hint style="info" %}
 **Reminder:**
 
-You can now use aliases such as otnode-logs to quickly view logs without having to type the entire string above!Temporary Safe Mainnet Node Instructions 1. Use the instructions here to pair 3 wallets. 1. 1 main wallet pair to receive your teleported TRAC and OTP bounty 2. 1 operational wallet pair for your node 3. 1 management wallet pair for your node ​ 2. Receive your teleported TRAC and OTP bounty on main mapped wallet (wallet #1 above) 3. Send some teleported TRAC to management evm wallet (wallet #3 above), and some OTP to op / management wallets 4. Set up your node following the instructions above 5. When OTP is supported by ledger, change your management and operational wallet addresses to a brand new ledger evm + ledger otp mapped wallet
+You can now use aliases such as otnode-logs to quickly view logs without having to type the entire string above!&#x20;
 {% endhint %}
