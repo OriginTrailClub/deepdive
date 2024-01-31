@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-The Supplier Compliance Audit Network (SCAN) is an association of North American retailers exercising $1.5 trillion annual purchasing power.&#x20;
+The Supplier Compliance Audit Network (SCAN) is an association of North American retailers exercising $1.5 trillion annual purchasing power.
 
 {% hint style="success" %}
 SCAN has 55 members including many of the largest retailers in the world which collectively account for **40% of all North American imports**.
@@ -37,7 +37,7 @@ In 2020, SCAN worked closely with the British Standards Institution (BSI) to dev
 
 This is a permissioned solution, only parties approved by SCAN can access this information, particularly US Dept of Homeland Security + US Customs.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **What problems does the Origin Trail SCAN factory audit implementation solve?**
 
@@ -65,7 +65,5 @@ This is a permissioned solution, only parties approved by SCAN can access this i
 > “It creates value. It creates instant credentialing and trust mechanisms for clients; but, I think, more importantly nobody else is doing this and it’s really going to cause massive growth within this association which is one of their overall objectives.”
 >
 > “We’ve got some very exciting things that we’re working on, with Origin Trail, in these respective areas that really I think are very promising, they’re desperately needed and they’re going to further bring trust to the supply chain.” [source](https://www.youtube.com/watch?v=Ss9pZkVsFpo)
-
-
 
 {% embed url="https://medium.com/origintrail/british-standards-institution-releases-white-paper-on-use-of-origintrail-decentralised-network-b8c32937ea39" %}

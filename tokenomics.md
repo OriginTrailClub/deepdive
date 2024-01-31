@@ -16,7 +16,7 @@ coverY: -913.7340462228356
 * **Circulating supply: 368M** The remainder 132M tokens are tagged for the dev pool (see illustration below)
 * **Markets with liquidity**: Coinbase, Kucoin, Bancor, Uniswap
 * **Token Sale Complete**: January 17, 2018
-* **Token Standard**: ERC-20&#x20;
+* **Token Standard**: ERC-20
 * **ICO price**: $0.10 (0.00007968 ETH)
 * **Contract Address**: 0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f (18 decimal)
 * [**Original 2017 whitepaper**](https://origintrail.io/storage/documents/OriginTrail-White-Paper.pdf)
@@ -36,7 +36,7 @@ OriginTrail TRAC layer-2 token is the life and blood of the entire ecosystem. It
 
 The OriginTrail Parachain super-charges these data marketplaces with the addition of **knowledge tokens, knowledge wallets, the knowledge marketplace, and knowledge tenders**. They allow individuals to buy and sell data in a trusted, private way; the developers say this will increase TRAC’s utility _by orders of magnitude._ Because this is tied into to the Polkadot ecosystem, all Polkadot/Kusama projects will be able to utilize this feature. Please see the [2021 Roadmap for a very in-depth look](https://medium.com/origintrail/origintrail-2021-expanded-roadmap-accelerating-growth-through-starfleet-polkadot-and-knowledge-2a1c170daaf3) at this use case.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## OTP **token**
 
@@ -53,7 +53,7 @@ The OriginTrail Parachain super-charges these data marketplaces with the additio
 
 <figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
-The OTP layer-1 token is the OriginTrail Parachain. It is designed as a **gas and reward token**. Rather than relying on ETH, MATIC, XDAI as gas tokens for network transactions, OTP will be used to pay for gas on the OriginTrail Parachain. OTP is also a reward token that **incentivizes growth** of the DKG on the Origintrail Parachain, making sure the **OriginTrail Parachain is the most attractive blockchain layer for the DKG**. In other words, our parachain (layer-1) requires a token, OTP, to function as gas for transactions and as a reward for [collators](https://wiki.polkadot.network/docs/learn-collator) for processing blocks back to Polkadot (layer-0).&#x20;
+The OTP layer-1 token is the OriginTrail Parachain. It is designed as a **gas and reward token**. Rather than relying on ETH, MATIC, XDAI as gas tokens for network transactions, OTP will be used to pay for gas on the OriginTrail Parachain. OTP is also a reward token that **incentivizes growth** of the DKG on the Origintrail Parachain, making sure the **OriginTrail Parachain is the most attractive blockchain layer for the DKG**. In other words, our parachain (layer-1) requires a token, OTP, to function as gas for transactions and as a reward for [collators](https://wiki.polkadot.network/docs/learn-collator) for processing blocks back to Polkadot (layer-0).
 
 <figure><img src="https://parachain.origintrail.io/storage/whitepaper-content/April2022/img-layer-2-ot-dkg@2x.jpg" alt=""><figcaption></figcaption></figure>
 
