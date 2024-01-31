@@ -1,6 +1,6 @@
 # BUILDCHAIN Project
 
-The BUILDCHAIN Project aims to promote the sustainability of the construction industry in the European Union. The project is supported by the [**European Union**](https://cordis.europa.eu/project/id/101092052) and is focused on developing solutions that will enable construction companies to improve the energy efficiency of their buildings, reduce their environmental impact, and promote the use of sustainable materials.
+The [**BUILDCHAIN Project**](https://buildchain-project.eu/) aims to promote the sustainability of the construction industry in the European Union. The project is supported by the [**European Union**](https://cordis.europa.eu/project/id/101092052) and is focused on developing solutions that will enable construction companies to improve the energy efficiency of their buildings, reduce their environmental impact, and promote the use of sustainable materials.
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 

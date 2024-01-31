@@ -34,10 +34,10 @@ Our personal information is at risk of being misused when popular apps are used 
 #### Personal data collection, tracking and sales by tech companies are becoming increasingly prevalent at the expense of privacy, ownership and freedom.  &#x20;
 {% endhint %}
 
-The second iteration of OriginTrail evolved from being a supply chain only protocol to becoming the [world’s first Decentralized Knowledge Graph (DKG)](https://medium.com/origintrail/origintrail-multichain-decentralized-knowledge-graph-is-now-live-mainnet-launch-on-xdai-claiming-9ce037305508). Not only can OriginTrail help streamline supply chains through an open source protocol with the core values of **neutrality, inclusiveness** and **usability**, it can now allow valuable data to be exchanged in a permissionless, trusted and secure manner, while all parties retain sovereignty over ownership of their data.&#x20;
+OriginTrail evolved from being a supply chain only protocol pre-2019 to becoming the [world’s first Decentralized Knowledge Graph (DKG)](https://medium.com/origintrail/origintrail-multichain-decentralized-knowledge-graph-is-now-live-mainnet-launch-on-xdai-claiming-9ce037305508). Not only can OriginTrail help streamline supply chains through an open source protocol with the core values of **neutrality, inclusiveness** and **usability**, it can now allow valuable data to be exchanged in a permissionless, trusted and secure manner, while all parties retain sovereignty over ownership of their data.&#x20;
 
 {% hint style="success" %}
 #### OriginTrail allows for a scalable, trusted and secure way to share information between all network participants – it is the knowledge graph of all knowledge graphs. The DKG serves as the central repository of all data, acting as the bridge between traditional web companies and the Semantic Web.  it acts as the foundation for connecting data in Web3 and AI applications, empowering individuals to take control of their own information.
 
-**Read** [knowledge-graph.md](../../foundation/knowledge-graph.md "mention") **for more information.**
+**Read** [knowledge-graph.md](../artificial-intelligence/knowledge-graph.md "mention") **for more information.**
 {% endhint %}

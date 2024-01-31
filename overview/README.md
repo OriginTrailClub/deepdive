@@ -11,3 +11,7 @@ coverY: -1069.0979648154537
 
 **The application spectrum of the DKG is endless.**
 {% endhint %}
+
+{% embed url="https://youtu.be/OPTOi-Niyjw?si=91DnYkVUEZ51R71w" %}
+OriginTrail.io
+{% endembed %}
