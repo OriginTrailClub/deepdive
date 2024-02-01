@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://x.com/otnoderunner/status/1731794199677194251?s=20" %}
+{% embed url="https://youtu.be/efZEoA52efQ" %}
 
 The Supplier Compliance Audit Network (SCAN) is an association of North American retailers exercising $1.5 trillion annual purchasing power.
 
