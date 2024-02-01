@@ -4,8 +4,8 @@ description: Decentralized and Trusted AI by OriginTrail
 
 # Artificial Intelligence
 
-{% hint style="info" %}
-In the age of AI, misinformation is the new pandemic and data the new oil. Without trusted, verifiable data, AI would be plaged with false information and hallucinations.&#x20;
+{% hint style="success" %}
+In the age of AI, misinformation is the new pandemic and data the new oil. Without trusted, verifiable data, AI would be plaged with false information and hallucinations.  The best blockchain use case in AI is providing trusted, verifiable data. OriginTrail provides the world's first enterprise-ready, hallucination-proof AI to all humanity in an open and inclusive way. If data is involved, the DKG can be used. Supply chains, healthcare, construction, Web3, NFTs, Metaverse, media, fashion and financial analysis are the first few sectors leveraging the DKG for trusted, decentralized AI.&#x20;
 {% endhint %}
 
 Trust in AI is crucial for its adoption, yet it’s challenged by biases and misinformation. There's a pressing need for AI that's anchored in verified truth. Can I trust what AI is feeding me?
@@ -18,12 +18,6 @@ While various AI models have improved in reducing hallucinations, none can ensur
 
 The DKG can **significantly improve** the **accuracy** and **reliability** of **AI models**. The structured data from the DKG enables AI models to make better predictions and decisions, while completely removing risks of hallucinations by providing sourced material. Additionally, the DKG addresses the issue of data privacy and security, as the data is decentralized and stored in a secure manner. This can increase trust in AI systems and promote their adoption. Overall, OriginTrail allows for a more comprehensive, accurate, and trustworthy data-driven AI ecosystem. This trinity of LLMs, DKG and blockchain marks a new AI paradigm. It's not just about understanding language; it's securing and verifying knowledge in unprecedented ways.
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p><a href="https://world.origintrail.io/#chat"><strong>Source</strong></a></p></figcaption></figure>
-
 The output is fully verifiable with source knowledge assets provided. You can try out the DKG AI chatbot on [**OriginTrail World**](https://world.origintrail.io/#chat) or directly through X by querying [@chatDKG](https://twitter.com/ChatDKG) or [**@polkabotAI**](https://twitter.com/PolkabotAI)**!**
 
 {% embed url="https://x.com/PolkabotAI/status/1752028959242608699?s=20" fullWidth="false" %}
-
-{% hint style="success" %}
-The best blockchain use case in AI is providing trusted, verifiable data. OriginTrail provides the world's first enterprise-ready, hallucination-proof AI to all humanity in an open and inclusive way. If data is involved, the DKG can be used. Supply chains, healthcare, construction, Web3, NFTs, Metaverse, media, fashion and financial analysis are the first few sectors leveraging the DKG for trusted, decentralized AI.&#x20;
-{% endhint %}

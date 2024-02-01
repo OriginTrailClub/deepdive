@@ -6,11 +6,15 @@ description: >-
 
 # BSI Healthcare – AidTrust
 
+{% hint style="success" %}
+Courtney Solsby from BSI presented a case study on AidTrust, a collaboration between BSI and OriginTrail, focusing on improving access to medicines in developing countries. This initiative addresses the economic implications of the pharmaceutical supply chain, emphasizing sustainability and the significant role of financial investments. AidTrust aims to digitize the supply chain to ensure medicines reach patients in low and middle-income countries efficiently, tackling issues like counterfeit drugs and supply chain complexities. Utilizing OriginTrail's decentralized knowledge graph, AidTrust offers traceability from the manufacturer to the patient, enhancing visibility and accountability. This system not only helps in ensuring that donated medicines reach the intended beneficiaries but also supports pharmaceutical companies in demonstrating their sustainability efforts to investors. The collaboration highlights the transformational potential of leveraging digital technology and blockchain for greater transparency, trust, and efficiency in global healthcare supply chains.
+{% endhint %}
+
+{% embed url="https://youtu.be/7F9j3Vl35lE?si=I8qlkyYgcjSQCL0-&t=537" %}
+
 > "Our Healthcare sector team is working closely with our strategic partner - Trace Labs - to offer the end to end data management, through a decentralized knowledge graph - allowing all supply chain systems (audit management, diversion, track and trace, product traceability, planning and logistics operations) to be linked into one data management hub - for dashboard macro views.
 >
 > We have FINALLY worked out a neutral way to link all internal supply chain systems to drive data, analytics, and ultimately, visibility." Courtney Soulsby, Global Director, Healthcare, British Standard Institution (BSI) [**source**](https://www.linkedin.com/posts/courtney-soulsby-8a311512\_origintrail-decentralized-knowledge-graph-activity-6785842064576929792-uOsw)
-
-{% embed url="https://youtu.be/7F9j3Vl35lE?si=I8qlkyYgcjSQCL0-&t=537" %}
 
 Together with the British Standards Institution (BSI), Trace Labs, the core developers of the [OriginTrail](https://origintrail.io/), has launched AidTrust to bring trust, transparency, and reliability to the global pharmaceutical industry. Using the OriginTrail DKG and industry best practice, AidTrust ensures end-to-end traceability for donated medicines and vaccines whilst retaining data integrity and security.
 
@@ -21,14 +25,6 @@ Together with the British Standards Institution (BSI), Trace Labs, the core deve
 {% hint style="info" %}
 “98% of Fortune 500 Pharmaceutical Clients partner with BSI to mitigate risk and protect Brand Reputation“. [source](https://twitter.com/BSI\_America/status/1351953816690831371)
 {% endhint %}
-
-Preliminary conclusions are very positive and you can see BSI discussing the case study with their partners in the video below. This video is strongly recommended if you are interested in the application of OriginTrail in the supply chain mangement of the healthcare sector. Note that not a single member of the OriginTrail team is presenting in that video. You are seeing BSI members David Fairnie, Paul Raw and Georgios Ampartzidis from [WFH](https://www.wfh.org/) discussing the use case of OriginTrail.
-
-{% embed url="https://www.youtube.com/watch?v=xdjsJHVHnUs" %}
-
-The World Federation of Hemophilia (WFH) is a Humanitarian Aid Program that processes donations to over 22,000 patients to date to allow them to cope with Hemophilia in daily life. All donations and shipments need to respect GDP making sure that donated products are safe to be used with maximum efficiency. This is where OriginTrail open source protocol comes in (precisely at [9:55](https://youtu.be/xdjsJHVHnUs?t=595) from the video above for more details).
-
-> “OriginTrail provides secure data exchange across supply chain networks, high level of integrity and trust, decentralized network that enables data scalability and flexibility, utilizes global standards, enables data operability and linked data that truly provides an end-to-end view. Its secured, structured and linked data then serves as a powerful base for a variety of business applications such as validation of certification, compliance checks, track and trace, etc.“
 
 {% embed url="https://www.youtube.com/watch?v=AUQFZOGpc5c" %}
 

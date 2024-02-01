@@ -2,7 +2,7 @@
 
 {% embed url="https://youtu.be/ibI4dB5jmfQ?si=tPog3oHkOeRhM5hY" %}
 
-John Domingue from the Open University and President of STI International shared insights on how decentralization, knowledge graphs, and generative AI are transforming adult learning through various experiments at the Open University. With a background in building AI tutors and a long-standing career at the Open University, Domingue emphasized the institution's mission of social justice through education, catering to a diverse and broad student body, including those with disabilities and without formal qualifications.
+[**John Domingue**](https://people.kmi.open.ac.uk/domingue/) from the Open University and President of STI International shared insights on how decentralization, knowledge graphs, and generative AI are transforming adult learning through various experiments at the Open University. With a background in building AI tutors and a long-standing career at the Open University, Domingue emphasized the institution's mission of social justice through education, catering to a diverse and broad student body, including those with disabilities and without formal qualifications.
 
 Domingue highlighted the potential of personalized learning through AI, referencing Bloom's research which showed students taught one-on-one perform significantly better than those in standard classes. He also discussed the importance of decentralized systems for lifelong learning, where blockchain technology could store and manage educational credentials securely and transparently, empowering students to control their own educational data.
 

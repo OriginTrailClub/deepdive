@@ -6,6 +6,10 @@ description: >-
 
 # OneAgrix
 
+{% hint style="success" %}
+OneAgrix in collaboration with Trace Labs has implemented a blockchain-based system to enhance trust in halal certifications among consumers. This innovative system allows for the verification of product provenance and the integrity of halal certifications, addressing the issue of fake or outdated certifications. Leveraging Trace Labs' Network Operating System (nOS) powered by the OriginTrail protocol, the solution facilitates collaboration between producers and certification bodies, creating trusted networks within the halal supply chain. This integration aims to set a new benchmark in the halal industry, offering transparency and ensuring genuine halal products for the global Muslim consumer base, which numbers 2 billion.
+{% endhint %}
+
 <figure><img src="https://miro.medium.com/max/720/1*hR1vFO85ArXUf6fuU9nYNg@2x.jpeg" alt=""><figcaption></figcaption></figure>
 
 OneAgrix and the core developers of OriginTrail announced a partnership with the goal to ensure and tackle the trust deficit in the Halal goods marketplace, enabling food safety and transparency. This brings tangible benefits to businesses and consumers in the USD 2.5 trillion global halal markets. OneAgrix, a B2B online marketplace for the sourcing of halal food ingredients and products, will use Trace Labs’ data exchange solutions to tackle the trust deficit in the halal goods marketplace, enabling food safety and transparency. This brings tangible benefits to businesses and consumers in the USD 2.5 trillion global halal markets.

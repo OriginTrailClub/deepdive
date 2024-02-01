@@ -1,16 +1,14 @@
----
-description: >-
-  BSI and SCAN are utilizing the OriginTrail protocol to ensure the integrity of
-  security audits for some of the largest US importers.
----
-
 # BSI - SCAN
+
+{% hint style="success" %}
+The collaboration between the SCAN Association and OriginTrail focused on transforming supplier compliance with OriginTrail's Decentralized Knowledge Graph (DKG)-powered trusted AI. Since 2019, BSI has collaborated with OriginTrail to enhance the Supplier Compliance Audit Network (SCAN) program, aiming to reduce audit redundancy, enhance efficiency, and foster a more sustainable supply chain by leveraging blockchain technology. This partnership has successfully mitigated fraudulent activities by securing audit reports as verifiable knowledge assets, ensuring only authorized access to these trusted records. The collaboration not only safeguards the integrity of supply chain audits but also opens up new opportunities for predictive analytics and proactive supply chain management by connecting disparate data points. With the potential for broader adoption and government partnerships, the initiative promises improved supply chain transparency, security, and resilience, showcasing a significant stride towards a more interconnected and trusted global supply chain ecosystem.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/efZEoA52efQ?si=-rVkzOYQD-gh9BVE" %}
 
-{% hint style="success" %}
+{% hint style="info" %}
 The Supplier Compliance Audit Network (SCAN) is an association of North American retailers exercising $1.5 trillion annual purchasing power. SCAN has 55 members including many of the largest retailers in the world which collectively account for **40% of all North American imports**.
 {% endhint %}
 
@@ -37,7 +35,7 @@ In 2020, SCAN worked closely with the British Standards Institution (BSI) to dev
 
 This is a permissioned solution, only parties approved by SCAN can access this information, particularly US Dept of Homeland Security + US Customs.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **What problems does the OriginTrail SCAN factory audit implementation solve?**
 
@@ -67,3 +65,7 @@ This is a permissioned solution, only parties approved by SCAN can access this i
 > “We’ve got some very exciting things that we’re working on, with Origin Trail, in these respective areas that really I think are very promising, they’re desperately needed and they’re going to further bring trust to the supply chain.” [source](https://www.youtube.com/watch?v=Ss9pZkVsFpo)
 
 {% embed url="https://medium.com/origintrail/british-standards-institution-releases-white-paper-on-use-of-origintrail-decentralised-network-b8c32937ea39" %}
+
+Here's a word by Ken McElroy, Global Manager, Trade Risk & Export Compliance at Home Depot
+
+{% embed url="https://youtu.be/Kw7xEbq7Bhs" %}

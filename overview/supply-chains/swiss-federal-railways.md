@@ -1,5 +1,9 @@
 # Swiss Federal Railways
 
+{% hint style="success" %}
+Dominik Halbeisen of GS1 Switzerland and OriginTrail have partnered to enhance rail transportation safety and efficiency across Europe through GS1 standards and distributed knowledge graph technology. This collaboration addresses the complex challenges of data sharing among rail industry stakeholders, utilizing RFID tags and the European Product Code Information System (EPCIS) for standardized data exchange. The introduction of the Object Name Service (ONS) further advances the discoverability and security of rail vehicle data. This initiative aims to create an interconnected infrastructure that extends beyond rail, promoting seamless data sharing and transparency across various sectors, ultimately improving safety and operational efficiency industry-wide.
+{% endhint %}
+
 {% embed url="https://youtu.be/bxaVmkc5fUQ?si=wOyxmTZJPZlAjaqd" %}
 [**DKGCon 2023**](https://www.youtube.com/watch?v=ekG1Bl-tCjc\&list=PLbpq0wLI-bB0Gof6fVFgYXqVlhqyLjWhM)
 {% endembed %}
