@@ -1,5 +1,9 @@
 # World Federation of Hemophilia
 
+{% hint style="success" %}
+Georgios Ampartzidis from the World Federation of Hemophilia (WFH) discussed leveraging OriginTrail technology to enhance the distribution network for hemophilia medicine donations. The use of a mobile app for barcode scanning facilitated real-time tracking of medicines from warehouses to patients, ensuring treatments are utilized efficiently and within their expiry. This system not only improves operational efficiency and donor trust but also offers a scalable model for managing medicine donations globally, potentially revolutionizing healthcare supply chains in various sectors.
+{% endhint %}
+
 {% embed url="https://youtu.be/tS3KwMk-RRk?si=kolabJST_HQkz4VE" %}
 
 Georgios Ampartzidis from the World Federation of Hemophilia (WFH) shared insights into utilizing OriginTrail technology to create a trusted infrastructure for tracking and managing medicine donations across 75 countries. Since 2015, Ampartzidis has been instrumental in developing a distribution network to ensure the safe and efficient delivery of hemophilia treatment medicines, with a significant focus on India due to its high demand.
