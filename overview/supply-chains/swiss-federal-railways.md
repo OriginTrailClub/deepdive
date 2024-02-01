@@ -1,15 +1,17 @@
 # Swiss Federal Railways
 
-{% embed url="https://ifothebehodler.medium.com/swiss-federal-railways-adopts-gs1-epcis-origintrail-parts-tracking-solution-20c2058727ca" %}
+{% embed url="https://youtu.be/bxaVmkc5fUQ?si=wOyxmTZJPZlAjaqd" %}
+[**DKGCon 2023**](https://www.youtube.com/watch?v=ekG1Bl-tCjc\&list=PLbpq0wLI-bB0Gof6fVFgYXqVlhqyLjWhM)
+{% endembed %}
 
-During the Liftoff event, Dominik Halbeisen from SBB explained how they will use the ODN and why they partnered up OriginTrail to track train parts among other things. The entire presentation is available below.
+Dominik Halbeisen from GS1 Switzerland discussed the discoverability of physical assets using GS1 standards and OriginTrail in the context of rail transportation. He highlighted his experience with Swiss Railways (SBB) and the transition to GS1, emphasizing the collaboration with OriginTrail for enhancing visibility and safety across European rail corridors.
 
-{% embed url="https://www.youtube.com/watch?v=Rzk-Z9lFaG0" %}
+GS1, known for pioneering barcode standards, plays a crucial role in global commerce by scanning approximately 7 billion barcodes daily. Halbeisen stressed GS1's position as a neutral intermediary capable of addressing complex data sharing challenges across the diverse landscape of rail transportation, involving multiple stakeholders such as vehicle owners, maintainers, operators, and infrastructure providers.
 
-If you do not wish to spend 30 minutes on the video, you can follow this timestamped [link](https://youtu.be/Rzk-Z9lFaG0?t=168) and jump right into Dominik’s presentation.
+The presentation outlined the critical nature of data sharing for safety in rail corridors, crossing multiple countries and legal systems. Halbeisen pointed to a recent tunnel accident to illustrate the consequences of inadequate data sharing. He advocated for a distributed knowledge graph as a solution to enable cross-border data sharing and prevent such incidents.
 
-The presentation ends with this [conclusion](https://youtu.be/Rzk-Z9lFaG0?t=845): _“We have found OriginTrail technology to be the right fit.”_
+The discussion moved towards GS1 standards for rail vehicle identification and data exchange, highlighting the use of RFID tags and the European Product Code Information System (EPCIS) for standardized data sharing. The central repository concept was introduced to simplify the complex web of bilateral data exchanges between parties.
 
-Brana Rakic, CTO of OriginTrail, was at the [GS1 Global Forum](https://twitter.com/origin\_trail/status/1366362319899525128?s=20) showcasing how 9 European Railways are utilizing OriginTrail. Unfortunately, the presentation is not available for public view and we could not get our hands on any recordings.
+Halbeisen introduced the Object Name Service (ONS) as a pivotal development, likened to a domain name service for locating data repositories without advertising, prioritizing privacy and security. This service, password-protected and restricted to authorized entities, aims to enhance the discoverability and accessibility of critical rail vehicle data.
 
-{% embed url="https://twitter.com/origin_trail/status/1366362319899525128?s=20&t=3tpmN2XQmjdEmA35qOXYhQ" %}
+Concluding, he emphasized the open, scalable, and innovation-driven ecosystem enabled by GS1 standards and OriginTrail, envisioning an interconnected infrastructure that extends beyond rail to potentially any sector involving physical assets. The goal is to achieve a self-sustaining architecture that supports seamless data sharing, enhancing safety, efficiency, and transparency across industries.
