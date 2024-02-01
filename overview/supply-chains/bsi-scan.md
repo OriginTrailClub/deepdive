@@ -1,12 +1,14 @@
 ---
 description: >-
-  BSI and SCAN are utilizing the OriginTrail protocol to ensure the integrity of
-  security audits for some of the largest US importers
+  BSI and SCAN are utilizing the Origintrail protocol to ensure the integrity of
+  security audits for some of the largest US importers.
 ---
 
 # BSI - SCAN
 
 <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://x.com/otnoderunner/status/1731794199677194251?s=20" %}
 
 The Supplier Compliance Audit Network (SCAN) is an association of North American retailers exercising $1.5 trillion annual purchasing power.
 
@@ -27,31 +29,31 @@ To accomplish this, SCAN conducts audits on factories outside the United States 
 
 <figure><img src="https://miro.medium.com/max/720/0*jWMMph-lT2OftLz0" alt=""><figcaption></figcaption></figure>
 
-In 2020, SCAN worked closely with the British Standards Institution (BSI) to develop a solution to improve the verification of factory audits and the accessibility of audit information for SCAN members. This was done in response to an open call by US DHS. BSI is partnered with OriginTrail to integrate knowledge graph structured record-keeping and real time verification of credentials via blockchain into the SCAN factory audit verification process. All of the audits are secured utilizing the OriginTrail Decentralized Network and comply with SCAN’s rigorous data privacy requirements. With flexible data permissions, the solution enables SCAN to share data with government agencies.
+In 2020, SCAN worked closely with the British Standards Institution (BSI) to develop a solution to improve the verification of factory audits and the accessibility of audit information for SCAN members. This was done in response to an open call by US DHS. BSI is partnered with Origintrail to integrate knowledge graph structured record-keeping and real time verification of credentials via blockchain into the SCAN factory audit verification process. All of the audits are secured utilizing the Origintrail Decentralized Network and comply with SCAN’s rigorous data privacy requirements. With flexible data permissions, the solution enables SCAN to share data with government agencies.
 
 #### **How does it work?**
 
 1. Auditors score factories according to standardized security criteria
-2. Audit results stored in Origin Trail knowledge graph
+2. Audit results stored in Origintrail knowledge graph
 3. Converted to QR codes for customs agents to easily access
 
 This is a permissioned solution, only parties approved by SCAN can access this information, particularly US Dept of Homeland Security + US Customs.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### **What problems does the Origin Trail SCAN factory audit implementation solve?**
+#### **What problems does the Origintrail SCAN factory audit implementation solve?**
 
 * Forged factory audit certifications
 * Inaccessible factory audit histories
 * Inability to quickly verify auditor credentials
 
-#### **Origin Trail’s solution provides SCAN members with:**
+#### **Origintrail’s solution provides SCAN members with:**
 
 * Real time verification and display of up-to-date factory audit reports
 * Access to audit report history, previous corrective actions, and risk assessment metrics in a modern user interface
 * The ability to export audit data in a standardized format
 
-**SCAN Origin Trail Implementation Phase 2 & 3:**
+**SCAN Origintrail Implementation Phase 2 & 3:**
 
 * Expand scope to include verification of auditor training certifications
 * Integrate with authorized customs agencies around the world
