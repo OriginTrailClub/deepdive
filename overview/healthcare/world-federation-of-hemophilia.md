@@ -10,7 +10,7 @@ Georgios Ampartzidis from the World Federation of Hemophilia (WFH) shared insigh
 
 WFH's strategic priorities include reaching undiagnosed patients and providing sustainable treatment support. Their efforts have expanded from a single warehouse hub in the United States to additional hubs in the European Union and India, aiming to place products closer to the areas of need and reduce transportation costs.
 
-The challenge addressed was tracking and tracing medicine as it moves from the initial delivery points within countries to the end-users, ensuring that every vial can be accounted for from receipt to patient treatment. This effort is crucial not only for operational efficiency but also for maintaining trust with donors and complying with audit requirements.
+The challenge addressed was tracking and tracing medicine as it moves from the initial delivery points within countries to the end-users, ensuring that every vial can be accounted for from receipt to patient treatment. This effort is crucial not only for operational efficiency, but also for maintaining trust with donors and complying with audit requirements.
 
 Utilizing OriginTrail and BSI's technology, WFH developed a mobile app for barcode scanning, enabling real-time tracking and tracing of medicines from warehouses to treatment centers and eventually to patients. This system allows for the monitoring of medicine utilization, ensuring treatments are used before their expiry and accurately reporting on stock levels and usage to donors.
 
@@ -18,7 +18,7 @@ The data collected through this system offers invaluable insights into the distr
 
 Ampartzidis's presentation underscores the importance of building a trusted, transparent infrastructure as a foundation for applying AI technologies in global health initiatives, particularly in the critical area of medicine donations.
 
-The video below is strongly recommended if you are interested in the application of OriginTrail in the supply chain mangement of the healthcare sector. Note that not a single member of the OriginTrail team is presenting in that video. You are seeing BSI members David Fairnie, Paul Raw and Georgios Ampartzidis discussing the use case of OriginTrail.
+The video below is strongly recommended if you are interested in the application of OriginTrail in the supply chain management of the healthcare sector. Note that not a single member of the OriginTrail team is presenting in that video. You are seeing BSI members David Fairnie, Paul Raw and Georgios Ampartzidis discussing the use case of OriginTrail.
 
 {% embed url="https://www.youtube.com/watch?v=xdjsJHVHnUs" %}
 
