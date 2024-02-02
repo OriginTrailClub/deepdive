@@ -6,6 +6,6 @@ A Knowledge Asset represents an evolution in the NFT space, which seeks to addre
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="360"><figcaption><p>Knowledge asset</p></figcaption></figure>
 
-A knowledge asset is essentially a NFT 2.0 which can be created, transfered and updated over time. The DKG enhances the protection and value of NFTs by providing a secure and transparent platform for the tracking and verification of NFT ownership and provenance, a complete history of an NFT, including details such as previous owners, creation date, and any relevant events. This information can add value to NFTs by providing a more complete picture of their history and authenticity, making them more attractive to buyers.&#x20;
+A knowledge asset is essentially a NFT 2.0 which can be created, transferred and updated over time. The DKG enhances the protection and value of NFTs by providing a secure and transparent platform for the tracking and verification of NFT ownership and provenance, a complete history of an NFT, including details such as previous owners, creation date, and any relevant events. This information can add value to NFTs by providing a more complete picture of their history and authenticity, making them more attractive to buyers.&#x20;
 
 {% embed url="https://youtu.be/o_ayYKzckOk?si=CSLdJc3MtG1mlfVM" %}

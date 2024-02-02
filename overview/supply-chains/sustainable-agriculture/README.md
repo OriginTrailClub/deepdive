@@ -10,7 +10,7 @@ Powered by various EU funding instruments, European agriculture is on its way to
 
 #### Funded by the EU
 
-SmartAgriHubs has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement Nº 818182.
+SmartAgriHubs has received funding from the European Union’s Horizon 2020 research and innovation programme under Grant Agreement Nº 818182.
 
 DEMETER has received funding from the European Union’s Horizon 2020 research and innovation programme under Grant Agreement Nº 857202.
 

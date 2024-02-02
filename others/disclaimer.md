@@ -5,7 +5,7 @@ coverY: -999.1842014487754
 
 # Disclaimer
 
-Tracdeepdive is maintained by [BRX](https://twitter.com/otnoderunner), OriginTrail community admin. This information hub is intended for educational purposes only, and does not constitute a financial advice.
+Tracdeepdive is maintained by [BRX](https://twitter.com/otnoderunner), OriginTrail community admin. This information hub is intended for educational purposes only, and does not constitute financial advice.
 
 Due to a lack of manpower, some illustrations and texts were directly taken from the Official OriginTrail website and the Official OriginTrail Medium, as well as public presentations done by the team. Illustrations and texts from community members were also used with their permission.&#x20;
 

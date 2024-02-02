@@ -72,7 +72,7 @@ You can verify the transaction by checking your Metamask history or using [this 
 
 #### **What will happen to my TRAC if I don't teleport ?**
 
-Nothing. TRAC will remain a ERC-20 Token. The Teleportation smart contract is only for those who want to use TRAC on NeuroWeb and is a temporary measure while waiting for Polkadot's first party Snowbridge.
+Nothing. TRAC will remain an ERC-20 Token. The Teleportation smart contract is only for those who want to use TRAC on NeuroWeb and is a temporary measure while waiting for Polkadot's first party Snowbridge.
 
 #### **I have teleported my TRAC, where is my NeuroWeb TRAC now ?**
 
