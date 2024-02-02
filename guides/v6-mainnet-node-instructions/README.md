@@ -1,11 +1,11 @@
 ---
-description: 'Last update: 2024-01-30'
+description: 'Last update: 2024-02-02'
 ---
 
-# V6 Mainnet Node Instructions
+# Node Instructions
 
 {% hint style="warning" %}
-You need 50k [**teleported TRAC**](https://teleport.origintrail.io/) to run a V6 node on NeuroWeb. Teleport happens once a month on the 15th of each month and is a temporary measure while waiting for the common good Polkadot Parachain bridge, Snowbridge, built by [**Snowfork**](https://github.com/Snowfork/snowbridge)**.**
+You need 50k [**teleported TRAC**](https://teleport.origintrail.io/) to run a V6 node on NeuroWeb AI. Teleport happens once a month on the 15th of each month and is a temporary measure while waiting for the common good Polkadot Parachain bridge, Snowbridge, built by [**Snowfork**](https://github.com/Snowfork/snowbridge)**.**
 {% endhint %}
 
 {% hint style="info" %}
@@ -16,10 +16,10 @@ If you want to delegate your TRAC rather than running your own node, staking wil
 
 You must create a total of 4 wallets for the first step.&#x20;
 
-<table><thead><tr><th width="65" data-type="number">#</th><th width="266">Wallet</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>EVM Operational wallet</td><td>Hot wallet for non admin node operations<br>Example: Metamask wallet</td></tr><tr><td>2</td><td>EVM Management wallet</td><td>Cold wallet for admin node operations where your TRAC is held<br>Example: Ledger</td></tr><tr><td>3</td><td>Substrate Operational wallet</td><td>Hot wallet to map with wallet #1<br>Example: polkadot.js, Talisman wallet</td></tr><tr><td>4</td><td>Substrate Management wallet</td><td>Cold wallet to map with wallet #2<br>Example: Ledger</td></tr></tbody></table>
+<table><thead><tr><th width="65" data-type="number">#</th><th width="266">Wallet</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>EVM Operational wallet</td><td>Hot wallet for non admin node operations<br>Example: Talisman, Metamask wallet</td></tr><tr><td>2</td><td>EVM Management wallet</td><td>Cold wallet for admin node operations where your TRAC is held<br>Example: Ledger</td></tr><tr><td>3</td><td>Substrate Operational wallet</td><td>Wallet to map with wallet #1<br>Example: polkadot.js, Talisman wallet</td></tr><tr><td>4</td><td>Substrate Management wallet</td><td>Wallet to map with wallet #2<br>Example: polkadot.js, Talisman wallet</td></tr></tbody></table>
 
 {% hint style="warning" %}
-Mapping a hardware EVM wallet (such as Ledger) to a hot substrate wallet (such as polkadot.js or Talisman wallet) could expose your funds to the Internet since both EVM and substrate wallets can have full access to your funds on the Polkadot Ecosystem.
+Mapping a hardware EVM wallet (such as Ledger) to a hot substrate wallet (such as polkadot.js or Talisman wallet) could expose your funds to the Internet since both EVM and substrate wallets can have full access to your funds on the Polkadot Ecosystem. Ledger integration with parachains is in the works.
 {% endhint %}
 
 ## Step 2 - Add the OriginTrail Mainnet Network onto MetaMask
@@ -36,8 +36,8 @@ Add the NeuroWeb Mainnet Network on your MetaMask client and switch to it.&#x20;
 
 There are currently 2 ways to fund your wallet with NEURO
 
-1. Bridge erc20 TRAC using [**Portal Bridge**](https://portalbridge.com/) to Moonbeam, then use [**Stellaswap**](https://app.stellaswap.com/exchange/swap) to swap moonbeamTRAC to NEURO.&#x20;
-2. Ask for some dust on [**OriginTrail Node Community**](https://t.me/otnodegroup)**.**&#x20;
+1. Bridge ERC-20 TRAC from Ethereum using [**Portal Bridge**](https://portalbridge.com/) to Moonbeam, then use [**Stellaswap**](https://app.stellaswap.com/exchange/swap) to swap moonbeamTRAC to NEURO.&#x20;
+2. Ask for some NEURO on [**OriginTrail Node Community**](https://t.me/otnodegroup)**.**&#x20;
 
 You need at least 1 NEURO to keep your substrate wallet active and another NEURO for transaction fees (total: 2 NEURO). You need 2 NEURO on both of your substrate wallets (wallet **3 and 4** from step 1).
 
