@@ -86,7 +86,7 @@ In order to deploy your OriginTrail V6 node on NeuroWeb, you will need a Linux (
 * **50GB HDD space**
 
 {% hint style="warning" %}
-Log in to the server as root. You **cannot** use sudo and run this script.&#x20;
+Log into the server as root. You **cannot** use sudo and run this script.&#x20;
 {% endhint %}
 
 Gather the following information:
