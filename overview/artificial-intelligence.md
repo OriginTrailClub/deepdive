@@ -5,7 +5,7 @@ description: Decentralized and Trusted AI by OriginTrail
 # Artificial Intelligence
 
 {% hint style="success" %}
-In the age of AI, misinformation is the new pandemic and data the new oil. Without trusted, verifiable data, AI would be plaged with false information and hallucinations.  The best blockchain use case in AI is providing trusted, verifiable data. OriginTrail provides the world's first enterprise-ready, hallucination-proof AI to all humanity in an open and inclusive way. If data is involved, the DKG can be used. Supply chains, healthcare, construction, Web3, NFTs, Metaverse, media, fashion and financial analysis are the first few sectors leveraging the DKG for trusted, decentralized AI.&#x20;
+In the age of AI, misinformation is the new pandemic and data the new oil. Without trusted, verifiable data, AI would be plagued with false information and hallucinations.  The best blockchain use case in AI is providing trusted, verifiable data. OriginTrail provides the world's first enterprise-ready, hallucination-proof AI to all humanity in an open and inclusive way. If data is involved, the DKG can be used. Supply chains, healthcare, construction, Web3, NFTs, Metaverse, media, fashion and financial analysis are the first few sectors leveraging the DKG for trusted, decentralized AI.&#x20;
 {% endhint %}
 
 Trust in AI is crucial for its adoption, yet it’s challenged by biases and misinformation. There's a pressing need for AI that's anchored in verified truth. Can I trust what AI is feeding me?
