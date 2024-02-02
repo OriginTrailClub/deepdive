@@ -34,7 +34,7 @@
   * [Core Values](foundation/core-values.md)
   * [Global Standards](foundation/global-standards.md)
   * [Tokenomics](foundation/tokenomics.md)
-  * [Blockchain Layer](foundation/blockchain-layer.md)
+  * [NeuroWeb AI](foundation/blockchain-layer.md)
   * [Decentralized Knowledge Graph](overview/artificial-intelligence/knowledge-graph.md)
   * [Network Operating System (nOS)](foundation/network-operating-system-nos.md)
   * [Advisors](foundation/advisors.md)

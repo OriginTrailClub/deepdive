@@ -27,7 +27,7 @@ One of the team's core members wrote the [**Twitter thread**](https://twitter.co
 
 You can also check out the following [**article**](https://opendata.substack.com/p/towards-an-open-sustainable-knowledge?utm\_source=twitter\&sd=pf) for a great introduction to Knowledge Graphs and OriginTrail's Decentralized Knowledge Graph.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
 For an in depth explanation of what the DKG is, Branimir gives a great demonstration on the video below during the Knowledge Graph Conference 2022.
 
