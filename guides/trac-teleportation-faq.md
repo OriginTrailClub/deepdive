@@ -54,7 +54,7 @@ If you have completed all previous steps, please import the NeuroWeb TRAC token 
 
 Teleporting TRAC involves locking your ERC-20 TRAC on Ethereum blockchain in a Smart Contract in order to mint the equivalent amount of TRAC on NeuroWeb to be used on the DKG v6 for many different applications - check illustration [here](https://teleport.origintrail.io/) and [OT-RFC-14](https://medium.com/origintrail/ot-rfc-14-dkg-v6-trac-tokenomics-886ff2b6b8cb?source=rss-fecf7416927e------2) for all use cases.
 
-There was an elaborate RFC that was discussed in details [here](https://github.com/OriginTrail/OT-RFC-repository/issues/16). The revised version of the RFC was approved and shown [here](https://medium.com/origintrail/ot-rfc-12-v2-teleporting-trac-to-the-origintrail-parachain-on-polkadot-de535a9d2693)
+There was an elaborate RFC that was discussed in detail [here](https://github.com/OriginTrail/OT-RFC-repository/issues/16). The revised version of the RFC was approved and shown [here](https://medium.com/origintrail/ot-rfc-12-v2-teleporting-trac-to-the-origintrail-parachain-on-polkadot-de535a9d2693)
 
 In summary, it was deemed risky to use a third-party bridge to bridge a large amount of our ERC-20 TRAC over to NeuroWeb. In case of a bridge hack, such as the recent [Nomad bridge hack](https://mobile.twitter.com/i/events/1554556780239355905), we would risk losing all bridged TRAC assets forever.
 
