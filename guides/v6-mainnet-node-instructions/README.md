@@ -4,6 +4,8 @@ description: 'Last update: 2024-02-02'
 
 # Node Instructions
 
+#### The section below will guide you through installing a DKG node on NeuroWebAI. Please refer to the subsections to turn your current node into a multinode setup or installing a Gnosis node only.&#x20;
+
 {% hint style="warning" %}
 You need 50k [**teleported TRAC**](https://teleport.origintrail.io/) to run a V6 node on NeuroWeb AI. Teleport happens once a month on the 15th of each month and is a temporary measure while waiting for the common good Polkadot Parachain bridge, Snowbridge, built by [**Snowfork**](https://github.com/Snowfork/snowbridge)**.**
 {% endhint %}
