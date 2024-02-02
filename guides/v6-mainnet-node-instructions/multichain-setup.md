@@ -4,7 +4,7 @@ description: 'Last updated: 2024-02-02'
 
 # Multichain setup
 
-
+#### The guide below is for running a node on both NeuroWebAI and Gnosis chain.&#x20;
 
 {% hint style="info" %}
 OriginTrail DKG V6 nodes are chain agnostic. You can set up one node on a server and use the same node on different blockchains. Each chain requires 50k TRAC to activate the node on that chain and to start submitting commits (winning assets).&#x20;
@@ -22,8 +22,6 @@ The delegated stake can come from you or someone else.
 {% hint style="info" %}
 The DKG V6 on Gnosis is expected to go live in mid February 2024 alongside delegated staking. Delegated staking on NeuroWebAI will come at a later time.&#x20;
 {% endhint %}
-
-The guide below is for running a node on Gnosis chain.&#x20;
 
 ## Step 1 - Preparations
 

@@ -30,7 +30,7 @@ Add the NeuroWeb Mainnet Network on your MetaMask client and switch to it.&#x20;
 
 | Network name        | NeuroWeb Mainnet                                                                                             |
 | ------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **New RPC URL**     | [https://astrosat-parachain-rpc.origin-trail.network/](https://astrosat-parachain-rpc.origin-trail.network/) |
+| **RPC URL**         | [https://astrosat-parachain-rpc.origin-trail.network/](https://astrosat-parachain-rpc.origin-trail.network/) |
 | **Chain ID**        | 2043                                                                                                         |
 | **Currency symbol** | MNEURO                                                                                                       |
 
@@ -133,13 +133,15 @@ otnode-config
 
 #### You have now successfully completed your node installation! You can check the logs by using the alias otnode-logs.&#x20;
 
-Even though your node is online, your node does not have any stake nor ask price, which will be covered on Step 7. However, before you continue, please read the following:&#x20;
-
 {% hint style="success" %}
 ### After successfully installing your V6 node on NeuroWeb, you can check out advanced network statistics on [OTHub.io](https://www.othub.io/) or by querying the Telegram [@othubbot](https://t.me/othubbot).
 {% endhint %}
 
-#### You can either do Step 7A or 7B for the following section. 7A requires uses the Houston UI to set your stake and ask, while 7B uses your node command line interface.&#x20;
+Even though your node is online, your node does not have any stake nor ask price, which will be covered on Step 7.&#x20;
+
+{% hint style="warning" %}
+#### You can either do Step 7A or 7B for the following section. 7A requires the use of  [Houston ](https://houston.origintrail.io/login) to set your stake and ask, while 7B uses your node command line interface.
+{% endhint %}
 
 ## Step 7A - Houston
 
@@ -162,12 +164,6 @@ systemctl restart otnode
 ## Step 7B - Set-stake and set-ask
 
 The installer above will only set up all the prerequisites and node files. You must run 2 scripts to create the node profile and set your service ask price.&#x20;
-
-First, stop the node:
-
-```
-systemctl stop otnode
-```
 
 Gather the following information:
 
@@ -197,7 +193,7 @@ npm run set-stake -- --rpcEndpoint=https://astrosat-parachain-rpc.origin-trail.n
 Set the **service ask** of your node:
 
 ```
-npm run set-ask -- --rpcEndpoint=https://astrosat-parachain-rpc.origin-trail.network/ --ask=0.24 --privateKey=<operational_wallet_private_key> --hubContractAddress=0x5fA7916c48Fe6D5F1738d12Ad234b78c90B4cAdA
+npm -C /root/ot-node/current run set-ask -- --rpcEndpoint=https://astrosat-parachain-rpc.origin-trail.network/ --ask=0.01 --privateKey=$(jq -r '.modules.blockchain.implementation.otp.config.evmOperationalWalletPrivateKey' /root/ot-node/.origintrail_noderc) --hubContractAddress=0x5fA7916c48Fe6D5F1738d12Ad234b78c90B4cAdA
 ```
 
 Once you are done, restart the node:
@@ -213,7 +209,7 @@ This is when your initial stake of 50k TRAC or above is sent from your initial w
 Check the logs, everything should be completed!
 
 ```
-journalctl -u otnode --output cat -fn 100
+otnode-logs
 ```
 
 {% hint style="info" %}

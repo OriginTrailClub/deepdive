@@ -54,6 +54,7 @@
 * [Guides](guides/README.md)
   * [Node Instructions](guides/v6-mainnet-node-instructions/README.md)
     * [Multichain setup](guides/v6-mainnet-node-instructions/multichain-setup.md)
+    * [Gnosis setup](guides/v6-mainnet-node-instructions/gnosis-setup.md)
   * [Teleportation Guide](guides/trac-teleportation-faq.md)
   * [Why does V6 require 50k TRAC?](guides/why-does-v6-require-50k-trac.md)
   * [Trace Labs, OriginTrail and TRAC](guides/trace-labs-origintrail-and-trac.md)
