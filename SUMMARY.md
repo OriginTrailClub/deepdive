@@ -18,7 +18,7 @@
   * [Healthcare](overview/healthcare/README.md)
     * [BSI Healthcare – AidTrust](overview/healthcare/bsi-healthcare-aidtrust.md)
     * [World Federation of Hemophilia](overview/healthcare/world-federation-of-hemophilia.md)
-    * [Sustainable Medecines Partnership (SMP)](overview/healthcare/sustainable-medecines-partnership-smp.md)
+    * [Sustainable Medicines Partnership (SMP)](overview/healthcare/sustainable-medecines-partnership-smp.md)
   * [Construction](overview/buildchain-project.md)
   * [Financial analysis](overview/financial-analysis.md)
   * [Web3](overview/web3/README.md)
