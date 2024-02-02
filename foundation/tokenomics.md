@@ -10,17 +10,9 @@ coverY: -913.7340462228356
 
 ![](<../.gitbook/assets/image (10).png>)
 
-### Facts
+###
 
-* **Max supply: 500M** Non-inflationary, all distributed during ICO
-* **Circulating supply: 368M** The remainder 132M tokens are tagged for the dev pool (see illustration below)
-* **Markets with liquidity**: Coinbase, Kucoin, Bancor, Uniswap
-* **Token Sale Complete**: January 17, 2018
-* **Token Standard**: ERC-20
-* **ICO price**: $0.10 (0.00007968 ETH)
-* **Contract Address**: 0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f (18 decimal)
-* [**Original 2017 whitepaper**](https://origintrail.io/storage/documents/OriginTrail-White-Paper.pdf)
-* [**New 2022 whitepaper**](https://parachain.origintrail.io/whitepaper)
+<table><thead><tr><th width="293">Fact sheet</th><th></th></tr></thead><tbody><tr><td>Max supply</td><td>500M Non-inflationary, fully distributed during ICO</td></tr><tr><td><strong>Circulating supply</strong></td><td>402M (remainder 98M tagged for dev pool) </td></tr><tr><td><strong>Markets with liquidity</strong></td><td>Coinbase, Kucoin, Uniswap</td></tr><tr><td><strong>Token Sale</strong></td><td>Complieted on January 17th, 2018</td></tr><tr><td><strong>Token Standard</strong></td><td>ERC-20</td></tr><tr><td><strong>ICO price</strong></td><td>$0.10 (0.00007968 ETH)</td></tr><tr><td>Contract Address</td><td>0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f</td></tr><tr><td>Whitepaper</td><td><a href="https://origintrail.io/storage/documents/OriginTrail-White-Paper.pdf"><strong>Original 2017 whitepaper</strong></a> <strong>/</strong> <a href="https://parachain.origintrail.io/whitepaper"><strong>New 2022 whitepaper</strong></a></td></tr></tbody></table>
 
 The following table shows the current TRAC token distribution. As described in the [2020 Q1 Report](https://medium.com/origintrail/origintrail-quarterly-report-q1-2020-f19b9fa95596), all of the TRAC available in the “soft lock” column will be used in the protocol development fund for future improvements (132.5 million total).
 
@@ -38,11 +30,11 @@ The OriginTrail Parachain super-charges these data marketplaces with the additio
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-## OTP **token**
+## NEURO **token**
 
-![](<../.gitbook/assets/image (16) (1).png>)
+<figure><img src="../.gitbook/assets/image (25).png" alt="" width="200"><figcaption></figcaption></figure>
 
-### **Facts**
+### **Fact sheet**
 
 * **Max supply: 1B**
 * **Circulating supply: TBD**
