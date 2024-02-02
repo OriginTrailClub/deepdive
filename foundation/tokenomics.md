@@ -71,7 +71,7 @@ NeuroWebAI (NEURO) was formerly known as OriginTrail Parachain (OTP)
 
 * **Knowledge Mining**
 
-Refer to the [**Knowledge Mining**](tokenomics.md#knowledge-mining) section below
+Refer to the [**Knowledge Mining**](tokenomics.md#knowledge-mining) section below.
 
 * **Gas fees**
 
