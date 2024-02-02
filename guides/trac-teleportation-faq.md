@@ -6,30 +6,30 @@ description: 'Last updated: 2024-01-31'
 
 ## Instructions
 
-#### **1. Teleport your TRAC**&#x20;
+#### **1. Teleport your TRAC**
 
-First, consult the [**FAQ** ](trac-teleportation-faq.md#faq)section below to learn about Teleporting TRAC.&#x20;
+First, consult the [**FAQ** ](trac-teleportation-faq.md#faq)section below to learn about Teleporting TRAC.
 
-Once you are ready, teleport your TRAC by visiting [**this**](https://teleport.origintrail.io/) website. Make sure you read the steps thoroughly. Once you complete the 2 teleport transactions, your TRAC will leave your wallet and be locked on the smart contract, while NeuroWeb TRAC will be minted and sent to you as soon as ready.&#x20;
+Once you are ready, teleport your TRAC by visiting [**this**](https://teleport.origintrail.io/) website. Make sure you read the steps thoroughly. Once you complete the 2 teleport transactions, your TRAC will leave your wallet and be locked on the smart contract, while NeuroWeb TRAC will be minted and sent to you as soon as ready.
 
 #### **2. Collect NEURO bounty (expired)**
 
 For earlier teleporters only, visit [**this**](https://teleport.origintrail.io/teleport-reward-claim) website to collect your NEURO bounty for teleporting. Make sure you use the same EVM (Ethereum) wallet you used to teleport TRAC on step 1. Then, paste a self-custody substrate (Polkadot) wallet of your choice to obtain your NEURO bounty. You can use the substrate wallet address starting with 1,5 or g. **Do not use a Ledger Polkadot wallet** as it is not yet compatible with NeuroWeb. You can easily create a substrate hot wallet by using [**Polkadot js extension**](https://polkadot.js.org/extension/) or [**Talisman**](https://talisman.xyz/)**.** The bounty will be sent out shortly.
 
-#### 3. Map your wallets&#x20;
+#### 3. Map your wallets
 
 You need to visit [**this**](https://parachain.origintrail.io/parachain-account-mapping) interface to map your EVM (Ethereum) wallet to your substrate (Polkadot) wallet in order to receive NeuroWeb TRAC.
 
-If you want to know why mapping is mandatory, read [**this**](https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/origintrail-parachain-evm) description by OriginTrail team.&#x20;
+If you want to know why mapping is mandatory, read [**this**](https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/origintrail-parachain-evm) description by OriginTrail team.
 
 {% hint style="warning" %}
 The mapping process is **permanent** so make sure you are using the right addresses.
 {% endhint %}
 
-On MetaMask, connect to the **NeuroWeb network** and use the correct RPC URL as noted [**here**](https://deepdive.origintrail.club/guides/v6-mainnet-node-instructions#step-2-add-the-origintrail-mainnet-network-onto-metamask).&#x20;
+On MetaMask, connect to the **NeuroWeb network** and use the correct RPC URL as noted [**here**](https://deepdive.origintrail.club/guides/v6-mainnet-node-instructions#step-2-add-the-origintrail-mainnet-network-onto-metamask).
 
 {% hint style="info" %}
-**Make sure you have at least 2 NEURO on your substrate wallet before mapping**. You are required to always hold at least 1 NEURO to keep your wallet active and some more NEURO for transactions.&#x20;
+**Make sure you have at least 2 NEURO on your substrate wallet before mapping**. You are required to always hold at least 1 NEURO to keep your wallet active and some more NEURO for transactions.
 {% endhint %}
 
 On the mapping interface, select **Mainnet** from the drop down menu, click on **Connect wallet**, and paste your substrate wallet address starting with 1,5 or g, confirm both transactions and you are done!
@@ -38,7 +38,7 @@ Here is a short video by the OriginTrail team to help you with mapping your wall
 
 {% embed url="https://youtu.be/yltbdB1bpEA" %}
 
-#### 4. Retrieve our teleported TRAC
+#### 4. Retrieve your teleported TRAC
 
 You can follow this [**link** ](https://teleport.origintrail.io/trac-distribution)to see your teleport status. Users who mapped their wallets successfully should see their teleported TRAC on their EVM wallet. Users who did not map their EVM wallet as shown on step 3 will have their teleported TRAC withheld until the mapping is completed. Teleported TRAC is airdropped automatically to your mapped wallet as soon as ready.
 
@@ -80,7 +80,7 @@ Please be patient and rest assured that the team will deliver your freshly minte
 
 #### **How long is the Teleportation lock up period ?**
 
-The lock period is over. Teleportation now works both ways and happens once a month on the 15th of each month.&#x20;
+The lock period is over. Teleportation now works both ways and happens once a month on the 15th of each month.
 
 #### **Can I use my Ledger/Trezor to teleport my TRAC ?**
 
@@ -88,16 +88,14 @@ Absolutely. I would go as far to say that is my recommended method of teleportin
 
 NeuroWeb is EVM compatible and Metamask will be used extensively (as is the case now).
 
-#### How do I check whether my mapping was successful ?&#x20;
+#### How do I check whether my mapping was successful ?
 
-In order to verify whether your substrate address is mapped to a given EVM address, go to this [**link** ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Flofar.origin-trail.network#/chainstate)if you mapped using Devnet, or this [**link** ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.origin-trail.network#/chainstate)if you mapped using Mainnet.&#x20;
+In order to verify whether your substrate address is mapped to a given EVM address, go to this [**link** ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Flofar.origin-trail.network#/chainstate)if you mapped using Devnet, or this [**link** ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fparachain-rpc.origin-trail.network#/chainstate)if you mapped using Mainnet.
 
 1. Go to Developer > Storage tab
-2. Choose evmAccounts ->accounts(H160) &#x20;
+2. Choose evmAccounts ->accounts(H160)
 3. Enter your EVM public key
 4. Press + on the right side
 5. You should get your substrate public address as a response
-
-
 
 **If your question isn't covered here, check out the current official FAQ at the bottom of** [**https://teleport.origintrail.io/**](https://teleport.origintrail.io/) **or feel free to message me @BRX86 on any OriginTrail Telegram channels.**
