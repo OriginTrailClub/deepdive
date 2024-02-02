@@ -1,23 +1,7 @@
 ---
-description: Here is a list of definitions to help understand the different terms out there
+description: 'Last updated: 2024-02-02'
 ---
 
 # Definitions
 
-[**Trace Labs** ](https://tracelabs.io/)– The core developers behind OriginTrail Decentralized Knowledge Graph
-
-[**OriginTrail** ](https://origintrail.io/)– A neutral and open-source protocol hosting the world’s first Decentralized Knowledge Graph
-
-[**Decentralized Knowledge Graph**](https://docs.origintrail.io/layer-2-decentralized-knowledge-graph-dkg/dkgintro) **(DKG)** – A layer-2 open and collaborative network combining **blockchain** and **knowledge graph** technology, with the **OriginTrail node** as the core unit of the network for **Web3 applications**
-
-**ODN** – OriginTrail Decentralized Network
-
-[**TRAC** ](https://www.coingecko.com/en/coins/origintrail)– interoperable **Layer-2** utility token powering all network operations on the DKG such as publishing Web3 assets and collaterizing asset holders. It is capped at 500M supply and is non-inflationary.
-
-[**OTP**](https://parachain.origintrail.io/) (OriginTrail Parachain) – The **Layer-1** OriginTrail parachain token on Polkadot used for gas and incentivisation of collators and DKG users. It is capped at 1B supply, with 500M initially allocated (25% at genesis distribution) and an inflationary release of 5% annually.
-
-[**Branimir Rakic**](https://twitter.com/branarakic) – Founder, technical architect & CTO at [@origin\_trail](https://twitter.com/origin\_trail)([@tracelabshq](https://twitter.com/tracelabshq)). Decentralized Knowledge Graph & Semantic Web3 builder.&#x20;
-
-[**Žiga Drev**](https://twitter.com/DrevZiga) – Founder at [@TraceLabsHQ](https://twitter.com/TraceLabsHQ) - Core [@origin\_trail](https://twitter.com/origin\_trail) Developers
-
-[**Tomaz Levak**](https://twitter.com/TomazOT) – Founder at [@Origin\_Trail](https://twitter.com/Origin\_Trail) - the ecosystem behind the Decentralized Knowledge Graph and [@OT\_Parachain](https://twitter.com/OT\_Parachain) networks.
+<table><thead><tr><th width="247">General</th><th> </th></tr></thead><tbody><tr><td><a href="https://tracelabs.io/"><strong>Trace Labs</strong></a></td><td>The core developers behind OriginTrail Decentralized Knowledge Graph</td></tr><tr><td><a href="https://twitter.com/branarakic"><strong>Branimir Rakic</strong></a></td><td>Founder, technical architect &#x26; CTO at <a href="https://twitter.com/origin_trail">@origin_trail</a> (<a href="https://twitter.com/tracelabshq">@tracelabshq</a>), Decentralized Knowledge Graph &#x26; Semantic Web3 builder</td></tr><tr><td><a href="https://twitter.com/DrevZiga"><strong>Žiga Drev</strong></a></td><td>Founder at <a href="https://twitter.com/TraceLabsHQ">@TraceLabsHQ</a></td></tr><tr><td><a href="https://twitter.com/TomazOT"><strong>Tomaz Levak</strong></a></td><td>Founder at <a href="https://twitter.com/TraceLabsHQ">@TraceLabsHQ</a></td></tr><tr><td><a href="https://origintrail.io/"><strong>OriginTrail</strong></a></td><td>A neutral and open source protocol hosting the world’s first Decentralized Knowledge Graph</td></tr><tr><td><a href="https://docs.origintrail.io/general/dkgintro"><strong>Decentralized Knowledge Graph (DKG)</strong></a></td><td>A layer-2 open and collaborative network combining <strong>blockchain</strong> and <strong>knowledge graph</strong> technology, with the <strong>OriginTrail node</strong> as the core unit of the network for <strong>Web3 applications</strong></td></tr><tr><td><strong>ODN</strong></td><td>OriginTrail Decentralized Network</td></tr><tr><td><a href="https://www.coingecko.com/en/coins/origintrail"><strong>TRAC</strong></a></td><td>Interoperable <strong>Layer-2</strong> utility token powering all network operations on the DKG such as creating Web3 assets and collaterizing asset holders. It is capped at 500M supply and is non-inflationary.</td></tr><tr><td><a href="https://www.coingecko.com/en/coins/neurowebai"><strong>NEURO</strong></a></td><td>Formerly known as OTP, it is the <strong>Layer-1</strong> NeuroWebAI token on Polkadot used for gas and incentivisation of collators and DKG users. It is capped at 1B supply.</td></tr></tbody></table>
