@@ -35,19 +35,19 @@ In other words, it is the combination of two technologies:
 
 ## Product Demos
 
-OriginTrail brings trust to all parties - from supply chain actors to consumers - by allowing everyone to verify data provenance through AI while maintaining data transparency, immutability and integrity.&#x20;
+#### OriginTrail brings trust to all parties - from supply chain actors to consumers - by allowing everyone to verify data provenance through AI while maintaining data transparency, immutability and integrity.&#x20;
 
 {% embed url="https://youtu.be/LiJeLoqUBAI?si=26A_20maoz53ZI6W" %}
 OriginTrail's DKG application in supply chains and AI
 {% endembed %}
 
-Trusted AI by OriginTrail also helps reshape international trade and global supply chains.
+#### Trusted AI by OriginTrail also helps reshape international trade and global supply chains.
 
 {% embed url="https://youtu.be/T1xgiZLASIw?si=uuBzBUMJr3aT6vAo" %}
 Reshaping international trade with trusted AI
 {% endembed %}
 
-[**@blockchain\_wire**](https://blockchainwire.io/press-release/blockchain-wire-integrating-trusted-ai-with-origintrail) integrates OriginTrail's trusted AI to fight misinformation with verifiable press release information provenance.&#x20;
+#### [**@blockchain\_wire**](https://blockchainwire.io/press-release/blockchain-wire-integrating-trusted-ai-with-origintrail) integrates OriginTrail's trusted AI to fight misinformation with verifiable press release information provenance.&#x20;
 
 {% embed url="https://youtu.be/2rbiG5DTKhU?si=lO_xDQPpziPHXZfp" %}
 Blockchainwire integrates OriginTrail's trusted AI
@@ -55,7 +55,7 @@ Blockchainwire integrates OriginTrail's trusted AI
 
 ## Dr. Bob Metcalfe
 
-A word from the Father of Ethernet, inventor of Metcalfe's Law, advisor of OriginTrail
+#### A word from the Father of Ethernet, inventor of Metcalfe's Law, advisor of OriginTrail
 
 {% embed url="https://twitter.com/i/status/1714311826932994343" %}
 Dr. Bob Metcalfe, Father of Ethernet, talks about fake news and how OriginTrail fights misinformation
