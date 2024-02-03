@@ -35,5 +35,5 @@ Node earnings are completely backed by fully verifiable assets on [http://dkg.or
 With that many moving factors, it becomes impossible to provide an accurate node APR. However, [**OTHub**](https://othub.io/) is working on network analytics and statistics for both the DKG network and node runners. Speculatively, the core team behind OriginTrail expect a 100-fold increase in network usage by Q2 2024 and 1 billion assets total in 2025 based on interest by partners, enterprises and government bodies to onboard the DKG.&#x20;
 
 {% hint style="success" %}
-TRAC is an utility token that becomes increasingly valuable as it gets locked up by more assets being created on the network. Market forces and network effects will drive it's value up with more usage.
+TRAC is a utility token that becomes increasingly valuable as it gets locked up by more assets being created on the network. Market forces and network effects will drive it's value up with more usage.
 {% endhint %}

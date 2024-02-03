@@ -47,7 +47,7 @@ In order to deploy your OriginTrail V6 node on Gnosis, you will need a Linux (Ub
 * **50GB HDD space**
 
 {% hint style="warning" %}
-Log in to the server as root. You **cannot** use sudo and run this script.&#x20;
+Log into the server as root. You **cannot** use sudo and run this script.&#x20;
 {% endhint %}
 
 Gather the following information:
@@ -67,7 +67,7 @@ cd /root/ && curl -k -o https://raw.githubusercontent.com/OriginTrail/ot-node/v6
 ```
 
 {% hint style="danger" %}
-You must choose a SQL password for the installer to work. Do not leave that field empty.
+You must choose an SQL password for the installer to work. Do not leave that field empty.
 {% endhint %}
 
 {% hint style="info" %}
