@@ -2,12 +2,12 @@
 description: >-
   OriginTrail Deep Dive is an all-in-one resource explaining OriginTrail and its
   utility tokens, TRAC and NEURO, to the general public.
-cover: https://pbs.twimg.com/media/GDBTLh5XYAAG6j3?format=jpg&name=large
-coverY: 0
+cover: .gitbook/assets/OT_Deep_Dive_Logo_Presentation_12.jpg
+coverY: -479.0700447093889
 layout:
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
