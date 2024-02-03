@@ -26,7 +26,7 @@ OriginTrail is an **open protocol** that blends the power of **blockchain** tech
 
 In other words, it is the combination of two technologies:
 
-1. [**Knowledge Graphs**](https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/) – which are advanced databases used by big tech companies such as Google, Amazon, Facebook, Twitter, Uber to derive value from user data.
+1. **Knowledge Graphs** – which are advanced databases used by big tech companies such as Google, Amazon, Facebook, Twitter, Uber to derive value from user data.
 2. **Blockchain** – which enables decentralization, meaning the database is not controlled by for-profit companies.
 
 {% hint style="success" %}
