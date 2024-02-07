@@ -28,11 +28,11 @@ Add xTRAC on MetaMask by importing the contract address below
 
 ## Step 2 - Fund your wallet
 
-Begin by obtaining xDAI for operations on Gnosis chain through their [f**aucet**](https://www.gnosisfaucet.com/).&#x20;
+Begin by obtaining xDAI for operations on Gnosis chain through their [f**aucet**](https://www.gnosisfaucet.com/).
 
 Gnosis is EVM compatible. Therefore, you can use your Ethereum wallet on MetaMask or Ledger for all operations.
 
-If you want to delegate to your own node, bridge your ERC-20 TRAC from Ethereum to Gnosis by using the [**Omnibridge**](https://omnibridge.gnosischain.com/bridge).&#x20;
+If you want to delegate to your own node, bridge your ERC-20 TRAC from Ethereum to Gnosis by using the [**Omnibridge**](https://omnibridge.gnosischain.com/bridge).
 
 {% hint style="info" %}
 A node can be fully operational with delegated stake only as long as the total stake amount is 50k TRAC or above.
@@ -47,7 +47,7 @@ In order to deploy your OriginTrail V6 node on Gnosis, you will need a Linux (Ub
 * **50GB HDD space**
 
 {% hint style="warning" %}
-Log into the server as root. You **cannot** use sudo and run this script.&#x20;
+Log into the server as root. You **cannot** use sudo and run this script.
 {% endhint %}
 
 Gather the following information:
@@ -71,14 +71,12 @@ You must choose an SQL password for the installer to work. Do not leave that fie
 {% endhint %}
 
 {% hint style="info" %}
-**Reminder**:&#x20;
+**Reminder**:
 
 In order to use aliases to quickly check node logs, start/stop/restart node, change node config, you must execute the following script after the installation:
 
 \
 source \~/.bashrc
-
-
 
 Once the sourcing is done, try the following:\
 otnode-logs
@@ -96,7 +94,7 @@ otnode-config
 
 ## Step 4 - Set node ask
 
-The default ask is set to 0.01 in the script below. Please change it to your desired ask price.&#x20;
+The default ask is set to 0.01 in the script below. Please change it to your desired ask price.
 
 ```
 npm -C /root/ot-node/current run set-ask -- --rpcEndpoint=https://astrosat-parachain-rpc.origin-trail.network/ --ask=0.01 --privateKey=$(jq -r '.modules.blockchain.implementation.otp.config.evmOperationalWalletPrivateKey' /root/ot-node/.origintrail_noderc) --hubContractAddress=0x5fA7916c48Fe6D5F1738d12Ad234b78c90B4cAdA
@@ -104,6 +102,8 @@ npm -C /root/ot-node/current run set-ask -- --rpcEndpoint=https://astrosat-parac
 
 ## Step 5 - Add stake
 
-Visit the[ **staking dashboard**](https://dkg.origintrail.io/staking) and connect to your wallet using MetaMask.
+Visit [**Houston**](https://houston.origintrail.io/login) **and connect your admin wallet. Head to Service Tokenomics and follow the on screen instructions to set up node operator fee, node ask and node stake!**
 
-Select the node you want to delegate to and click on **Delegate Stake**. Done!
+**You can then visit the**[ **staking dashboard**](https://dkg.origintrail.io/staking) to find your node.
+
+Done!

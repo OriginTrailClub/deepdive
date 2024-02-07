@@ -1,5 +1,5 @@
 ---
-description: 'Last updated: 2024-02-02'
+description: 'Last updated: 2024-02-06'
 ---
 
 # Multichain setup
@@ -163,6 +163,8 @@ npm -C /root/ot-node/current run set-ask -- --rpcEndpoint=https://astrosat-parac
 
 ## Step 4 - Add stake
 
-Visit the[ **staking dashboard**](https://dkg.origintrail.io/staking) and connect to your wallet using MetaMask.
+Visit [**Houston**](https://houston.origintrail.io/login) **and connect your admin wallet. Head to Service Tokenomics and follow the on screen instructions to set up node operator fee, node ask and node stake!**
 
-Select the node you want to delegate to and click on **Delegate Stake**. Done!
+**You can then visit the**[ **staking dashboard**](https://dkg.origintrail.io/staking) to find your node.
+
+Done!
