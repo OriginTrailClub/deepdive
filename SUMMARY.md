@@ -80,6 +80,4 @@
   * [Donations](others/donations.md)
 * [📊 OTHub Statistics](https://othub.io)
 * [👥 Community](https://t.me/OriginTrailClub)
-* [⭕ Official](http://origintrail.io)
-* [🌐 DKG Explorer](https://dkg.origintrail.io/)
-* [🥩 Staking](https://dkg.origintrail.io/staking)
+* [❔ Support](https://t.me/othubio)
