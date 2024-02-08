@@ -54,6 +54,7 @@
   * [Press & Mentions](announcements/press-and-mentions.md)
   * [Timeline (deprecated)](announcements/timeline.md)
 * [Guides](guides/README.md)
+  * [Staking Instructions](guides/staking-instructions.md)
   * [Node Instructions](guides/v6-mainnet-node-instructions/README.md)
     * [Multichain setup](guides/v6-mainnet-node-instructions/multichain-setup.md)
     * [Gnosis setup](guides/v6-mainnet-node-instructions/gnosis-setup.md)
