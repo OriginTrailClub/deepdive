@@ -40,6 +40,8 @@ A node can be fully operational with delegated stake only as long as the total s
 
 Visit the [**staking dashboard**](https://dkg.origintrail.io/staking) and select the node to delegate your xTRAC.
 
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="success" %}
 You can select [**OTHub**](https://www.othub.io/staking) node for staking to support this open, community driven project that provides network analytics, node statistics and an API to everyone for free.&#x20;
 {% endhint %}
