@@ -1,6 +1,6 @@
 # ChatGPT vs ChatDKG
 
-The comparison between [**ChatGPT4** ](https://chat.openai.com/)by OpenAI and [**ChatDKG** ](https://world.origintrail.io/#chat)by OriginTrail sheds light on the performance of generative AI models in addressing specific queries.&#x20;
+The comparison between [**ChatGPT4** ](https://chat.openai.com/)by OpenAI and [**ChatDKG** ](https://world.origintrail.io/#chat)by OriginTrail sheds light on the performance of generative AI models in addressing specific queries. This head-to-head uses ChatGPT as an example but the same principles apply to other LLMs such has Google Gemini, Claude, Grok and so on.
 
 When prompted with the question:&#x20;
 
