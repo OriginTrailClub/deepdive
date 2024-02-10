@@ -14,11 +14,11 @@ When prompted with the question:&#x20;
 
 ### ChatDKG response was characterized as vague, lengthy, and lacking in directness.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Conversely, ChatDKG provided a concise and factually precise answer sourced from the OriginTrail Decentralized Knowledge Graph, ensuring verifiability and accuracy:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The framework facilitating this accuracy, termed Decentralized [**Retrieval-Augmented Generation**](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) (RAG), allows AI models to access external knowledge bases for grounded responses. Meta introduced a similar concept in a 2020 [**paper** ](https://arxiv.org/abs/2005.11401v4)titled "Retrieval-Augmented Generation," aiming to expand LLMs' knowledge beyond training data.&#x20;
 
@@ -28,10 +28,10 @@ To enhance transparency, inclusivity and authenticity with ensured information p
 
 Returning to the query about Nike's corporate leadership composition, OriginTrail DKG traces the information lineage and facilitates further exploration by using the [**DKG Explorer**](https://dkg.origintrail.io/).
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p><a href="https://dkg.origintrail.io/explore?ual=did:dkg:otp:2043/0x5cac41237127f94c2d21dae0b14bfefa99880630/4089989"><strong>Source</strong></a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><a href="https://dkg.origintrail.io/explore?ual=did:dkg:otp:2043/0x5cac41237127f94c2d21dae0b14bfefa99880630/4089989"><strong>Source</strong></a></p></figcaption></figure>
 
 The answer provided by Decentralized RAG accurately reflects Nike's gender composition in 2021, sourced from the FY21 Nike, Inc. Impact Report accessible via the Wikirate open data platform providing open access to sustainability reports corporations publish annually.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 OriginTrail DKG's utility extends beyond enterprise knowledge exchange, fostering trust and transparency across industries. As it evolves, OriginTrail aims to connect global knowledge repositories, driving precise and inclusive AI through Decentralized RAG.

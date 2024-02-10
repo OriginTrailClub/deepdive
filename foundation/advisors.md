@@ -10,7 +10,7 @@ coverY: -1052.590548464988
 
 <div align="left">
 
-<figure><img src="https://origintrail.io/images/bob-metcalfe.png" alt=""><figcaption><p><strong>Father of Ethernet</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption><p><strong>Father of Ethernet</strong></p></figcaption></figure>
 
 </div>
 
@@ -22,7 +22,7 @@ The core developer team of OriginTrail has expanded the advisory board with one 
 
 <div align="left">
 
-<figure><img src="https://origintrail.io/images/Dan-Purtell.png" alt=""><figcaption><p><strong>Group Director of Innovation at BSI</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="200"><figcaption><p><strong>Group Director of Innovation at BSI</strong></p></figcaption></figure>
 
 </div>
 
@@ -34,7 +34,7 @@ The core developer team of OriginTrail has expanded the advisory board with one 
 
 <div align="left">
 
-<figure><img src="https://origintrail.io/images/Ken-Lyon.png" alt=""><figcaption><p><strong>Global expert on logistics and transportation</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="188"><figcaption><p><strong>Global expert on supply chains</strong></p></figcaption></figure>
 
 </div>
 
@@ -46,7 +46,7 @@ Ken Lyon is Managing Director of Virtual Partners Ltd and has over 40 years of e
 
 <div align="left">
 
-<figure><img src="https://origintrail.io/images/greg-kidd.png" alt=""><figcaption><p><strong>Privacy and Decentralization principles Advisor</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p><strong>Privacy and Decentralization principles Advisor</strong></p></figcaption></figure>
 
 </div>
 
@@ -70,7 +70,7 @@ Greg Kidd is an advisor and an early or a first round investor through the inves
 
 <div align="left">
 
-<figure><img src="https://origintrail.io/images/Cristina-Ventura.png" alt=""><figcaption><p><strong>Investor, advisor and founder of Ventura X Ventures</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt="" width="335"><figcaption><p><strong>Investor, advisor and founder of Ventura X Ventures</strong></p></figcaption></figure>
 
 </div>
 
