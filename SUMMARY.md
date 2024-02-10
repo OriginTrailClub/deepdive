@@ -2,7 +2,8 @@
 
 * [Introduction](README.md)
 * [Applications](overview/README.md)
-  * [Artificial Intelligence](overview/artificial-intelligence.md)
+  * [Artificial Intelligence](overview/artificial-intelligence/README.md)
+    * [ChatGPT vs ChatDKG](overview/artificial-intelligence/chatgpt-vs-chatdkg.md)
   * [Supply chains](overview/supply-chains/README.md)
     * [BSI](overview/supply-chains/bsi.md)
     * [BSI - SCAN](overview/supply-chains/bsi-scan.md)

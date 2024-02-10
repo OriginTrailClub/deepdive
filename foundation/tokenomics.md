@@ -10,13 +10,13 @@ coverY: -913.7340462228356
 
 ## **TRAC token**
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="200"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt="" width="200"><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="222">Fact sheet</th><th> </th></tr></thead><tbody><tr><td>Max supply</td><td>500M</td></tr><tr><td><strong>Circulating supply</strong></td><td>402M (remainder 98M tagged for dev pool) </td></tr><tr><td><strong>Inflation</strong></td><td>None</td></tr><tr><td>Distribution</td><td>Fully distributed during ICO</td></tr><tr><td><strong>Markets with liquidity</strong></td><td>Coinbase, Kucoin, Uniswap</td></tr><tr><td><strong>Token Sale</strong></td><td>Completed on January 17th, 2018</td></tr><tr><td><strong>Token Standard</strong></td><td>ERC-20</td></tr><tr><td><strong>ICO price</strong></td><td>$0.10 (0.00007968 ETH)</td></tr><tr><td>Contract Address</td><td>0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f</td></tr><tr><td>Whitepaper</td><td><a href="https://origintrail.io/storage/documents/OriginTrail-White-Paper.pdf"><strong>Original 2017 whitepaper</strong></a> <strong>/</strong> <a href="https://parachain.origintrail.io/whitepaper"><strong>New 2022 whitepaper</strong></a></td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p><a href="https://medium.com/origintrail/%EF%B8%8F-trace-token-sale-presale-min-contribution-5-eth-discounts-and-no-tokens-burned-policy-807f0e640b8e"><strong>Source</strong></a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p><a href="https://medium.com/origintrail/%EF%B8%8F-trace-token-sale-presale-min-contribution-5-eth-discounts-and-no-tokens-burned-policy-807f0e640b8e"><strong>Source</strong></a></p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><a href="https://icodrops.com/origintrail/"><strong>Source</strong></a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><a href="https://icodrops.com/origintrail/"><strong>Source</strong></a></p></figcaption></figure>
 
 ## TRAC Utility
 
@@ -39,7 +39,7 @@ Both node runners and delegators can stake TRAC on their node as a collateral fo
 
 NeuroWebAI supercharges these data marketplaces with the addition of **knowledge tokens, knowledge wallets, the knowledge marketplace, and knowledge tenders**. They allow individuals to buy and sell data in a trusted, private way. Because this is tied into to the Polkadot ecosystem, all Polkadot/Kusama projects will be able to utilize this feature. Please see the [2021 Roadmap for a very in-depth look](https://medium.com/origintrail/origintrail-2021-expanded-roadmap-accelerating-growth-through-starfleet-polkadot-and-knowledge-2a1c170daaf3) at this use case.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## NEURO **token**
 

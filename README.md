@@ -33,30 +33,9 @@ In other words, it is the combination of two technologies:
 **This combination creates a decentralized database which will serve as the backbone for an open, neutral and transparent application of Artificial Intelligence in every aspect of our lives.**
 {% endhint %}
 
+## Live Implemntations
 
-![sbb-color](https://github.com/OriginTrailClub/deepdive/assets/72794220/a46bf195-b077-4875-8c06-f357ea14f737)
-![innovate-uk](https://github.com/OriginTrailClub/deepdive/assets/72794220/978decdf-8da8-4f99-bf4e-a329ad95d875)
-![oracle-color](https://github.com/OriginTrailClub/deepdive/assets/72794220/89a07b1f-6e9d-4a8a-8bcd-faff4b0bb1fe)
-![google-color](https://github.com/OriginTrailClub/deepdive/assets/72794220/9b549b6c-fd7c-4613-a6b7-a11dbcf1bb6a)
-![walmart-award](https://github.com/OriginTrailClub/deepdive/assets/72794220/6051dc39-0272-4184-a27a-a1896129d805)
-![scan-official](https://github.com/OriginTrailClub/deepdive/assets/72794220/3b1e77b6-b47a-4973-b7cc-a430938ef601)
-![wfh-color](https://github.com/OriginTrailClub/deepdive/assets/72794220/56ee282d-5c00-47a5-8644-fc6064506d42)
-![oneagrix](https://github.com/OriginTrailClub/deepdive/assets/72794220/144ccd69-07af-41fc-b650-aabd070989e4)
-![perutnina-ptuj](https://github.com/OriginTrailClub/deepdive/assets/72794220/56960dbd-837b-41e8-88ac-d44faf701d56)
-![bsi-color](https://github.com/OriginTrailClub/deepdive/assets/72794220/f146e27a-4a94-49f2-b71c-865c673e48eb)
-![ngi-color](https://github.com/OriginTrailClub/deepdive/assets/72794220/56b74590-fe07-4ea3-bdbb-6054bc3d2f32)
-![demeter](https://github.com/OriginTrailClub/deepdive/assets/72794220/07a28575-6b7d-4240-bce0-f094b6831e1a)
-![digital-link](https://github.com/OriginTrailClub/deepdive/assets/72794220/5a77da15-b210-4e66-a143-0ca842068250)
-![the-fsm](https://github.com/OriginTrailClub/deepdive/assets/72794220/e3d8c2cf-b397-4bc1-9e43-5020a2c97613)
-![smart-agri-hubs](https://github.com/OriginTrailClub/deepdive/assets/72794220/ebfba98d-ba66-4545-99f5-6a8872462f47)
-![trusted-bytes](https://github.com/OriginTrailClub/deepdive/assets/72794220/46aac505-38b6-4fc2-886d-0895c8999d1a)
-![us-customs](https://github.com/OriginTrailClub/deepdive/assets/72794220/a75b1420-9abb-42e0-9a60-76d1b7e24a8d)
-
-
-
-## 3x Highlighted Implemntations
-
-#### OriginTrail supply chain solution already on supermarket shelves in Europe - changing how businesses and consumers interact with products.&#x20;
+#### OriginTrail supply chain solution already on supermarket shelves in Europe - changing how businesses and consumers interact with products.
 
 {% embed url="https://youtu.be/LiJeLoqUBAI?si=26A_20maoz53ZI6W" %}
 OriginTrail's DKG application in supply chains and AI
@@ -68,7 +47,7 @@ OriginTrail's DKG application in supply chains and AI
 Reshaping international trade with trusted AI
 {% endembed %}
 
-#### [**@blockchain\_wire**](https://blockchainwire.io/press-release/blockchain-wire-integrating-trusted-ai-with-origintrail) integrates OriginTrail's trusted AI to fight misinformation with verifiable press release information provenance.&#x20;
+#### [**@blockchain\_wire**](https://blockchainwire.io/press-release/blockchain-wire-integrating-trusted-ai-with-origintrail) integrates OriginTrail's trusted AI to fight misinformation with verifiable press release information provenance.
 
 {% embed url="https://youtu.be/2rbiG5DTKhU?si=lO_xDQPpziPHXZfp" %}
 Blockchainwire integrates OriginTrail's trusted AI
