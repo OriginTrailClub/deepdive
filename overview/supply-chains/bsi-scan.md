@@ -35,7 +35,7 @@ In 2020, SCAN worked closely with the British Standards Institution (BSI) to dev
 
 This is a permissioned solution, only parties approved by SCAN can access this information, particularly US Dept of Homeland Security + US Customs.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **What problems does the OriginTrail SCAN factory audit implementation solve?**
 

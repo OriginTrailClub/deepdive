@@ -6,9 +6,7 @@ description: >-
 
 # BSI Healthcare – AidTrust
 
-{% hint style="success" %}
 Courtney Solsby from BSI presented a case study on AidTrust, a collaboration between BSI and OriginTrail, focusing on improving access to medicines in developing countries. This initiative addresses the economic implications of the pharmaceutical supply chain, emphasizing sustainability and the significant role of financial investments. AidTrust aims to digitize the supply chain to ensure medicines reach patients in low and middle-income countries efficiently, tackling issues like counterfeit drugs and supply chain complexities. Utilizing OriginTrail's decentralized knowledge graph, AidTrust offers traceability from the manufacturer to the patient, enhancing visibility and accountability. This system not only helps in ensuring that donated medicines reach the intended beneficiaries but also supports pharmaceutical companies in demonstrating their sustainability efforts to investors. The collaboration highlights the transformational potential of leveraging digital technology and blockchain for greater transparency, trust, and efficiency in global healthcare supply chains.
-{% endhint %}
 
 {% embed url="https://youtu.be/7F9j3Vl35lE?si=I8qlkyYgcjSQCL0-&t=537" %}
 
