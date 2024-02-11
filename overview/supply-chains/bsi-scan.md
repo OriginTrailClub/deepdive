@@ -4,7 +4,7 @@
 The collaboration between the SCAN Association and OriginTrail focused on transforming supplier compliance with OriginTrail's Decentralized Knowledge Graph (DKG)-powered trusted AI. Since 2019, BSI has collaborated with OriginTrail to enhance the Supplier Compliance Audit Network (SCAN) program, aiming to reduce audit redundancy, enhance efficiency, and foster a more sustainable supply chain by leveraging blockchain technology. This partnership has successfully mitigated fraudulent activities by securing audit reports as verifiable knowledge assets, ensuring only authorized access to these trusted records. The collaboration not only safeguards the integrity of supply chain audits but also opens up new opportunities for predictive analytics and proactive supply chain management by connecting disparate data points. With the potential for broader adoption and government partnerships, the initiative promises improved supply chain transparency, security, and resilience. Showcasing a significant stride towards a more interconnected and trusted global supply chain ecosystem.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/efZEoA52efQ?si=-rVkzOYQD-gh9BVE" %}
 
@@ -35,7 +35,7 @@ In 2020, SCAN worked closely with the British Standards Institution (BSI) to dev
 
 This is a permissioned solution, only parties approved by SCAN can access this information, particularly US Dept of Homeland Security + US Customs.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **What problems does the OriginTrail SCAN factory audit implementation solve?**
 
@@ -54,7 +54,7 @@ This is a permissioned solution, only parties approved by SCAN can access this i
 * Expand scope to include verification of auditor training certifications
 * Integrate with authorized customs agencies around the world
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > Dan Purtell, British Standards Institution Head of Innovation and 30 year supply chain security professional & DHS advisor said:
 >

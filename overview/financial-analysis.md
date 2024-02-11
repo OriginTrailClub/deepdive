@@ -12,7 +12,7 @@ Chat Analyst is built as a Web3 application using OriginTrail's DKG to establish
 
 The demo presented showcased Chat Analyst's ability to process complex queries, like summarizing Tesla's current risk factors, by canvassing indexed knowledge assets and generating responses with clear source citation. This contrasts sharply with traditional search engines or AI chatbots that often lack source verification, making Chat Analyst a valuable tool for financial analysts and investment professionals seeking dependable data.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 Looking forward, Alpha Transform Holdings plans to expand the range of information included in Chat Analyst to encompass all SEC information and eventually all global financial information. This expansion aims to create the most powerful search tool for financial services, supporting a range of applications from investment analysis to robo-advisory services and investment relations.
 
