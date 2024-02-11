@@ -33,7 +33,7 @@ In other words, it is the combination of two technologies:
 **This combination creates a decentralized database which will serve as the backbone for an open, neutral and transparent application of Artificial Intelligence in every aspect of our lives.**
 {% endhint %}
 
-## Live Implemntations
+## Live Implementations
 
 #### OriginTrail supply chain solution already on supermarket shelves in Europe - changing how businesses and consumers interact with products.
 
