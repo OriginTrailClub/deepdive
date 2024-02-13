@@ -10,7 +10,7 @@ coverY: -1052.590548464988
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption><p><strong>Father of Ethernet</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption><p><strong>Father of Ethernet</strong></p></figcaption></figure>
 
 </div>
 
@@ -22,7 +22,7 @@ The core developer team of OriginTrail has expanded the advisory board with one 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="200"><figcaption><p><strong>Group Director of Innovation at BSI</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="200"><figcaption><p><strong>Group Director of Innovation at BSI</strong></p></figcaption></figure>
 
 </div>
 

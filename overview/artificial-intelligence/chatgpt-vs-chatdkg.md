@@ -18,7 +18,7 @@ When prompted with the question:&#x20;
 
 ### Conversely, ChatDKG provided a concise and factually precise answer sourced from the OriginTrail Decentralized Knowledge Graph, ensuring verifiability and accuracy:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The framework facilitating this accuracy, termed Decentralized [**Retrieval-Augmented Generation**](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) (RAG), allows AI models to access external knowledge bases for grounded responses. Meta introduced a similar concept in a 2020 [**paper** ](https://arxiv.org/abs/2005.11401v4)titled "Retrieval-Augmented Generation," aiming to expand LLMs' knowledge beyond training data.&#x20;
 
