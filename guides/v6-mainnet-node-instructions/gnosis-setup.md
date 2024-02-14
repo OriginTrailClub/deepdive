@@ -64,7 +64,7 @@ Gather the following information:
 **Run the one-liner installer script and select the appropriate prompts**
 
 ```
-cd /root/ && curl -k -o https://raw.githubusercontent.com/OriginTrail/ot-node/v6/develop/installer/installer.sh && chmod +x installer.sh && ./installer.shYou must choose a SQL password for the installer to work. Do not leave that field empty.
+cd /root/ && curl -k -o https://raw.githubusercontent.com/OriginTrail/ot-node/v6/develop/installer/installer.sh && chmod +x installer.sh && ./installer.sh
 ```
 
 {% hint style="danger" %}
