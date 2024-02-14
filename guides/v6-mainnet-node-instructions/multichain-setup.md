@@ -37,7 +37,11 @@ If you want to delegate to your own node, bridge your ERC-20 TRAC from Ethereum 
 A node can be fully operational with delegated stake only as long as the total stake amount is 50k TRAC or above.
 {% endhint %}
 
-Now, you need an [**Archival RPC Endpoint** ](https://docs.gnosischain.com/tools/rpc/)to communicate with the Gnosis chain. Note that not all providers provide archival endpoints. You will need to sign up through their links and get an Archival RPC Endpoint. For a free Archival RPC Endpoint, create a new user with your wallet on [**chainnodes**](https://app.chainnodes.org/), then create a new project and copy the HTTP url.&#x20;
+Now, you need an [**Archival RPC Endpoint** ](https://docs.gnosischain.com/tools/rpc/)to communicate with the Gnosis chain. Note that not all providers provide archival endpoints. You will need to sign up through their links and get an Archival RPC Endpoint.&#x20;
+
+{% hint style="success" %}
+For a free Archival RPC Endpoint, try out [**chainnodes**](https://app.chainnodes.org/), [**BlockPi**](https://dashboard.blockpi.io/) or [**OnFinality**](https://app.onfinality.io/).
+{% endhint %}
 
 ## Step 2 - Configurations
 

@@ -52,14 +52,14 @@ Log into the server as root. You **cannot** use sudo and run this script.
 
 Gather the following information:
 
-| Value                          | Description                                                                                                                                                                                         |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| EVM\_OPERATIONAL\_WALLET       | <p>Public address of your operational wallet<br>Example: MetaMask wallet</p>                                                                                                                        |
-| EVM\_OPERATIONAL\_PRIVATE\_KEY | Private key of your operational wallet                                                                                                                                                              |
-| EVM\_MANAGEMENT\_WALLET        | <p>Public address of your management wallet<br>Example: Ledger wallet</p>                                                                                                                           |
-| SHARES\_TOKEN\_NAME            | Your choice of token name                                                                                                                                                                           |
-| SHARES\_TOKEN\_SYMBOL          | The token symbol of your token name                                                                                                                                                                 |
-| Archival RPC Endpoint          | Follow this [**link**](https://docs.gnosischain.com/tools/rpc/) to get your own Archival RPC Endpoint. For a free Archival RPC Endpoint, try out [**chainnodes**](https://app.chainnodes.org/)**.** |
+| Value                          | Description                                                                                                                                                                           |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| EVM\_OPERATIONAL\_WALLET       | <p>Public address of your operational wallet<br>Example: MetaMask wallet</p>                                                                                                          |
+| EVM\_OPERATIONAL\_PRIVATE\_KEY | Private key of your operational wallet                                                                                                                                                |
+| EVM\_MANAGEMENT\_WALLET        | <p>Public address of your management wallet<br>Example: Ledger wallet</p>                                                                                                             |
+| SHARES\_TOKEN\_NAME            | Your choice of token name                                                                                                                                                             |
+| SHARES\_TOKEN\_SYMBOL          | The token symbol of your token name                                                                                                                                                   |
+| Archival RPC Endpoint          | For a free Archival RPC Endpoint, try out [**chainnodes**](https://app.chainnodes.org/), [**BlockPi**](https://dashboard.blockpi.io/) or [**OnFinality**](https://app.onfinality.io/) |
 
 **Run the one-liner installer script and select the appropriate prompts**
 
