@@ -18,7 +18,7 @@ If you want to delegate your TRAC rather than running your own node, staking wil
 
 You must create a total of 4 wallets for the first step.
 
-<table><thead><tr><th width="65" data-type="number">#</th><th width="266">Wallet</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>EVM Operational wallet</td><td>Hot wallet for non admin node operations<br>Example: Talisman, Metamask wallet</td></tr><tr><td>2</td><td>EVM Management wallet</td><td>Cold wallet for admin node operations where your TRAC is held<br>Example: Ledger</td></tr><tr><td>3</td><td>Substrate Operational wallet</td><td>Wallet to map with wallet #1<br>Example: polkadot.js, Talisman wallet</td></tr><tr><td>4</td><td>Substrate Management wallet</td><td>Wallet to map with wallet #2<br>Example: polkadot.js, Talisman wallet</td></tr></tbody></table>
+<table><thead><tr><th width="64" data-type="number">#</th><th width="240.70433145009417">Wallet</th><th>Description</th></tr></thead><tbody><tr><td>1</td><td>EVM Operational wallets</td><td>Hot wallets for non admin node operations<br>Example: Metamask</td></tr><tr><td>2</td><td>EVM Management wallet</td><td>Cold wallet for admin node operations where your TRAC is held<br>Example: Ledger</td></tr><tr><td>3</td><td>Substrate Operational wallet</td><td>Wallet to map with wallet #1<br>Example: polkadot.js, Talisman wallet</td></tr><tr><td>4</td><td>Substrate Management wallet</td><td>Wallet to map with wallet #2<br>Example: polkadot.js, Talisman wallet</td></tr></tbody></table>
 
 {% hint style="warning" %}
 Mapping a hardware EVM wallet (such as Ledger) to a hot substrate wallet (such as polkadot.js or Talisman wallet) could expose your funds to the Internet since both EVM and substrate wallets can have full access to your funds on the Polkadot Ecosystem. Ledger integration with parachains is in the works.
@@ -28,11 +28,7 @@ Mapping a hardware EVM wallet (such as Ledger) to a hot substrate wallet (such a
 
 Add the NeuroWeb Mainnet Network on your MetaMask client and switch to it.
 
-| Network name        | NeuroWeb Mainnet                                                                                             |
-| ------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **RPC URL**         | [https://astrosat-parachain-rpc.origin-trail.network/](https://astrosat-parachain-rpc.origin-trail.network/) |
-| **Chain ID**        | 2043                                                                                                         |
-| **Currency symbol** | MNEURO                                                                                                       |
+<table><thead><tr><th width="213">Network name</th><th>NeuroWeb Mainnet</th></tr></thead><tbody><tr><td><strong>RPC URL</strong></td><td><a href="https://astrosat-parachain-rpc.origin-trail.network/">https://astrosat-parachain-rpc.origin-trail.network/</a></td></tr><tr><td><strong>Chain ID</strong></td><td>2043</td></tr><tr><td><strong>Currency symbol</strong></td><td>MNEURO</td></tr></tbody></table>
 
 ## Step 3 - Fund your wallets with NEURO
 
@@ -91,13 +87,7 @@ Log into the server as root. You **cannot** use sudo and run this script.
 
 Gather the following information:
 
-| Value                          | Description                           |
-| ------------------------------ | ------------------------------------- |
-| EVM\_OPERATIONAL\_WALLET       | Public address of wallet #1 in step 1 |
-| EVM\_OPERATIONAL\_PRIVATE\_KEY | Private key of wallet #1 in step 1    |
-| EVM\_MANAGEMENT\_WALLET        | Public address of wallet #2 in step 1 |
-| SHARES\_TOKEN\_NAME            | Your choice of token name             |
-| SHARES\_TOKEN\_SYMBOL          | The token symbol of your token name   |
+<table><thead><tr><th width="322">Value</th><th>Description</th></tr></thead><tbody><tr><td>EVM_OPERATIONAL_WALLET</td><td>Public address of wallet #1 in step 1</td></tr><tr><td>EVM_OPERATIONAL_PRIVATE_KEY</td><td>Private key of wallet #1 in step 1</td></tr><tr><td>EVM_MANAGEMENT_WALLET</td><td>Public address of wallet #2 in step 1</td></tr><tr><td>SHARES_TOKEN_NAME</td><td>Your choice of token name</td></tr><tr><td>SHARES_TOKEN_SYMBOL</td><td>The token symbol of your token name</td></tr></tbody></table>
 
 **Run the one-liner installer script:**
 
@@ -173,14 +163,7 @@ The installer above will only set up all the prerequisites and node files. You m
 
 Gather the following information:
 
-| Value                                  | Description                                                                                                                                                                                                                                                    |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **EVM Operational wallet private key** | private key from wallet 1 in step 1                                                                                                                                                                                                                            |
-| **EVM Management wallet private key**  | private key from wallet 2 in step 1                                                                                                                                                                                                                            |
-| **Hub Contract Address**               | <p><strong>0x5fA7916c48Fe6D5F1738d12Ad234b78c90B4cAdA</strong><br>Check the official <a href="https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/deployed-smart-contracts"><strong>link</strong></a> to make sure it is the correct one.</p> |
-| **Ask price**                          | Your price as a node runner to host assets, currently 0.01 TRAC/(epoch \* KB)                                                                                                                                                                                  |
-| **rpcEndpoint**                        | [https://astrosat-parachain-rpc.origin-trail.network/](https://astrosat-parachain-rpc.origin-trail.network/)                                                                                                                                                   |
-| **Stake**                              | <p>Your initial stake for your node<br>(minimum: 50,000)</p>                                                                                                                                                                                                   |
+<table><thead><tr><th width="330">Value</th><th>Description</th></tr></thead><tbody><tr><td><strong>EVM Operational wallet private key</strong></td><td>private key from wallet 1 in step 1</td></tr><tr><td><strong>EVM Management wallet private key</strong></td><td>private key from wallet 2 in step 1</td></tr><tr><td><strong>Hub Contract Address</strong></td><td><strong>0x5fA7916c48Fe6D5F1738d12Ad234b78c90B4cAdA</strong><br>Check the official <a href="https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/deployed-smart-contracts"><strong>link</strong></a> to make sure it is the correct one.</td></tr><tr><td><strong>Ask price</strong></td><td>Your price as a node runner to host assets, currently 0.01 TRAC/(epoch * KB)</td></tr><tr><td><strong>rpcEndpoint</strong></td><td><a href="https://astrosat-parachain-rpc.origin-trail.network/">https://astrosat-parachain-rpc.origin-trail.network/</a></td></tr><tr><td><strong>Stake</strong></td><td>Your initial stake for your node<br>(minimum: 50,000)</td></tr></tbody></table>
 
 Navigate to the current ot-node version folder:
 

@@ -54,18 +54,22 @@ Then, add the following to your config file
 ```
 "gnosis:100": {
   "enabled": true,
-  "config": {,
+  "config": {
     "rpcEndpoints": [
       "https://rpc.chiado.gnosis.gateway.fm"
-    ],
+      ],
     "gasPriceOracleLink": "https://blockscout.chiadochain.net/api/v1/gas-price-oracle",
-    "evmOperationalWalletPublicKey": "0x0bf...",
-    "evmOperationalWalletPrivateKey": "0x1e3...",
-    "evmManagementWalletPublicKey": "0xd09...",
-    "sharesTokenSymbol": "symbol...",
-    "sharesTokenName": "name..."
+    "sharesTokenSymbol": "shares_token_symbol",
+    "sharesTokenName": "shares_token_name",
+    "operationalWallets": [
+      {
+        "evmAddress": "0x0bf...",
+        "privateKey": "0x1e3..."
+      }
+    ],
+    "evmManagementWalletPublicKey": "0xd09..."
    }
- }
+}
 ```
 
 The end result should look like this. Double check for syntax errors!
@@ -78,11 +82,15 @@ The end result should look like this. Double check for syntax errors!
       "implementation": {
         "otp:2043": {
           "config": {
-            "evmOperationalWalletPublicKey": "0x0bf...",
-            "evmOperationalWalletPrivateKey": "0x1e3...",
-            "evmManagementWalletPublicKey": "0xd09...",
             "sharesTokenSymbol": "symbol...",
-            "sharesTokenName": "name..."
+            "sharesTokenName": "name...",
+            "operationalWallets": [
+              {
+                "evmAddress": "0x0bf...",
+                "privateKey": "0x1e3..."
+              }
+            ],
+            "evmManagementWalletPublicKey": "0xd09..."
           }
         },
         "gnosis:100": {
@@ -92,11 +100,15 @@ The end result should look like this. Double check for syntax errors!
               "https://rpc.chiado.gnosis.gateway.fm"
             ],
             "gasPriceOracleLink": "https://blockscout.chiadochain.net/api/v1/gas-price-oracle",
-            "evmOperationalWalletPublicKey": "0x0bf...",
-            "evmOperationalWalletPrivateKey": "0x1e3...",
-            "evmManagementWalletPublicKey": "0xd09...",
             "sharesTokenSymbol": "symbol...",
-            "sharesTokenName": "name..."
+            "sharesTokenName": "name...",
+            "operationalWallets": [
+              {
+                "evmAddress": "0x0bf...",
+                "privateKey": "0x1e3..."
+              }
+            ],
+            "evmManagementWalletPublicKey": "0xd09..."
           }
         }
       }
