@@ -66,7 +66,7 @@ Then, add the following to your config file
     "rpcEndpoints": [
       "https://<desired_rpc_endpoint>"
       ],
-    "gasPriceOracleLink": "https://blockscout.chiadochain.net/api/v1/gas-price-oracle",
+    "gasPriceOracleLink": "https://gnosis.blockscout.com/api/v1/gas-price-oracle",
     "sharesTokenSymbol": "shares_token_symbol",
     "sharesTokenName": "shares_token_name",
     "operationalWallets": [
@@ -107,7 +107,7 @@ The end result should look like this. Double check for syntax errors!
             "rpcEndpoints": [
               "https://<desired_rpc_endpoint>"
             ],
-            "gasPriceOracleLink": "https://blockscout.chiadochain.net/api/v1/gas-price-oracle",
+            "gasPriceOracleLink": "https://gnosis.blockscout.com/api/v1/gas-price-oracle",
             "sharesTokenSymbol": "symbol...",
             "sharesTokenName": "name...",
             "operationalWallets": [
