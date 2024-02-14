@@ -69,6 +69,7 @@ Then, add the following to your config file
     "gasPriceOracleLink": "https://gnosis.blockscout.com/api/v1/gas-price-oracle",
     "sharesTokenSymbol": "shares_token_symbol",
     "sharesTokenName": "shares_token_name",
+    "operatorFee": "5",
     "operationalWallets": [
       {
         "evmAddress": "0x0bf...",
@@ -110,6 +111,7 @@ The end result should look like this. Double check for syntax errors!
             "gasPriceOracleLink": "https://gnosis.blockscout.com/api/v1/gas-price-oracle",
             "sharesTokenSymbol": "symbol...",
             "sharesTokenName": "name...",
+            "operatorFee": "5",
             "operationalWallets": [
               {
                 "evmAddress": "0x0bf...",
@@ -160,6 +162,12 @@ The end result should look like this. Double check for syntax errors!
   }
 }
 ```
+
+
+
+{% hint style="danger" %}
+Before applying the config changes by restarting the node, make sure you added your operator fee. Once the config is applied, you will not be able to change operator fee for 28 days.&#x20;
+{% endhint %}
 
 ctrl+x and ctrl+s to save and restart your node
 
