@@ -28,7 +28,9 @@ Add xTRAC on MetaMask by importing this contract address
 
 Begin by obtaining xDAI for operations on Gnosis chain through their [f**aucet**](https://www.gnosisfaucet.com/).&#x20;
 
-Gnosis is EVM compatible. Therefore, you can use your Ledger connected to MetaMask for all operations on the staking dashboard.&#x20;
+If you require more xDAI, you can buy DAI on [**Uniswap**](https://app.uniswap.org/swap) or any exchange and use the [**DAI bridge**](https://bridge.gnosischain.com/) to get xDAI.&#x20;
+
+Since Gnosis is EVM compatible, you can use your Ethereum wallet on MetaMask or Ledger for all operations on the chain.&#x20;
 
 Once you obtained xDAI, bridge your ERC-20 TRAC from Ethereum to Gnosis by using the [**Omnibridge**](https://omnibridge.gnosischain.com/bridge).
 

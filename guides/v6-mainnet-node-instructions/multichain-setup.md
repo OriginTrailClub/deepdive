@@ -27,13 +27,17 @@ The DKG V6 on Gnosis is expected to go live in mid February 2024 alongside deleg
 
 Begin by obtaining xDAI for operations on Gnosis chain through their [f**aucet**](https://www.gnosisfaucet.com/).&#x20;
 
-Gnosis is EVM compatible. Therefore, you can use your Ethereum wallet on MetaMask or Ledger for all operations.
+If you require more xDAI, you can buy DAI on [**Uniswap**](https://app.uniswap.org/swap) or any exchange and use the [**DAI bridge**](https://bridge.gnosischain.com/) to get xDAI.&#x20;
 
-If you want to delegate to your own node, bridge your ERC-20 TRAC from Ethereum to Gnosis by using the [**Omnibridge**](https://omnibridge.gnosischain.com/bridge).&#x20;
+Since Gnosis is EVM compatible, you can use your Ethereum wallet on MetaMask or Ledger for all operations on the chain.&#x20;
+
+If you want to delegate to your own node, bridge your ERC-20 TRAC from Ethereum to Gnosis by using the [**Omnibridge**](https://omnibridge.gnosischain.com/bridge)**.**
 
 {% hint style="info" %}
 A node can be fully operational with delegated stake only as long as the total stake amount is 50k TRAC or above.
 {% endhint %}
+
+Now, you need an [**Archival RPC Endpoint** ](https://docs.gnosischain.com/tools/rpc/)to communicate with the Gnosis chain. Note that not all providers provide archival endpoints. You will need to sign up through their links and get an Archival RPC Endpoint.&#x20;
 
 ## Step 2 - Configurations
 
@@ -56,7 +60,7 @@ Then, add the following to your config file
   "enabled": true,
   "config": {
     "rpcEndpoints": [
-      "https://rpc.chiado.gnosis.gateway.fm"
+      "https://<desired_rpc_endpoint>"
       ],
     "gasPriceOracleLink": "https://blockscout.chiadochain.net/api/v1/gas-price-oracle",
     "sharesTokenSymbol": "shares_token_symbol",
@@ -97,7 +101,7 @@ The end result should look like this. Double check for syntax errors!
           "enabled": true,
           "config": {
             "rpcEndpoints": [
-              "https://rpc.chiado.gnosis.gateway.fm"
+              "https://<desired_rpc_endpoint>"
             ],
             "gasPriceOracleLink": "https://blockscout.chiadochain.net/api/v1/gas-price-oracle",
             "sharesTokenSymbol": "symbol...",

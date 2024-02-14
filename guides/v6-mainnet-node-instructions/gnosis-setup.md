@@ -52,13 +52,14 @@ Log into the server as root. You **cannot** use sudo and run this script.
 
 Gather the following information:
 
-| Value                          | Description                                                                  |
-| ------------------------------ | ---------------------------------------------------------------------------- |
-| EVM\_OPERATIONAL\_WALLET       | <p>Public address of your operational wallet<br>Example: MetaMask wallet</p> |
-| EVM\_OPERATIONAL\_PRIVATE\_KEY | Private key of your operational wallet                                       |
-| EVM\_MANAGEMENT\_WALLET        | <p>Public address of your management wallet<br>Example: Ledger wallet</p>    |
-| SHARES\_TOKEN\_NAME            | Your choice of token name                                                    |
-| SHARES\_TOKEN\_SYMBOL          | The token symbol of your token name                                          |
+| Value                          | Description                                                                                           |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------- |
+| EVM\_OPERATIONAL\_WALLET       | <p>Public address of your operational wallet<br>Example: MetaMask wallet</p>                          |
+| EVM\_OPERATIONAL\_PRIVATE\_KEY | Private key of your operational wallet                                                                |
+| EVM\_MANAGEMENT\_WALLET        | <p>Public address of your management wallet<br>Example: Ledger wallet</p>                             |
+| SHARES\_TOKEN\_NAME            | Your choice of token name                                                                             |
+| SHARES\_TOKEN\_SYMBOL          | The token symbol of your token name                                                                   |
+| Archival RPC Endpoint          | Follow this [**link**](https://docs.gnosischain.com/tools/rpc/) to get your own Archival RPC Endpoint |
 
 **Run the one-liner installer script and select the appropriate prompts**
 
@@ -96,8 +97,10 @@ otnode-config
 
 The default ask is set to 0.01 in the script below. Please change it to your desired ask price.
 
+Find an rpcEndpoint by going to this [**link**](https://docs.gnosischain.com/tools/rpc/).&#x20;
+
 ```
-npm -C /root/ot-node/current run set-ask -- --rpcEndpoint=https://astrosat-parachain-rpc.origin-trail.network/ --ask=0.01 --privateKey=$(jq -r '.modules.blockchain.implementation.otp.config.evmOperationalWalletPrivateKey' /root/ot-node/.origintrail_noderc) --hubContractAddress=0x5fA7916c48Fe6D5F1738d12Ad234b78c90B4cAdA
+npm -C /root/ot-node/current run set-ask -- --rpcEndpoint=https://<desired_rpc_endpoint> --ask=0.01 --privateKey=$(jq -r '.modules.blockchain.implementation.otp.config.evmOperationalWalletPrivateKey' /root/ot-node/.origintrail_noderc) --hubContractAddress=0x5fA7916c48Fe6D5F1738d12Ad234b78c90B4cAdA
 ```
 
 ## Step 5 - Add stake
