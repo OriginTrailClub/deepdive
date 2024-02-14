@@ -25,7 +25,7 @@ The DKG V6 on Gnosis is expected to go live in mid February 2024 alongside deleg
 
 ## Step 1 - Preparations
 
-Begin by obtaining xDAI for operations on Gnosis chain through their [f**aucet**](https://www.gnosisfaucet.com/).&#x20;
+Begin by obtaining xDAI for operations on Gnosis chain through their [**faucet**](https://www.gnosisfaucet.com/).&#x20;
 
 If you require more xDAI, you can buy DAI on [**Uniswap**](https://app.uniswap.org/swap) or any exchange and use the [**DAI bridge**](https://bridge.gnosischain.com/) to get xDAI.&#x20;
 
@@ -40,7 +40,7 @@ A node can be fully operational with delegated stake only as long as the total s
 Now, you need an [**Archival RPC Endpoint** ](https://docs.gnosischain.com/tools/rpc/)to communicate with the Gnosis chain. Note that not all providers provide archival endpoints. You will need to sign up through their links and get an Archival RPC Endpoint.&#x20;
 
 {% hint style="success" %}
-For a free Archival RPC Endpoint, try out [**chainnodes**](https://app.chainnodes.org/), [**BlockPi**](https://dashboard.blockpi.io/) or [**OnFinality**](https://app.onfinality.io/).
+For a free Archival RPC Endpoint, try out [**BlockPi**](https://dashboard.blockpi.io/) or [**OnFinality**](https://app.onfinality.io/).
 {% endhint %}
 
 ## Step 2 - Configurations
