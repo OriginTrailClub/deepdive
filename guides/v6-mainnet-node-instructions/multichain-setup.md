@@ -90,6 +90,7 @@ The end result should look like this. Double check for syntax errors!
       "defaultImplementation": "otp",
       "implementation": {
         "otp:2043": {
+          "enabled": true,
           "config": {
             "sharesTokenSymbol": "symbol...",
             "sharesTokenName": "name...",
