@@ -1,5 +1,5 @@
 ---
-description: 'Last updated: 2024-02-14'
+description: 'Last updated: 2024-02-15'
 ---
 
 # Staking Instructions
