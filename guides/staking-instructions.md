@@ -56,7 +56,7 @@ Visit the [**staking dashboard**](https://dkg.origintrail.io/staking) and connec
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Select the node to delegate your xTRAC.&#x20;
+Select the node to delegate your TRAC and input the amount you want. You need to confirm 2 transactions.
 
 {% hint style="warning" %}
 Note that delegated stake sent to a node will lock your TRAC for 28 days.&#x20;
