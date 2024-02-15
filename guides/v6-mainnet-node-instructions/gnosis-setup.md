@@ -28,7 +28,9 @@ Add xTRAC on MetaMask by importing the contract address below
 
 ## Step 2 - Fund your wallet
 
-Begin by obtaining xDAI for operations on Gnosis chain through their [f**aucet**](https://www.gnosisfaucet.com/).
+Begin by obtaining xDAI for operations on Gnosis chain through their [**faucet**](https://www.gnosisfaucet.com/).
+
+If you require more xDAI, you can use [**Jumper**](https://jumper.exchange/) to swap any assets to xDAI on Gnosis.
 
 Gnosis is EVM compatible. Therefore, you can use your Ethereum wallet on MetaMask or Ledger for all operations.
 

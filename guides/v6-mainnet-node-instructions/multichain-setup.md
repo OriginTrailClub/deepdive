@@ -27,7 +27,7 @@ The DKG V6 on Gnosis is expected to go live in mid February 2024 alongside deleg
 
 Begin by obtaining xDAI for operations on Gnosis chain through their [**faucet**](https://www.gnosisfaucet.com/).&#x20;
 
-If you require more xDAI, you can buy DAI on [**Uniswap**](https://app.uniswap.org/swap) or any exchange and use the [**DAI bridge**](https://bridge.gnosischain.com/) to get xDAI.&#x20;
+If you require more xDAI, you can use [**Jumper**](https://jumper.exchange/) to swap any assets to xDAI on Gnosis.
 
 Since Gnosis is EVM compatible, you can use your Ethereum wallet on MetaMask or Ledger for all operations on the chain.&#x20;
 

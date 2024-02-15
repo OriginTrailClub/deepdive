@@ -28,7 +28,7 @@ Add xTRAC on MetaMask by importing this contract address
 
 Begin by obtaining xDAI for operations on Gnosis chain through their [f**aucet**](https://www.gnosisfaucet.com/).&#x20;
 
-If you require more xDAI, you can buy DAI on [**Uniswap**](https://app.uniswap.org/swap) or any exchange and use the [**DAI bridge**](https://bridge.gnosischain.com/) to get xDAI.&#x20;
+If you require more xDAI, you can use [**Jumper**](https://jumper.exchange/) to swap any assets to xDAI on Gnosis.
 
 Since Gnosis is EVM compatible, you can use your Ledger connected to MetaMask for all operations.&#x20;
 
