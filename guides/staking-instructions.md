@@ -60,6 +60,12 @@ Note that delegated stake sent to a node will lock your TRAC for 28 days.&#x20;
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+If you are staking a large amount, you might have to manually increase the gas by adding an extra 0 to the gas limit in the advanced settings on MetaMask on the second transaction. See picture below.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
 ### You have now successfully staked your xTRAC!&#x20;
 
 {% hint style="success" %}
