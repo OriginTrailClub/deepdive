@@ -12,7 +12,7 @@ When prompted with the question:&#x20;
 "What was the composition of Nike's global corporate leadership in terms of gender in 2021?"
 {% endhint %}
 
-### ChatDKG response was characterized as vague, lengthy, and lacking in directness.&#x20;
+### ChatGPT response was characterized as vague, lengthy, and lacking in directness.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
