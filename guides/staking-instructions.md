@@ -18,7 +18,7 @@ Begin by adding the Gnosis network to your Metamask extension by either connecti
 | **Chain ID**        | 100                                              |
 | **Currency symbol** | XDAI                                             |
 
-Add Gnosis TRAC on MetaMask by importing this contract address
+Add Gnosis TRAC on MetaMask by importing this contract address. You will see your Gnosis TRAC once you complete Step 2.&#x20;
 
 ```
 0xEddd81E0792E764501AaE206EB432399a0268DB5
@@ -26,15 +26,15 @@ Add Gnosis TRAC on MetaMask by importing this contract address
 
 ## Step 2 - Fund your wallet
 
-Begin by obtaining xDAI for operations on Gnosis chain through their [f**aucet**](https://www.gnosisfaucet.com/).&#x20;
+Begin by obtaining xDAI for operations on Gnosis chain through their [**faucet**](https://www.gnosisfaucet.com/).&#x20;
 
-If you require more xDAI, you can use [**Jumper**](https://jumper.exchange/) to swap any assets to xDAI on Gnosis.
+If the faucet is not working, you can use the [**Jumper**](https://jumper.exchange/) to swap any assets to xDAI on Gnosis. If Ethereum gas fee is high, try to do your transactions on the weekend at nighttime.&#x20;
 
 {% hint style="info" %}
 Since Gnosis is EVM compatible, you can use your Ledger connected to MetaMask for all operations to keep your funds safe. Connect your Ledger to MetaMask using these [**instructions**](https://support.ledger.com/hc/en-us/articles/4404366864657-Connect-your-Ledger-to-MetaMask?docs=true).&#x20;
 {% endhint %}
 
-Once you obtained xDAI, bridge your ERC-20 TRAC from Ethereum to Gnosis by using the [**Omnibridge**](https://omnibridge.gnosischain.com/bridge). Switch your MetaMask network to Gnosis as configured on Step 1, then input the amount of TRAC you want to bridge. You will have to Unlock (first transaction) then Transfer (second transfer) to bridge your TRAC.
+Once you obtained xDAI, bridge your ERC-20 TRAC from Ethereum to Gnosis by using the [**Omnibridge**](https://omnibridge.gnosischain.com/bridge). Switch your MetaMask network to Gnosis as configured on Step 1, then input the amount of TRAC you want to bridge. You will have to Unlock (first transaction) then Transfer (second transfer) to bridge your TRAC. The transaction can take up to an hour, and even if you close the window, you will eventually receive your TRAC on Gnosis chain.&#x20;
 
 <figure><img src="../.gitbook/assets/image (31).png" alt="" width="337"><figcaption></figcaption></figure>
 
