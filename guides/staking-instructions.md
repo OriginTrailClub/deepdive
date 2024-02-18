@@ -26,9 +26,7 @@ Add Gnosis TRAC on MetaMask by importing this contract address. You will see you
 
 ## Step 2 - Fund your wallet
 
-Begin by obtaining xDAI for operations on Gnosis chain through their [**faucet**](https://www.gnosisfaucet.com/).&#x20;
-
-If the faucet is not working, you can use the [**Jumper**](https://jumper.exchange/) to swap any assets to xDAI on Gnosis. If Ethereum gas fee is high, try to do your transactions on the weekend at nighttime.&#x20;
+Begin by obtaining xDAI for operations on Gnosis chain through their [**faucet**](https://www.gnosisfaucet.com/). If the wallet is down, you can try the [**Jumper**](https://jumper.exchange/) to swap any assets to xDAI on Gnosis. If Ethereum gas fee is high, you can request 0.01 xDAI **if you are going to stake on OTHub nodes** at our [**Telegram**](https://t.me/othubio).&#x20;
 
 {% hint style="info" %}
 Since Gnosis is EVM compatible, you can use your Ledger connected to MetaMask for all operations to keep your funds safe. Connect your Ledger to MetaMask using these [**instructions**](https://support.ledger.com/hc/en-us/articles/4404366864657-Connect-your-Ledger-to-MetaMask?docs=true).&#x20;
