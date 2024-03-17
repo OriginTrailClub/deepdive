@@ -1,5 +1,5 @@
 ---
-description: 'Last updated: 2024-02-15'
+description: 'Last updated: 2024-03-17'
 ---
 
 # Staking Instructions
@@ -71,11 +71,7 @@ If you are staking a large amount, you might have to manually increase the gas b
 ### You have now successfully staked your xTRAC!&#x20;
 
 {% hint style="success" %}
-### The editor of OriginTrail Deep Dive, BRX, is a long time community admin of OriginTrail and a 3+ year node runner on the network. BRX is also part of team OTHub, an open source community driven project providing network analytics, node statistics and an API to everyone for free. To keep OTHub servers running and to keep providing Deep Dive with the latest content, we appreciate any stake you could delegate to our OTHub or OTHub2 node.
-
-### Contract addresses: 0xc5D08540bD854910Af9a5FfA53C4996Be8A794EC
-
-### 0xbf4ff4760116a9Fd20933f976BD38281bEe42053
+### The editor of OriginTrail Deep Dive, BRX, is a long time community admin of OriginTrail and a 3+ year node runner on the network. BRX is also part of team OTHub, an open source community driven project providing network analytics, node statistics and an API to everyone for free. To keep OTHub servers running and to keep providing Deep Dive with the latest content, we appreciate any stake you could delegate to our OTHub, OTHub2 or OTHub3 node.
 
 ### Please visit [https://othub.io/staking](https://othub.io/staking) for more details!
 {% endhint %}
