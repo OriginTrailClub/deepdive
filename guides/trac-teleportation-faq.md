@@ -20,8 +20,6 @@ For earlier teleporters only, visit [**this**](https://teleport.origintrail.io/t
 
 You need to visit [**this**](https://parachain.origintrail.io/parachain-account-mapping) interface to map your EVM (Ethereum) wallet to your substrate (Polkadot) wallet in order to receive NeuroWeb TRAC.
 
-If you want to know why mapping is mandatory, read [**this**](https://docs.origintrail.io/blockchain-layer-1/origintrail-parachain/origintrail-parachain-evm) description by OriginTrail team.
-
 {% hint style="warning" %}
 The mapping process is **permanent** so make sure you are using the right addresses.
 {% endhint %}
