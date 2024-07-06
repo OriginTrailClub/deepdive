@@ -5,12 +5,18 @@ description: 'Last updated: 2024-03-17'
 # Staking Instructions
 
 {% hint style="info" %}
-Delegated staking is live on Gnosis mainnet. Delegated staking on NeuroWebAI (formerly known as OriginTrail Parachain) will go live at a later date.&#x20;
+Delegated staking is live on Gnosis, NeuroWebAI (OriginTrail Parachain) and Base.&#x20;
 {% endhint %}
 
-## Step 1 - Add Gnosis Network to MetaMask
+## Step 1 - Choose where to stake
 
-Begin by adding the Gnosis network to your Metamask extension by either connecting MetaMask to this [**link** ](https://chainlist.org/?search=gnosis)or manually with the info below
+Review the yield, commmission rates and if there is available space on the node you want to stake to. Try to stake to a node that is comparitively filled compared to other nodes on the same network. If the stake is too low it won't earn yield in compared with nodes on that network with higher stake.
+
+## Step 2  - Add your chosen network to Metamask
+
+Gnosis:
+
+If you choose to stake on the Gnosis network, add it to your Metamask extension by either connecting Metamask here [**link** ](https://chainlist.org/?search=gnosis) or manually with the info below
 
 | Network name        | Gnosis                                           |
 | ------------------- | ------------------------------------------------ |
@@ -18,13 +24,43 @@ Begin by adding the Gnosis network to your Metamask extension by either connecti
 | **Chain ID**        | 100                                              |
 | **Currency symbol** | XDAI                                             |
 
-Add Gnosis TRAC on MetaMask by importing this contract address. You will see your Gnosis TRAC once you complete Step 2.&#x20;
+Add Gnosis TRAC on MetaMask by importing this contract address. You will see your Gnosis TRAC once you complete Step 3.&#x20;
 
 ```
 0xEddd81E0792E764501AaE206EB432399a0268DB5
 ```
+NeuroWebAI:
 
-## Step 2 - Fund your wallet
+If you choose to stake on the Neuro network, add it to your Metamask  manually with the info below
+
+| Network name        | Gnosis                                           |
+| ------------------- | ------------------------------------------------ |
+| **RPC URL**         | [https://1rpc.io/gnosis](https://1rpc.io/gnosis) |
+| **Chain ID**        | 100                                              |
+| **Currency symbol** | XDAI                                             |
+Add Neuro TRAC on MetaMask by importing this contract address. You will see your Gnosis TRAC once you complete Step 3.&#x20;
+
+```
+0xFfFFFFff00000000000000000000000000000001
+```
+Base:
+
+If you choose to stake on the Base network, add it to your Metamask  manually with the info below
+
+| Network name        | Base                                                |
+| ------------------- | ------------------------------------------------    |
+| **RPC URL**         | [https://mainnet.base.org](https://mainnet.base.org)|
+| **Chain ID**        | 8453                                                |
+| **Currency symbol** | ETH                                                 |
+
+Add Base TRAC on MetaMask by importing this contract address. You will see your Base TRAC once you complete Step 3.&#x20;
+
+```
+0xA81a52B4dda010896cDd386C7fBdc5CDc835ba23
+```
+## Step 3 - Fund your wallet
+
+Gnosis:
 
 Begin by obtaining xDAI for operations on Gnosis chain through their [**faucet**](https://www.gnosisfaucet.com/). If the wallet is down, you can try the [**Jumper**](https://jumper.exchange/) to swap any assets to xDAI on Gnosis. If Ethereum gas fee is high, you can request 0.01 xDAI **if you are going to stake on OTHub nodes** at our [**Telegram**](https://t.me/othubio).&#x20;
 
@@ -44,10 +80,38 @@ There is no fee for bridging assets to Gnosis other than regular gas fee. Howeve
 If your TRAC is currently teleported on NeuroWeb AI (formerly known as OriginTrail parachain), you need to [**teleport**](https://teleport.origintrail.io/) them back to Ethereum before you can stake on Gnosis. You must send your tokens to the teleport contract before the 10th of each month and the teleport will happen on the 15th.&#x20;
 {% endhint %}
 
-## Step 3 - Stake
+NeuroWebAi:
+
+There are some extra steps if you want to stake with NeuroWebAi, as you need to map your Eth wallet to your Polkadot wallet. You also need to use the monthly teleport to get Trac across to NeuroWebAI, rather than using a bridge which is instant. There is a bridge being developed called Snowbridge, but for now teleport is required. You will need to follow the teleportion guide here: [https://github.com/OriginTrailClub/deepdive/blob/main/guides/trac-teleportation-faq.md](https://github.com/OriginTrailClub/deepdive/blob/main/guides/trac-teleportation-faq.md). 
+
+{% hint style="warning" %}
+You must send your tokens to the teleport contract before the 10th of each month and the teleport will happen on the 15th.&#x20;
+{% endhint %}
+
+Once you have Trac on NeuroWebAI, you also need Neuro token. This can be obtained on StellaSwap, but more easily from a central exchange like Gate.io or Mexc.
 
 {% hint style="info" %}
-A node can be fully operational with delegated stake only as long as the total stake amount is 50k TRAC or above. If the node you add your stake to has less than 50k TRAC, it will not be earning any publishes.
+Since Gnosis is EVM compatible, you can use your Ledger connected to MetaMask for all operations to keep your funds safe. Connect your Ledger to MetaMask using these [**instructions**](https://support.ledger.com/hc/en-us/articles/4404366864657-Connect-your-Ledger-to-MetaMask?docs=true).&#x20;
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (31).png" alt="" width="337"><figcaption></figcaption></figure>
+
+Base:
+
+Base chain uses Ethereum (ETH) for gas. So you will need to bridge some eth across to cover the gas to stake. You will need to use the SuperBridge [https://superbridge.app/base](https://superbridge.app/base)
+
+Once you have bridged some Eth across, you will also need to bridge the Trac you want to stake. Again use the Superbridge.
+
+{% hint style="info" %}
+Since Base is EVM compatible, you can use your Ledger connected to MetaMask for all operations to keep your funds safe. Connect your Ledger to MetaMask using these [**instructions**](https://support.ledger.com/hc/en-us/articles/4404366864657-Connect-your-Ledger-to-MetaMask?docs=true).&#x20;
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (31).png" alt="" width="337"><figcaption></figcaption></figure>
+
+## Step 4 - Stake
+
+{% hint style="info" %}
+A node can be fully operational with delegated stake only as long as the total stake amount is 50k TRAC or above. If the node you add your stake to has less than 50k TRAC, it will not be earning any publishes. The higher the stake of a node compared to other nodes on the same network, the more it will earn.
 {% endhint %}
 
 Visit the [**staking dashboard**](https://dkg.origintrail.io/staking) and connect to your Metamask.
