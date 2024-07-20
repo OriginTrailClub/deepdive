@@ -33,11 +33,11 @@ NeuroWebAI:
 
 If you choose to stake on the Neuro network, add it to your Metamask  manually with the info below
 
-| Network name        | Gnosis                                           |
-| ------------------- | ------------------------------------------------ |
-| **RPC URL**         | [https://1rpc.io/gnosis](https://1rpc.io/gnosis) |
-| **Chain ID**        | 100                                              |
-| **Currency symbol** | XDAI                                             |
+| Network name        | NeuroWeb                                                                                                     |
+| ------------------- | ------------------------------------------------                                                             |
+| **RPC URL**         | [https://astrosat-parachain-rpc.origin-trail.network/](https://astrosat-parachain-rpc.origin-trail.network/) |
+| **Chain ID**        | 2043                                                                                                         |
+| **Currency symbol** | NEURO                                                                                                        |
 Add Neuro TRAC on MetaMask by importing this contract address. You will see your Gnosis TRAC once you complete Step 3.&#x20;
 
 ```
