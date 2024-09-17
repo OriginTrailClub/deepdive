@@ -44,11 +44,11 @@ Add Gnosis TRAC on MetaMask by importing this contract address. You will see you
 
 If you choose to stake on the NeuroWeb AI network, add it to your Metamask manually with the info below
 
-| Network name        | NeuroWeb                                                                                                     |
+| Network name        | NeuroWeb Mainnet                                                                                             |
 | ------------------- | ------------------------------------------------------------------------------------------------------------ |
 | **RPC URL**         | [https://astrosat-parachain-rpc.origin-trail.network/](https://astrosat-parachain-rpc.origin-trail.network/) |
 | **Chain ID**        | 2043                                                                                                         |
-| **Currency symbol** | NEURO                                                                                                        |
+| **Currency symbol** | MNEURO                                                                                                       |
 
 Add Neuro TRAC on MetaMask by importing this contract address. You will see your Neuro TRAC once you complete Step 3.
 
