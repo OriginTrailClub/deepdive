@@ -1,5 +1,5 @@
 ---
-description: 'Last updated: 2024-02-15'
+description: 'Last updated: 2024-09-15'
 ---
 
 # Gnosis setup
